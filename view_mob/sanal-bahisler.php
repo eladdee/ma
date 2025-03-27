@@ -2,442 +2,373 @@
    <div class="OperatorSlider Slider SliderSwipe">
       <section class="slider" aria-label="carousel-slider" role="region" tabindex="0" style="box-sizing: border-box; display: block; height: inherit; position: relative; width: 100%;">
          <div class="slider-frame" style="box-sizing: border-box; display: block; margin: 0px; overflow: hidden; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(0px, 0px, 0px);">
-            <div class="slider-list" style="box-sizing: border-box; cursor: pointer; display: block; height: 232px; margin: 0px; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(-1290px, 0px, 0px); width: auto; transition: all;">
-               <div class="slider-slide" aria-label="slide 1 of 26" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 0px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+            <div class="slider-list" style="box-sizing: border-box; cursor: pointer; display: block; height: 232px; margin: 0px; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(-1720px, 0px, 0px); width: auto; transition: all;">
+               <div class="slider-slide" aria-label="slide 1 of 22" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 0px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                   <div class="SliderItem">
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/promotions#17668">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/08/e598a160-casino-mobil.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/08/87bca794-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/08/384b54f2-casino-desktop.png">
+                              <source srcset="/stateless-matbet-one/2025/03/619b9887-4-casino-tablet.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2025/03/619b9887-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2025/03/b3a69858-3-casino-desktop.png">
                               <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
                   </div>
                </div>
-               <div class="slider-slide" aria-label="slide 2 of 26" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+               <div class="slider-slide" aria-label="slide 2 of 22" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                   <div class="SliderItem">
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/promotions#23656">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/07/70ed8e43-casino-mobil.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/07/8a16e57d-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/07/3b60f630-casino-desktop.png">
+                              <source srcset="/stateless-matbet-one/2025/03/a6fd5d2f-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2025/03/874fa073-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2025/03/604f4f78-3-casino-desktop.png">
                               <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
                   </div>
                </div>
-               <div class="slider-slide" aria-label="slide 3 of 26" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+               <div class="slider-slide" aria-label="slide 3 of 22" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                   <div class="SliderItem">
-                     <h3 class="Subtitle"> </h3>
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/tournaments/all">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/03/b705bb6e-casinoslider_turnuvacasino-mobil.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/03/7fb7763c-casinoslider_turnuvacasino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/03/e242b4e8-casinoslider_turnuvacasino-desktop.png">
+                              <source srcset="/stateless-matbet-one/2025/03/4376a87d-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2025/03/e416b87f-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2025/03/677fbab7-3-casino-desktop.png">
                               <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
                   </div>
                </div>
-               <div class="slider-slide slide-visible slide-current" aria-label="slide 4 of 26" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+               <div class="slider-slide" aria-label="slide 4 of 22" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-matbet-one/2025/03/2e0b5d49-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2025/03/9cd6d3f2-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2025/03/0677ef1d-3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide slide-visible slide-current" aria-label="slide 5 of 22" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-matbet-one/2025/03/2cb853f9-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2025/03/4068f313-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2025/03/eca2a643-3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 6 of 22" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-matbet-one/2025/03/22d12060-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2025/03/a9c704f8-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2025/03/17eef89e-3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 7 of 22" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-matbet-one/2025/03/f811a73f-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2025/03/9ed21ca9-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2025/03/c7d3f118-3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-matbet-one/2025/03/c7d3f118-3-casino-desktop.png" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 8 of 22" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-matbet-one/2025/03/64bedb9e-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2025/03/98bc5ec3-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2025/03/c5d18843-3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-matbet-one/2025/03/c5d18843-3-casino-desktop.png" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 9 of 22" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-matbet-one/2025/03/7c58fecf-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2025/03/f06b8256-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2025/03/634afeab-3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-matbet-one/2025/03/634afeab-3-casino-desktop.png" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 10 of 22" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-matbet-one/2025/03/43980b61-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2025/03/2091a0fa-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2025/03/4807ddf3-3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-matbet-one/2025/03/4807ddf3-3-casino-desktop.png" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 11 of 22" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 4300px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-matbet-one/2025/03/a149e221-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2025/03/1ca06eb9-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2025/03/6ed6e565-3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 12 of 22" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 4730px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-matbet-one/2025/03/f26a04b1-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2025/03/f1a5a020-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2025/03/76ecdd34-3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 13 of 22" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 5160px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-matbet-one/2025/03/7096a2cb-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2025/03/3321ee4c-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2025/03/eea1940d-3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 14 of 22" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 5590px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-matbet-one/2025/03/61f34fa3-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2025/03/28c6c8b7-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2025/03/d7f42485-3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 15 of 22" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 6020px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-matbet-one/2025/03/6e5a50b2-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2025/03/c539a3d2-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2025/03/a73152f3-3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 16 of 22" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-matbet-one/2025/02/7428c6b0-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2025/02/8fbf34ea-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2025/02/1437ef6e-3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 17 of 22" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-matbet-one/2024/02/b1eae4e1-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2024/02/ef8a491f-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2024/02/e75d11fc-3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 18 of 22" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="/stateless-matbet-one/2025/02/7cefa338-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2025/02/935d8615-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2025/02/95a4ce05-3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-matbet-one/2025/02/95a4ce05-3-casino-desktop.png" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 19 of 22" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                   <div class="SliderItem">
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
                      <figure class="Figure ComponentPicture ">
                         <picture class="Picture">
-                           <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2023/06/e8562665-casino-mobil.png" media="(max-width:450px)">
-                           <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2023/06/9b23bcef-casino-tablet.png" media="(max-width:875px)">
-                           <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2023/06/6b6dba5d-casino-desktop.png">
-                           <img loading="lazy" alt="" class="PictureImg LazyImage">
+                           <source srcset="/stateless-matbet-one/2025/01/84ff5e02-5-casino-mobile.png" media="(max-width:450px)">
+                           <source srcset="/stateless-matbet-one/2025/01/b1c49d7d-4-casino-tablet.png" media="(max-width:875px)">
+                           <source srcset="/stateless-matbet-one/2025/01/94541e71-3-casino-desktop.png">
+                           <img loading="lazy" alt="" data-src="/stateless-matbet-one/2025/01/94541e71-3-casino-desktop.png" class="PictureImg LazyImage">
                         </picture>
                      </figure>
                   </div>
                </div>
-               <div class="slider-slide" aria-label="slide 5 of 26" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+               <div class="slider-slide" aria-label="slide 20 of 22" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                   <div class="SliderItem">
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/pragmatic-play:the-dog-house-–-royal-hunt-73036/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-play">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/05/bab679cc-casinoslidermobile-2.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/05/c3b1ef09-casinoslidertablet-2.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/05/cacd78f4-casinosliderdesktop-scaled.jpg">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.pusulabet880.com/stateless-pusulabet-one/2024/05/cacd78f4-casinosliderdesktop-scaled.jpg" class="PictureImg LazyImage">
+                              <source srcset="/stateless-matbet-one/2024/12/6b5a73a1-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2024/12/e3e08a79-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2024/12/b002dadc-3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-matbet-one/2024/12/b002dadc-3-casino-desktop.png" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
                   </div>
                </div>
-               <div class="slider-slide" aria-label="slide 6 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+               <div class="slider-slide" aria-label="slide 21 of 22" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                   <div class="SliderItem">
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/pragmatic-play:wisdom-of-athena-1000-68605/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-play">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/867cbfa0-casino-mobil-35.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/b0222c8b-casino-tablet-34.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/6435944c-casino-desktop-35.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/6435944c-casino-desktop-35.png" class="PictureImg LazyImage">
+                              <source srcset="/stateless-matbet-one/2024/07/a4bd287e-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2024/07/12f975ab-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2024/07/218ee0dc-3-casino-desktop.png">
+                              <img loading="lazy" alt="" anchor="[object Object]" data-src="/stateless-matbet-one/2024/07/218ee0dc-3-casino-desktop.png" class="PictureImg LazyImage">
                            </picture>
                         </figure>
                      </a>
                   </div>
                </div>
-               <div class="slider-slide" aria-label="slide 7 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+               <div class="slider-slide" aria-label="slide 22 of 22" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                   <div class="SliderItem">
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/egt-digital">
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="#" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/07/0b87953a-casino-mobil.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/07/bdf2a65c-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/07/5dd3abe1-casino-desktop.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.pusulabet880.com/stateless-pusulabet-one/2024/07/5dd3abe1-casino-desktop.png" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 8 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/aviatrix:aviatrix-63695/?prevRoute=%2Fcasino%2Fcat%2Faviatrix">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/05/2ef3075e-casino-mobil-32.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/05/5fc5bfde-casino-tablet-31.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/05/76e3c2b2-casino-desktop-32.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.pusulabet880.com/stateless-pusulabet-one/2024/05/76e3c2b2-casino-desktop-32.png" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 9 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/pragmatic-play:sweet-baklava-71150/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-play">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2023/12/c706caf0-casino-mobil.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2023/12/4077a848-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2023/12/d7a0af03-casino-desktop.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.pusulabet880.com/stateless-pusulabet-one/2023/12/d7a0af03-casino-desktop.png" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 10 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/promotions#18064">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/07/e2a647ab-pusula-tur-casino-slidercasino-mobil-5.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/07/37e06988-pusula-tur-casino-slidercasino-tablet-5.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/07/8b6677d0-pusula-tur-casino-slidercasino-desktop-5.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.pusulabet880.com/stateless-pusulabet-one/2024/07/8b6677d0-pusula-tur-casino-slidercasino-desktop-5.png" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 11 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 4300px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/promotions#23311">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/06/77a76e7b-pusula-casino-slidercasino-mobil-2.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/06/caf2788a-pusula-casino-slidercasino-tablet-2.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/06/8c353e44-pusula-casino-slidercasino-desktop-2.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.pusulabet880.com/stateless-pusulabet-one/2024/06/8c353e44-pusula-casino-slidercasino-desktop-2.png" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 12 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 4730px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/pragmatic-play:gates-of-olympus-xmas-1000-70416/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic-play">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/06/f4fbff13-casino-mobil-45.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/06/39735494-casino-tablet-44.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/06/1e3599c2-casino-desktop-45.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.pusulabet880.com/stateless-pusulabet-one/2024/06/1e3599c2-casino-desktop-45.png" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 13 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 5160px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/spin-gifts">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/06/dfd2d93d-pusula-tur-casino-slidercasino-mobil-18.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/06/0bafa07f-pusula-tur-casino-slidercasino-tablet-18.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/06/aeee6747-pusula-tur-casino-slidercasino-desktop-18.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.pusulabet880.com/stateless-pusulabet-one/2024/06/aeee6747-pusula-tur-casino-slidercasino-desktop-18.png" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 14 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 5590px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/live-casino/games/evolution:crazy-balls-69733014651/?prevRoute=%2Flive-casino%2Fcat%2Fevolution">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/05/2b1e941b-casino-mobil-41.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/05/6f2919b1-casino-tablet-40.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/05/2c2b92dd-casino-desktop-41.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.pusulabet880.com/stateless-pusulabet-one/2024/05/2c2b92dd-casino-desktop-41.png" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 15 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 6020px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/live-casino/games/pragmatic-live:immersive-roulette-deluxe-71852011926/?prevRoute=%2Flive-casino%2Fcat%2Fpragmatic-live">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/28832f60-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/1bf2b3c8-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/49f1c9c9-casinosliderdesktop.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/49f1c9c9-casinosliderdesktop.png" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 16 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 6450px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/live-casino/games/evolution:lightning-storm-66412096713/?prevRoute=%2Flive-casino%2Fcat%2Fevolution">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/07/830b725c-casino-mobil-17.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/07/7439ede7-casino-tablet-16.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/07/344f6316-casino-desktop-17.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 17 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -4300px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/hacksaw:sticky-candyland-71995/?prevRoute=%2Fcasino%2Fcat%2Fhacksaw">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/05/378115a2-casinoslidermobile-1.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/05/a4dbde9c-casinoslidertablet-1.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/05/4c26be25-casinosliderdesktop-1.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 18 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/promotions#20440">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/01/d5e49dfb-casino-mobil.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/01/c56fa68f-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/01/bd9c7dba-casino-desktop.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 19 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/promotions#12250">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/01/2f28d601-pusula-haz-smartsoft-tur-casino-slidercasino-mobil.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/01/9fef8429-pusula-haz-smartsoft-tur-casino-slidercasino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/01/ee874044-pusula-haz-smartsoft-tur-casino-slidercasino-desktop.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 20 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/evoplay:star-guardians-44429/?prevRoute=%2Fcasino%2Fcat%2Fevoplay">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/f18fe90c-casino-mobil-34.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/eb3715c7-casino-tablet-33.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/7cbbb37c-casino-desktop-34.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 21 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/pragmatic-jackpot-play">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/da48428b-casino-mobil-26.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/354f952e-casino-tablet-26.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/73bbe94d-casino-desktop-29.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/73bbe94d-casino-desktop-29.png" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 22 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/live-casino/games/evolution:deal-or-no-deal-69483034414/?prevRoute=%2Flive-casino%2Fcat%2Fevolution">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/95d274a8-casino-mobil-40.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/fb92c7f4-casino-tablet-39.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/6f927c5e-casino-desktop-40.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/6f927c5e-casino-desktop-40.png" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 23 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/promotions#23387">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2023/07/6ec53079-pusula-casino-slidercasino-mobil.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2023/07/0a42f02c-pusula-casino-slidercasino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2023/07/27be1191-pusula-casino-slidercasino-desktop.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.pusulabet880.com/stateless-pusulabet-one/2023/07/27be1191-pusula-casino-slidercasino-desktop.png" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 24 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/promotions#21699">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/dbf96cf2-pusula-tur-casino-slidercasino-mobil-1.jpg" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/b05b1479-pusula-tur-casino-slidercasino-tablet-1.jpg" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/c0faa933-pusula-tur-casino-slidercasino-desktop-1.jpg">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/c0faa933-pusula-tur-casino-slidercasino-desktop-1.jpg" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 25 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/promotions#19780">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/06434533-pusula-tur-casino-slidercasino-mobil-1.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/5962575c-pusula-tur-casino-slidercasino-tablet-1.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/5d5e141b-pusula-tur-casino-slidercasino-desktop-1.png">
-                              <img loading="lazy" alt="" anchor="[object Object]" data-src="https://www.pusulabet880.com/stateless-pusulabet-one/2024/02/5d5e141b-pusula-tur-casino-slidercasino-desktop-1.png" class="PictureImg LazyImage">
-                           </picture>
-                        </figure>
-                     </a>
-                  </div>
-               </div>
-               <div class="slider-slide" aria-label="slide 26 of 26" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
-                  <div class="SliderItem">
-                     <div class="Description">
-                        <p>&nbsp;</p>
-                     </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/promotions#20715">
-                        <figure class="Figure ComponentPicture ">
-                           <picture class="Picture">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/03/614d827b-pusula-tur-casino-slidercasino-mobil-2.png" media="(max-width:450px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/03/c6ba1530-pusula-tur-casino-slidercasino-tablet-2.png" media="(max-width:875px)">
-                              <source srcset="https://www.pusulabet880.com/stateless-pusulabet-one/2024/03/b08061dc-pusula-tur-casino-slidercasino-desktop-2.png">
+                              <source srcset="/stateless-matbet-one/2021/11/305b2cfd-5-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-matbet-one/2021/11/7726dc9d-4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-matbet-one/2021/11/6c5946a4-3-casino-desktop.png">
                               <img loading="lazy" alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -478,12 +409,8 @@
                   <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
                   <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
                   <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
                   <li class="ListItem IsActiveSlide"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
-                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
-                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
-                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
-                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
-                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
                   <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
                   <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
                   <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
@@ -512,7 +439,7 @@
    </div>
    <div class="StickyPlaceholder StickyPlaceholderHeaderMenu">
       <div id="StickyMenuElement" class="ComponentSticky InstanceOperatorCasinoSticky StickyWrapper StickyWrapperHeaderMenu 
-         IsSticky">
+         ">
          <section class="OperatorSticky InstanceOperatorSearchfieldWrapper ComponentLayout Layout">
             <div class="OperatorCasinoCategoriesWrapper">
                <div class="HorizontalScrollWrapper">
@@ -529,675 +456,810 @@
                   </button>
                   <div class="HorizontalScrollBar ComponentLayout NewCatScroll">
                      <ul class="ExtraCategories ComponentList InstanceOperatorHomeExtraList List ListUnordered">
-                        <li class="ListItem"><a class="ComponentAnchor  Anchor" href="/tr/casino"><span class="AnchorText">Lobi</span></a></li>
-                        <li class="ListItem"><a class="ComponentAnchor  Anchor" href="/tr/favorites"><span class="AnchorText">Favoriler</span><span class="ComponentFavoriteGamesTotal FavoriteGamesNumber InstanceFavGamesTotalNo">0</span></a></li>
+                        <li class="ListItem"><a class="ComponentAnchor  Anchor" href="#" onclick="loginorpay()"><span class="AnchorText">Lobi</span></a></li>
+                        <li class="ListItem"><a class="ComponentAnchor  Anchor" href="#" onclick="loginorpay()"><span class="AnchorText">Favoriler</span><span class="ComponentFavoriteGamesTotal FavoriteGamesNumber InstanceFavGamesTotalNo">0</span></a></li>
                      </ul>
                      <nav class="OperatorCasinoCategories ComponentGameCategories InstanceCasino GameNavContainer OperatorCasino">
                         <div class="GameCategoriesSwipe">
                            <ul class="GameCategories Loaded CategoriesList HorizontalScrollBar List ListUnordered">
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Popüler Oyunlar" id="CategoryList-Popüler-Oyunlar" href="/tr/casino/cat/popüler-oyunlar">
-                                    <div class="CategoryNameContainer" id="CategoryList-Popüler-Oyunlar-Text">Popüler Oyunlar</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Matbet Jackpot" id="CategoryList-Matbet-Jackpot" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Matbet-Jackpot-Text">Matbet Jackpot</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TOP 20 CASINO" id="CategoryList-TOP-20-CASINO" href="/tr/casino/cat/top-20-casino">
-                                    <div class="CategoryNameContainer" id="CategoryList-TOP-20-CASINO-Text">TOP 20 CASINO</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Top 20 Casino" id="CategoryList-Top-20-Casino" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Top-20-Casino-Text">Top 20 Casino</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yeni Oyunlar" id="CategoryList-Yeni-Oyunlar" href="/tr/casino/cat/yeni-oyunlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Matbet'e Özel Turnuva" id="CategoryList-Matbet'e-Özel-Turnuva" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Matbet'e-Özel-Turnuva-Text">Matbet'e Özel Turnuva</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Haftanın En Sevilen Oyunları" id="CategoryList-Haftanın-En-Sevilen-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Haftanın-En-Sevilen-Oyunları-Text">Haftanın En Sevilen Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Turnuva Oyunları" id="CategoryList-Turnuva-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Turnuva-Oyunları-Text">Turnuva Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Bonanza Bayramı" id="CategoryList-Bonanza-Bayramı" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Bonanza-Bayramı-Text">Bonanza Bayramı</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yeni Oyunlar" id="CategoryList-Yeni-Oyunlar" href="#" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Yeni-Oyunlar-Text">Yeni Oyunlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Pragmatic Play" id="CategoryList-Pragmatic-Play" href="/tr/casino/cat/pragmatic-play">
-                                    <div class="CategoryNameContainer" id="CategoryList-Pragmatic-Play-Text">Pragmatic Play</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="FREESPIN SATIN AL" id="CategoryList-FREESPIN-SATIN-AL" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-FREESPIN-SATIN-AL-Text">FREESPIN SATIN AL</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EGT Digital" id="CategoryList-EGT-Digital" href="/tr/casino/cat/egt-digital">
-                                    <div class="CategoryNameContainer" id="CategoryList-EGT-Digital-Text">EGT Digital</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Pragmatic" id="CategoryList-Pragmatic" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Pragmatic-Text">Pragmatic</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Pragmatic Jackpot Play" id="CategoryList-Pragmatic-Jackpot-Play" href="/tr/casino/cat/pragmatic-jackpot-play">
-                                    <div class="CategoryNameContainer" id="CategoryList-Pragmatic-Jackpot-Play-Text">Pragmatic Jackpot Play</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EGT Amusnet" id="CategoryList-EGT-Amusnet" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-EGT-Amusnet-Text">EGT Amusnet</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EGT (Amusnet)" id="CategoryList-EGT-(Amusnet)" href="/tr/casino/cat/egt-(amusnet)">
-                                    <div class="CategoryNameContainer" id="CategoryList-EGT-(Amusnet)-Text">EGT (Amusnet)</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="20.000.000 TL Turnuva Oyunları" id="CategoryList-20.000.000-TL-Turnuva-Oyunları" href="/tr/casino/cat/20.000.000-tl-turnuva-oyunları">
-                                    <div class="CategoryNameContainer" id="CategoryList-20.000.000-TL-Turnuva-Oyunları-Text">20.000.000 TL Turnuva Oyunları</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="NetEnt" id="CategoryList-NetEnt" href="/tr/casino/cat/netent">
-                                    <div class="CategoryNameContainer" id="CategoryList-NetEnt-Text">NetEnt</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Hacksaw" id="CategoryList-Hacksaw" href="/tr/casino/cat/hacksaw">
-                                    <div class="CategoryNameContainer" id="CategoryList-Hacksaw-Text">Hacksaw</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yggdrasil" id="CategoryList-Yggdrasil" href="/tr/casino/cat/yggdrasil">
-                                    <div class="CategoryNameContainer" id="CategoryList-Yggdrasil-Text">Yggdrasil</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PlaynGO" id="CategoryList-PlaynGO" href="/tr/casino/cat/playngo">
-                                    <div class="CategoryNameContainer" id="CategoryList-PlaynGO-Text">PlaynGO</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Amatic" id="CategoryList-Amatic" href="/tr/casino/cat/amatic">
-                                    <div class="CategoryNameContainer" id="CategoryList-Amatic-Text">Amatic</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Novomatic" id="CategoryList-Novomatic" href="/tr/casino/cat/novomatic">
-                                    <div class="CategoryNameContainer" id="CategoryList-Novomatic-Text">Novomatic</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Playson" id="CategoryList-Playson" href="/tr/casino/cat/playson">
-                                    <div class="CategoryNameContainer" id="CategoryList-Playson-Text">Playson</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="ThreeOaks" id="CategoryList-ThreeOaks" href="/tr/casino/cat/threeoaks">
-                                    <div class="CategoryNameContainer" id="CategoryList-ThreeOaks-Text">ThreeOaks</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RelaxGaming" id="CategoryList-RelaxGaming" href="/tr/casino/cat/relaxgaming">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RelaxGaming" id="CategoryList-RelaxGaming" href="#" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-RelaxGaming-Text">RelaxGaming</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Aperion" id="CategoryList-Aperion" href="/tr/casino/cat/aperion">
-                                    <div class="CategoryNameContainer" id="CategoryList-Aperion-Text">Aperion</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PlaynGO" id="CategoryList-PlaynGO" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-PlaynGO-Text">PlaynGO</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Aviatrix" id="CategoryList-Aviatrix" href="/tr/casino/cat/aviatrix">
-                                    <div class="CategoryNameContainer" id="CategoryList-Aviatrix-Text">Aviatrix</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Drops&amp;Wins" id="CategoryList-Drops&amp;Wins" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Drops&amp;Wins-Text">Drops&amp;Wins</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="FREESPİN SATIN AL" id="CategoryList-FREESPİN-SATIN-AL" href="/tr/casino/cat/freespi̇n-satin-al">
-                                    <div class="CategoryNameContainer" id="CategoryList-FREESPİN-SATIN-AL-Text">FREESPİN SATIN AL</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Hızlı Kazan" id="CategoryList-Hızlı-Kazan" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Hızlı-Kazan-Text">Hızlı Kazan</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spin Gifts" id="CategoryList-Spin-Gifts" href="/tr/casino/cat/spin-gifts">
-                                    <div class="CategoryNameContainer" id="CategoryList-Spin-Gifts-Text">Spin Gifts</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Zar Slotlar" id="CategoryList-Zar-Slotlar" href="/tr/casino/cat/zar-slotlar">
-                                    <div class="CategoryNameContainer" id="CategoryList-Zar-Slotlar-Text">Zar Slotlar</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="MEGAWAYS SLOTLAR" id="CategoryList-MEGAWAYS-SLOTLAR" href="/tr/casino/cat/megaways-slotlar">
-                                    <div class="CategoryNameContainer" id="CategoryList-MEGAWAYS-SLOTLAR-Text">MEGAWAYS SLOTLAR</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yükseldikce Kazan" id="CategoryList-Yükseldikce-Kazan" href="/tr/casino/cat/yükseldikce-kazan">
-                                    <div class="CategoryNameContainer" id="CategoryList-Yükseldikce-Kazan-Text">Yükseldikce Kazan</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="10 Kuruş Slotlar" id="CategoryList-10-Kuruş-Slotlar" href="/tr/casino/cat/10-kuruş-slotlar">
-                                    <div class="CategoryNameContainer" id="CategoryList-10-Kuruş-Slotlar-Text">10 Kuruş Slotlar</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Mobil Oyunlar" id="CategoryList-Mobil-Oyunlar" href="/tr/casino/cat/mobil-oyunlar">
-                                    <div class="CategoryNameContainer" id="CategoryList-Mobil-Oyunlar-Text">Mobil Oyunlar</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="AleaPlay" id="CategoryList-AleaPlay" href="/tr/casino/cat/aleaplay">
-                                    <div class="CategoryNameContainer" id="CategoryList-AleaPlay-Text">AleaPlay</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="AspectGames" id="CategoryList-AspectGames" href="/tr/casino/cat/aspectgames">
-                                    <div class="CategoryNameContainer" id="CategoryList-AspectGames-Text">AspectGames</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BoomingGames" id="CategoryList-BoomingGames" href="/tr/casino/cat/boominggames">
-                                    <div class="CategoryNameContainer" id="CategoryList-BoomingGames-Text">BoomingGames</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BFGAMES" id="CategoryList-BFGAMES" href="/tr/casino/cat/bfgames">
-                                    <div class="CategoryNameContainer" id="CategoryList-BFGAMES-Text">BFGAMES</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BetSoft" id="CategoryList-BetSoft" href="/tr/casino/cat/betsoft">
-                                    <div class="CategoryNameContainer" id="CategoryList-BetSoft-Text">BetSoft</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Betixon" id="CategoryList-Betixon" href="/tr/casino/cat/betixon">
-                                    <div class="CategoryNameContainer" id="CategoryList-Betixon-Text">Betixon</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BGaming" id="CategoryList-BGaming" href="/tr/casino/cat/bgaming">
-                                    <div class="CategoryNameContainer" id="CategoryList-BGaming-Text">BGaming</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Boldplay" id="CategoryList-Boldplay" href="/tr/casino/cat/boldplay">
-                                    <div class="CategoryNameContainer" id="CategoryList-Boldplay-Text">Boldplay</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BinGORDO" id="CategoryList-BinGORDO" href="/tr/casino/cat/bingordo">
-                                    <div class="CategoryNameContainer" id="CategoryList-BinGORDO-Text">BinGORDO</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BeterLive" id="CategoryList-BeterLive" href="/tr/casino/cat/beterlive">
-                                    <div class="CategoryNameContainer" id="CategoryList-BeterLive-Text">BeterLive</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BigTimeGaming" id="CategoryList-BigTimeGaming" href="/tr/casino/cat/bigtimegaming">
-                                    <div class="CategoryNameContainer" id="CategoryList-BigTimeGaming-Text">BigTimeGaming</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BRAGG" id="CategoryList-BRAGG" href="/tr/casino/cat/bragg">
-                                    <div class="CategoryNameContainer" id="CategoryList-BRAGG-Text">BRAGG</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Caleta" id="CategoryList-Caleta" href="/tr/casino/cat/caleta">
-                                    <div class="CategoryNameContainer" id="CategoryList-Caleta-Text">Caleta</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="CT Gaming" id="CategoryList-CT-Gaming" href="/tr/casino/cat/ct-gaming">
-                                    <div class="CategoryNameContainer" id="CategoryList-CT-Gaming-Text">CT Gaming</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EGT Dice Oyunları" id="CategoryList-EGT-Dice-Oyunları" href="/tr/casino/cat/egt-dice-oyunları">
-                                    <div class="CategoryNameContainer" id="CategoryList-EGT-Dice-Oyunları-Text">EGT Dice Oyunları</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Edict" id="CategoryList-Edict" href="/tr/casino/cat/edict">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Edict" id="CategoryList-Edict" href="#" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Edict-Text">Edict</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Evoplay" id="CategoryList-Evoplay" href="/tr/casino/cat/evoplay">
-                                    <div class="CategoryNameContainer" id="CategoryList-Evoplay-Text">Evoplay</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="NetEnt" id="CategoryList-NetEnt" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-NetEnt-Text">NetEnt</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Eurasiangaming" id="CategoryList-Eurasiangaming" href="/tr/casino/cat/eurasiangaming">
-                                    <div class="CategoryNameContainer" id="CategoryList-Eurasiangaming-Text">Eurasiangaming</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EGT Digital" id="CategoryList-EGT-Digital" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-EGT-Digital-Text">EGT Digital</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EspressoGames" id="CategoryList-EspressoGames" href="/tr/casino/cat/espressogames">
-                                    <div class="CategoryNameContainer" id="CategoryList-EspressoGames-Text">EspressoGames</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Aperion" id="CategoryList-Aperion" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Aperion-Text">Aperion</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Endorphina" id="CategoryList-Endorphina" href="/tr/casino/cat/endorphina">
-                                    <div class="CategoryNameContainer" id="CategoryList-Endorphina-Text">Endorphina</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Atari Oyunlari" id="CategoryList-Atari-Oyunlari" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Atari-Oyunlari-Text">Atari Oyunlari</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Fugaso" id="CategoryList-Fugaso" href="/tr/casino/cat/fugaso">
-                                    <div class="CategoryNameContainer" id="CategoryList-Fugaso-Text">Fugaso</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Amatic" id="CategoryList-Amatic" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Amatic-Text">Amatic</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Fazi" id="CategoryList-Fazi" href="/tr/casino/cat/fazi">
-                                    <div class="CategoryNameContainer" id="CategoryList-Fazi-Text">Fazi</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Antik Mısır Oyunları" id="CategoryList-Antik-Mısır-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Antik-Mısır-Oyunları-Text">Antik Mısır Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="FantasmaGames" id="CategoryList-FantasmaGames" href="/tr/casino/cat/fantasmagames">
-                                    <div class="CategoryNameContainer" id="CategoryList-FantasmaGames-Text">FantasmaGames</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="AleaPlay" id="CategoryList-AleaPlay" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-AleaPlay-Text">AleaPlay</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="FlipLuck" id="CategoryList-FlipLuck" href="/tr/casino/cat/flipluck">
-                                    <div class="CategoryNameContainer" id="CategoryList-FlipLuck-Text">FlipLuck</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="ApolloGames" id="CategoryList-ApolloGames" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-ApolloGames-Text">ApolloGames</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="GamesKingdom" id="CategoryList-GamesKingdom" href="/tr/casino/cat/gameskingdom">
-                                    <div class="CategoryNameContainer" id="CategoryList-GamesKingdom-Text">GamesKingdom</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Arcadem" id="CategoryList-Arcadem" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Arcadem-Text">Arcadem</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Galaxsys" id="CategoryList-Galaxsys" href="/tr/casino/cat/galaxsys">
-                                    <div class="CategoryNameContainer" id="CategoryList-Galaxsys-Text">Galaxsys</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="AspectGames" id="CategoryList-AspectGames" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-AspectGames-Text">AspectGames</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="GamingCorps" id="CategoryList-GamingCorps" href="/tr/casino/cat/gamingcorps">
-                                    <div class="CategoryNameContainer" id="CategoryList-GamingCorps-Text">GamingCorps</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="AvatarUx" id="CategoryList-AvatarUx" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-AvatarUx-Text">AvatarUx</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Gamzix" id="CategoryList-Gamzix" href="/tr/casino/cat/gamzix">
-                                    <div class="CategoryNameContainer" id="CategoryList-Gamzix-Text">Gamzix</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Gamomat" id="CategoryList-Gamomat" href="/tr/casino/cat/gamomat">
-                                    <div class="CategoryNameContainer" id="CategoryList-Gamomat-Text">Gamomat</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="GameArt" id="CategoryList-GameArt" href="/tr/casino/cat/gameart">
-                                    <div class="CategoryNameContainer" id="CategoryList-GameArt-Text">GameArt</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="GoldenRace" id="CategoryList-GoldenRace" href="/tr/casino/cat/goldenrace">
-                                    <div class="CategoryNameContainer" id="CategoryList-GoldenRace-Text">GoldenRace</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Genii" id="CategoryList-Genii" href="/tr/casino/cat/genii">
-                                    <div class="CategoryNameContainer" id="CategoryList-Genii-Text">Genii</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Gamevy" id="CategoryList-Gamevy" href="/tr/casino/cat/gamevy">
-                                    <div class="CategoryNameContainer" id="CategoryList-Gamevy-Text">Gamevy</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="GoldenHero" id="CategoryList-GoldenHero" href="/tr/casino/cat/goldenhero">
-                                    <div class="CategoryNameContainer" id="CategoryList-GoldenHero-Text">GoldenHero</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="4ThePlayer" id="CategoryList-4ThePlayer" href="/tr/casino/cat/4theplayer">
-                                    <div class="CategoryNameContainer" id="CategoryList-4ThePlayer-Text">4ThePlayer</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Hölle Games" id="CategoryList-Hölle-Games" href="/tr/casino/cat/hölle-games">
-                                    <div class="CategoryNameContainer" id="CategoryList-Hölle-Games-Text">Hölle Games</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Habanero" id="CategoryList-Habanero" href="/tr/casino/cat/habanero">
-                                    <div class="CategoryNameContainer" id="CategoryList-Habanero-Text">Habanero</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="High5Games" id="CategoryList-High5Games" href="/tr/casino/cat/high5games">
-                                    <div class="CategoryNameContainer" id="CategoryList-High5Games-Text">High5Games</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="IronDogStudio" id="CategoryList-IronDogStudio" href="/tr/casino/cat/irondogstudio">
-                                    <div class="CategoryNameContainer" id="CategoryList-IronDogStudio-Text">IronDogStudio</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="iMoon" id="CategoryList-iMoon" href="/tr/casino/cat/imoon">
-                                    <div class="CategoryNameContainer" id="CategoryList-iMoon-Text">iMoon</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kajot" id="CategoryList-Kajot" href="/tr/casino/cat/kajot">
-                                    <div class="CategoryNameContainer" id="CategoryList-Kajot-Text">Kajot</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kalamba" id="CategoryList-Kalamba" href="/tr/casino/cat/kalamba">
-                                    <div class="CategoryNameContainer" id="CategoryList-Kalamba-Text">Kalamba</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="KA Gaming" id="CategoryList-KA-Gaming" href="/tr/casino/cat/ka-gaming">
-                                    <div class="CategoryNameContainer" id="CategoryList-KA-Gaming-Text">KA Gaming</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kiron" id="CategoryList-Kiron" href="/tr/casino/cat/kiron">
-                                    <div class="CategoryNameContainer" id="CategoryList-Kiron-Text">Kiron</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="LEAP" id="CategoryList-LEAP" href="/tr/casino/cat/leap">
-                                    <div class="CategoryNameContainer" id="CategoryList-LEAP-Text">LEAP</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Microgaming" id="CategoryList-Microgaming" href="/tr/casino/cat/microgaming">
-                                    <div class="CategoryNameContainer" id="CategoryList-Microgaming-Text">Microgaming</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="MaxWinGaming" id="CategoryList-MaxWinGaming" href="/tr/casino/cat/maxwingaming">
-                                    <div class="CategoryNameContainer" id="CategoryList-MaxWinGaming-Text">MaxWinGaming</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="MGA" id="CategoryList-MGA" href="/tr/casino/cat/mga">
-                                    <div class="CategoryNameContainer" id="CategoryList-MGA-Text">MGA</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="NolimitCity" id="CategoryList-NolimitCity" href="/tr/casino/cat/nolimitcity">
-                                    <div class="CategoryNameContainer" id="CategoryList-NolimitCity-Text">NolimitCity</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Netgaming" id="CategoryList-Netgaming" href="/tr/casino/cat/netgaming">
-                                    <div class="CategoryNameContainer" id="CategoryList-Netgaming-Text">Netgaming</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="One Touch" id="CategoryList-One-Touch" href="/tr/casino/cat/one-touch">
-                                    <div class="CategoryNameContainer" id="CategoryList-One-Touch-Text">One Touch</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="OneXTwoGaming" id="CategoryList-OneXTwoGaming" href="/tr/casino/cat/onextwogaming">
-                                    <div class="CategoryNameContainer" id="CategoryList-OneXTwoGaming-Text">OneXTwoGaming</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="OnlyPlay" id="CategoryList-OnlyPlay" href="/tr/casino/cat/onlyplay">
-                                    <div class="CategoryNameContainer" id="CategoryList-OnlyPlay-Text">OnlyPlay</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Orbital" id="CategoryList-Orbital" href="/tr/casino/cat/orbital">
-                                    <div class="CategoryNameContainer" id="CategoryList-Orbital-Text">Orbital</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PascalGaming" id="CategoryList-PascalGaming" href="/tr/casino/cat/pascalgaming">
-                                    <div class="CategoryNameContainer" id="CategoryList-PascalGaming-Text">PascalGaming</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Platipus" id="CategoryList-Platipus" href="/tr/casino/cat/platipus">
-                                    <div class="CategoryNameContainer" id="CategoryList-Platipus-Text">Platipus</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PGSoft" id="CategoryList-PGSoft" href="/tr/casino/cat/pgsoft">
-                                    <div class="CategoryNameContainer" id="CategoryList-PGSoft-Text">PGSoft</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PopOK" id="CategoryList-PopOK" href="/tr/casino/cat/popok">
-                                    <div class="CategoryNameContainer" id="CategoryList-PopOK-Text">PopOK</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Quickspin" id="CategoryList-Quickspin" href="/tr/casino/cat/quickspin">
-                                    <div class="CategoryNameContainer" id="CategoryList-Quickspin-Text">Quickspin</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RubyPlay" id="CategoryList-RubyPlay" href="/tr/casino/cat/rubyplay">
-                                    <div class="CategoryNameContainer" id="CategoryList-RubyPlay-Text">RubyPlay</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Red Tiger" id="CategoryList-Red-Tiger" href="/tr/casino/cat/red-tiger">
-                                    <div class="CategoryNameContainer" id="CategoryList-Red-Tiger-Text">Red Tiger</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RevolverGaming" id="CategoryList-RevolverGaming" href="/tr/casino/cat/revolvergaming">
-                                    <div class="CategoryNameContainer" id="CategoryList-RevolverGaming-Text">RevolverGaming</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RedRake" id="CategoryList-RedRake" href="/tr/casino/cat/redrake">
-                                    <div class="CategoryNameContainer" id="CategoryList-RedRake-Text">RedRake</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Rival" id="CategoryList-Rival" href="/tr/casino/cat/rival">
-                                    <div class="CategoryNameContainer" id="CategoryList-Rival-Text">Rival</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="S7777 Gaming" id="CategoryList-S7777-Gaming" href="/tr/casino/cat/s7777-gaming">
-                                    <div class="CategoryNameContainer" id="CategoryList-S7777-Gaming-Text">S7777 Gaming</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="SevenMojos" id="CategoryList-SevenMojos" href="/tr/casino/cat/sevenmojos">
-                                    <div class="CategoryNameContainer" id="CategoryList-SevenMojos-Text">SevenMojos</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spearhead" id="CategoryList-Spearhead" href="/tr/casino/cat/spearhead">
-                                    <div class="CategoryNameContainer" id="CategoryList-Spearhead-Text">Spearhead</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="SwitchStudios" id="CategoryList-SwitchStudios" href="/tr/casino/cat/switchstudios">
-                                    <div class="CategoryNameContainer" id="CategoryList-SwitchStudios-Text">SwitchStudios</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spinmatic" id="CategoryList-Spinmatic" href="/tr/casino/cat/spinmatic">
-                                    <div class="CategoryNameContainer" id="CategoryList-Spinmatic-Text">Spinmatic</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spinomenal" id="CategoryList-Spinomenal" href="/tr/casino/cat/spinomenal">
-                                    <div class="CategoryNameContainer" id="CategoryList-Spinomenal-Text">Spinomenal</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="SlotMatrix" id="CategoryList-SlotMatrix" href="/tr/casino/cat/slotmatrix">
-                                    <div class="CategoryNameContainer" id="CategoryList-SlotMatrix-Text">SlotMatrix</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Slotmill" id="CategoryList-Slotmill" href="/tr/casino/cat/slotmill">
-                                    <div class="CategoryNameContainer" id="CategoryList-Slotmill-Text">Slotmill</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spade Gaming" id="CategoryList-Spade-Gaming" href="/tr/casino/cat/spade-gaming">
-                                    <div class="CategoryNameContainer" id="CategoryList-Spade-Gaming-Text">Spade Gaming</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Swintt" id="CategoryList-Swintt" href="/tr/casino/cat/swintt">
-                                    <div class="CategoryNameContainer" id="CategoryList-Swintt-Text">Swintt</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spribe" id="CategoryList-Spribe" href="/tr/casino/cat/spribe">
-                                    <div class="CategoryNameContainer" id="CategoryList-Spribe-Text">Spribe</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="SmartSoft" id="CategoryList-SmartSoft" href="/tr/casino/cat/smartsoft">
-                                    <div class="CategoryNameContainer" id="CategoryList-SmartSoft-Text">SmartSoft</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spinoro" id="CategoryList-Spinoro" href="/tr/casino/cat/spinoro">
-                                    <div class="CategoryNameContainer" id="CategoryList-Spinoro-Text">Spinoro</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TaDaGaming" id="CategoryList-TaDaGaming" href="/tr/casino/cat/tadagaming">
-                                    <div class="CategoryNameContainer" id="CategoryList-TaDaGaming-Text">TaDaGaming</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Tiger Games" id="CategoryList-Tiger-Games" href="/tr/casino/cat/tiger-games">
-                                    <div class="CategoryNameContainer" id="CategoryList-Tiger-Games-Text">Tiger Games</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Thunderkick" id="CategoryList-Thunderkick" href="/tr/casino/cat/thunderkick">
-                                    <div class="CategoryNameContainer" id="CategoryList-Thunderkick-Text">Thunderkick</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Tomhorn" id="CategoryList-Tomhorn" href="/tr/casino/cat/tomhorn">
-                                    <div class="CategoryNameContainer" id="CategoryList-Tomhorn-Text">Tomhorn</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Triple Cherry" id="CategoryList-Triple-Cherry" href="/tr/casino/cat/triple-cherry">
-                                    <div class="CategoryNameContainer" id="CategoryList-Triple-Cherry-Text">Triple Cherry</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="VibraGaming" id="CategoryList-VibraGaming" href="/tr/casino/cat/vibragaming">
-                                    <div class="CategoryNameContainer" id="CategoryList-VibraGaming-Text">VibraGaming</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Vivo" id="CategoryList-Vivo" href="/tr/casino/cat/vivo">
-                                    <div class="CategoryNameContainer" id="CategoryList-Vivo-Text">Vivo</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Wazdan" id="CategoryList-Wazdan" href="/tr/casino/cat/wazdan">
-                                    <div class="CategoryNameContainer" id="CategoryList-Wazdan-Text">Wazdan</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="UrgentGames" id="CategoryList-UrgentGames" href="/tr/casino/cat/urgentgames">
-                                    <div class="CategoryNameContainer" id="CategoryList-UrgentGames-Text">UrgentGames</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="World Match" id="CategoryList-World-Match" href="/tr/casino/cat/world-match">
-                                    <div class="CategoryNameContainer" id="CategoryList-World-Match-Text">World Match</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Tombala &amp; Sanal" id="CategoryList-Tombala-&amp;-Sanal" href="/tr/casino/cat/tombala-&amp;-sanal">
-                                    <div class="CategoryNameContainer" id="CategoryList-Tombala-&amp;-Sanal-Text">Tombala &amp; Sanal</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TurboGames" id="CategoryList-TurboGames" href="/tr/casino/cat/turbogames">
-                                    <div class="CategoryNameContainer" id="CategoryList-TurboGames-Text">TurboGames</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Betsolutions" id="CategoryList-Betsolutions" href="/tr/casino/cat/betsolutions">
-                                    <div class="CategoryNameContainer" id="CategoryList-Betsolutions-Text">Betsolutions</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kazı Kazan Oyunları" id="CategoryList-Kazı-Kazan-Oyunları" href="/tr/casino/cat/kazı-kazan-oyunları">
-                                    <div class="CategoryNameContainer" id="CategoryList-Kazı-Kazan-Oyunları-Text">Kazı Kazan Oyunları</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor IsActive Anchor" title="Sanal Sporlar" id="CategoryList-Sanal-Sporlar" href="/tr/casino/cat/sanal-sporlar">
-                                    <div class="CategoryNameContainer" id="CategoryList-Sanal-Sporlar-Text">Sanal Sporlar</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Canlı Oyunlar" id="CategoryList-Canlı-Oyunlar" href="/tr/casino/cat/canlı-oyunlar">
-                                    <div class="CategoryNameContainer" id="CategoryList-Canlı-Oyunlar-Text">Canlı Oyunlar</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Jackpot Slotlar" id="CategoryList-Jackpot-Slotlar" href="/tr/casino/cat/jackpot-slotlar">
-                                    <div class="CategoryNameContainer" id="CategoryList-Jackpot-Slotlar-Text">Jackpot Slotlar</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Rulet" id="CategoryList-Rulet" href="/tr/casino/cat/rulet">
-                                    <div class="CategoryNameContainer" id="CategoryList-Rulet-Text">Rulet</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Blackjack" id="CategoryList-Blackjack" href="/tr/casino/cat/blackjack">
-                                    <div class="CategoryNameContainer" id="CategoryList-Blackjack-Text">Blackjack</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Masa Oyunları" id="CategoryList-Masa-Oyunları" href="/tr/casino/cat/masa-oyunları">
-                                    <div class="CategoryNameContainer" id="CategoryList-Masa-Oyunları-Text">Masa Oyunları</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Masa ve Kart Oyunu" id="CategoryList-Masa-ve-Kart-Oyunu" href="/tr/casino/cat/masa-ve-kart-oyunu">
-                                    <div class="CategoryNameContainer" id="CategoryList-Masa-ve-Kart-Oyunu-Text">Masa ve Kart Oyunu</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Canlı Casino" id="CategoryList-Canlı-Casino" href="/tr/casino/cat/canlı-casino">
-                                    <div class="CategoryNameContainer" id="CategoryList-Canlı-Casino-Text">Canlı Casino</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Atari Oyunları" id="CategoryList-Atari-Oyunları" href="/tr/casino/cat/atari-oyunları">
-                                    <div class="CategoryNameContainer" id="CategoryList-Atari-Oyunları-Text">Atari Oyunları</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Western-Kovboy Oyunları" id="CategoryList-Western-Kovboy-Oyunları" href="/tr/casino/cat/western-kovboy-oyunları">
-                                    <div class="CategoryNameContainer" id="CategoryList-Western-Kovboy-Oyunları-Text">Western-Kovboy Oyunları</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kitap Oyunları" id="CategoryList-Kitap-Oyunları" href="/tr/casino/cat/kitap-oyunları">
-                                    <div class="CategoryNameContainer" id="CategoryList-Kitap-Oyunları-Text">Kitap Oyunları</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kadınlar Kulübü" id="CategoryList-Kadınlar-Kulübü" href="/tr/casino/cat/kadınlar-kulübü">
-                                    <div class="CategoryNameContainer" id="CategoryList-Kadınlar-Kulübü-Text">Kadınlar Kulübü</div>
-                                 </a>
-                              </li>
-                              <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Balıkçılık ve Avcılık" id="CategoryList-Balıkçılık-ve-Avcılık" href="/tr/casino/cat/balıkçılık-ve-avcılık">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Balıkçılık ve Avcılık" id="CategoryList-Balıkçılık-ve-Avcılık" href="#" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Balıkçılık-ve-Avcılık-Text">Balıkçılık ve Avcılık</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Viking Oyunları" id="CategoryList-Viking-Oyunları" href="/tr/casino/cat/viking-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BetSoft" id="CategoryList-BetSoft" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-BetSoft-Text">BetSoft</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Betixon" id="CategoryList-Betixon" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Betixon-Text">Betixon</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BF Games" id="CategoryList-BF-Games" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-BF-Games-Text">BF Games</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BGaming" id="CategoryList-BGaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-BGaming-Text">BGaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BigTimeGaming" id="CategoryList-BigTimeGaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-BigTimeGaming-Text">BigTimeGaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BinGORDO" id="CategoryList-BinGORDO" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-BinGORDO-Text">BinGORDO</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Boldplay" id="CategoryList-Boldplay" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Boldplay-Text">Boldplay</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Boominggames" id="CategoryList-Boominggames" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Boominggames-Text">Boominggames</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Cadılar Bayramı" id="CategoryList-Cadılar-Bayramı" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Cadılar-Bayramı-Text">Cadılar Bayramı</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Caleta" id="CategoryList-Caleta" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Caleta-Text">Caleta</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="CasinoTechnology" id="CategoryList-CasinoTechnology" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-CasinoTechnology-Text">CasinoTechnology</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Cüce Cin Oyunları" id="CategoryList-Cüce-Cin-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Cüce-Cin-Oyunları-Text">Cüce Cin Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Denizcilik Oyunları" id="CategoryList-Denizcilik-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Denizcilik-Oyunları-Text">Denizcilik Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Değerli Taşlar" id="CategoryList-Değerli-Taşlar" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Değerli-Taşlar-Text">Değerli Taşlar</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Dövüş Oyunları" id="CategoryList-Dövüş-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Dövüş-Oyunları-Text">Dövüş Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Endorphina" id="CategoryList-Endorphina" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Endorphina-Text">Endorphina</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Erkekler Kulubu" id="CategoryList-Erkekler-Kulubu" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Erkekler-Kulubu-Text">Erkekler Kulubu</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EspressoGames" id="CategoryList-EspressoGames" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-EspressoGames-Text">EspressoGames</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Etnik Oyunlar" id="CategoryList-Etnik-Oyunlar" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Etnik-Oyunlar-Text">Etnik Oyunlar</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="EurasianGaming" id="CategoryList-EurasianGaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-EurasianGaming-Text">EurasianGaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Evoplay" id="CategoryList-Evoplay" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Evoplay-Text">Evoplay</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="FantasmaGames" id="CategoryList-FantasmaGames" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-FantasmaGames-Text">FantasmaGames</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Fazi" id="CategoryList-Fazi" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Fazi-Text">Fazi</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="FlipLuck" id="CategoryList-FlipLuck" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-FlipLuck-Text">FlipLuck</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Fugaso" id="CategoryList-Fugaso" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Fugaso-Text">Fugaso</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="GameArt" id="CategoryList-GameArt" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-GameArt-Text">GameArt</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="GamesKingdom" id="CategoryList-GamesKingdom" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-GamesKingdom-Text">GamesKingdom</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Gamevy" id="CategoryList-Gamevy" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Gamevy-Text">Gamevy</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Gamomat" id="CategoryList-Gamomat" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Gamomat-Text">Gamomat</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Gamzix" id="CategoryList-Gamzix" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Gamzix-Text">Gamzix</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Genii" id="CategoryList-Genii" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Genii-Text">Genii</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Goblin Oyunları" id="CategoryList-Goblin-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Goblin-Oyunları-Text">Goblin Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="GoldenHero" id="CategoryList-GoldenHero" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-GoldenHero-Text">GoldenHero</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Habanero" id="CategoryList-Habanero" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Habanero-Text">Habanero</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Hacksaw" id="CategoryList-Hacksaw" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Hacksaw-Text">Hacksaw</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Hayvanlar Alemi Oyunları" id="CategoryList-Hayvanlar-Alemi-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Hayvanlar-Alemi-Oyunları-Text">Hayvanlar Alemi Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Hazine Oyunları" id="CategoryList-Hazine-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Hazine-Oyunları-Text">Hazine Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="High5Games" id="CategoryList-High5Games" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-High5Games-Text">High5Games</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="HoelleGames" id="CategoryList-HoelleGames" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-HoelleGames-Text">HoelleGames</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="iMoon" id="CategoryList-iMoon" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-iMoon-Text">iMoon</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="IronDogStudio" id="CategoryList-IronDogStudio" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-IronDogStudio-Text">IronDogStudio</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Jackpot Slotlar" id="CategoryList-Jackpot-Slotlar" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Jackpot-Slotlar-Text">Jackpot Slotlar</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Joker Oyunları" id="CategoryList-Joker-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Joker-Oyunları-Text">Joker Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="JVL" id="CategoryList-JVL" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-JVL-Text">JVL</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kadınlar Kulubu" id="CategoryList-Kadınlar-Kulubu" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Kadınlar-Kulubu-Text">Kadınlar Kulubu</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="KA Gaming" id="CategoryList-KA-Gaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-KA-Gaming-Text">KA Gaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kalamba" id="CategoryList-Kalamba" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Kalamba-Text">Kalamba</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kazı Kazan Oyunları" id="CategoryList-Kazı-Kazan-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Kazı-Kazan-Oyunları-Text">Kazı Kazan Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kış Oyunları" id="CategoryList-Kış-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Kış-Oyunları-Text">Kış Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kitap Oyunları" id="CategoryList-Kitap-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Kitap-Oyunları-Text">Kitap Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Kiron Sanal" id="CategoryList-Kiron-Sanal" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Kiron-Sanal-Text">Kiron Sanal</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Korku Oyunları" id="CategoryList-Korku-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Korku-Oyunları-Text">Korku Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="LEAP" id="CategoryList-LEAP" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-LEAP-Text">LEAP</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Macera Oyunları" id="CategoryList-Macera-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Macera-Oyunları-Text">Macera Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Masa Oyunları" id="CategoryList-Masa-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Masa-Oyunları-Text">Masa Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="MaxWinGaming" id="CategoryList-MaxWinGaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-MaxWinGaming-Text">MaxWinGaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Megaways™ Slotlar" id="CategoryList-Megaways™-Slotlar" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Megaways™-Slotlar-Text">Megaways™ Slotlar</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Meyveli Oyunlar" id="CategoryList-Meyveli-Oyunlar" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Meyveli-Oyunlar-Text">Meyveli Oyunlar</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="MGA" id="CategoryList-MGA" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-MGA-Text">MGA</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Microgaming" id="CategoryList-Microgaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Microgaming-Text">Microgaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Mistik Oyunlar" id="CategoryList-Mistik-Oyunlar" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Mistik-Oyunlar-Text">Mistik Oyunlar</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Mitolojik Oyunlar" id="CategoryList-Mitolojik-Oyunlar" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Mitolojik-Oyunlar-Text">Mitolojik Oyunlar</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Mobil Oyunlar" id="CategoryList-Mobil-Oyunlar" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Mobil-Oyunlar-Text">Mobil Oyunlar</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="NetGaming" id="CategoryList-NetGaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-NetGaming-Text">NetGaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="NolimitCity" id="CategoryList-NolimitCity" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-NolimitCity-Text">NolimitCity</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Novomatic" id="CategoryList-Novomatic" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Novomatic-Text">Novomatic</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="OneSpin4Win" id="CategoryList-OneSpin4Win" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-OneSpin4Win-Text">OneSpin4Win</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="OneTouch" id="CategoryList-OneTouch" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-OneTouch-Text">OneTouch</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Onlyplay" id="CategoryList-Onlyplay" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Onlyplay-Text">Onlyplay</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="OpenRGS" id="CategoryList-OpenRGS" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-OpenRGS-Text">OpenRGS</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Orbital" id="CategoryList-Orbital" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Orbital-Text">Orbital</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Orman Oyunları" id="CategoryList-Orman-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Orman-Oyunları-Text">Orman Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="ORYXGaming" id="CategoryList-ORYXGaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-ORYXGaming-Text">ORYXGaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Paskalya Oyunları" id="CategoryList-Paskalya-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Paskalya-Oyunları-Text">Paskalya Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PascalGaming" id="CategoryList-PascalGaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-PascalGaming-Text">PascalGaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Quickspin" id="CategoryList-Quickspin" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Quickspin-Text">Quickspin</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PeterSons" id="CategoryList-PeterSons" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-PeterSons-Text">PeterSons</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PGSoft" id="CategoryList-PGSoft" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-PGSoft-Text">PGSoft</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Platipus" id="CategoryList-Platipus" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Platipus-Text">Platipus</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Playson" id="CategoryList-Playson" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Playson-Text">Playson</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PopOK" id="CategoryList-PopOK" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-PopOK-Text">PopOK</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RedRake" id="CategoryList-RedRake" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-RedRake-Text">RedRake</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RedTigerGaming" id="CategoryList-RedTigerGaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-RedTigerGaming-Text">RedTigerGaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="ReelPlay" id="CategoryList-ReelPlay" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-ReelPlay-Text">ReelPlay</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="ReflexGaming" id="CategoryList-ReflexGaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-ReflexGaming-Text">ReflexGaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RevolverGaming" id="CategoryList-RevolverGaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-RevolverGaming-Text">RevolverGaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="RetroGaming" id="CategoryList-RetroGaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-RetroGaming-Text">RetroGaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Rival" id="CategoryList-Rival" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Rival-Text">Rival</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="SalsaTech" id="CategoryList-SalsaTech" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-SalsaTech-Text">SalsaTech</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Slotmill" id="CategoryList-Slotmill" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Slotmill-Text">Slotmill</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor IsActive Anchor" title="Sanal Sporlar" id="CategoryList-Sanal-Sporlar" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Sanal-Sporlar-Text">Sanal Sporlar</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="SmartSoft" id="CategoryList-SmartSoft" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-SmartSoft-Text">SmartSoft</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="SpadeGaming" id="CategoryList-SpadeGaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-SpadeGaming-Text">SpadeGaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spearhead" id="CategoryList-Spearhead" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Spearhead-Text">Spearhead</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spinomenal" id="CategoryList-Spinomenal" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Spinomenal-Text">Spinomenal</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spor Slotlar" id="CategoryList-Spor-Slotlar" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Spor-Slotlar-Text">Spor Slotlar</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Spribe" id="CategoryList-Spribe" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Spribe-Text">Spribe</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Survivor Slotları" id="CategoryList-Survivor-Slotları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Survivor-Slotları-Text">Survivor Slotları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Swintt" id="CategoryList-Swintt" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Swintt-Text">Swintt</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="S7777Gaming" id="CategoryList-S7777Gaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-S7777Gaming-Text">S7777Gaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Şekerleme ve Pastacılık Oyunları" id="CategoryList-Şekerleme-ve-Pastacılık-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Şekerleme-ve-Pastacılık-Oyunları-Text">Şekerleme ve Pastacılık Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Thunderkick" id="CategoryList-Thunderkick" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Thunderkick-Text">Thunderkick</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TaDaGaming" id="CategoryList-TaDaGaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-TaDaGaming-Text">TaDaGaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TigerGames" id="CategoryList-TigerGames" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-TigerGames-Text">TigerGames</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Tombala &amp; Sanal" id="CategoryList-Tombala-&amp;-Sanal" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Tombala-&amp;-Sanal-Text">Tombala &amp; Sanal</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Tomhorn" id="CategoryList-Tomhorn" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Tomhorn-Text">Tomhorn</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TurboGames" id="CategoryList-TurboGames" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-TurboGames-Text">TurboGames</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TrippleCherry" id="CategoryList-TrippleCherry" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-TrippleCherry-Text">TrippleCherry</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Tropikal Oyunlar" id="CategoryList-Tropikal-Oyunlar" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Tropikal-Oyunlar-Text">Tropikal Oyunlar</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="UrgentGames" id="CategoryList-UrgentGames" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-UrgentGames-Text">UrgentGames</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Uzak Doğu Oyunları" id="CategoryList-Uzak-Doğu-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Uzak-Doğu-Oyunları-Text">Uzak Doğu Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Uzay Oyunları" id="CategoryList-Uzay-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Uzay-Oyunları-Text">Uzay Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Vahşi Batı Oyunları" id="CategoryList-Vahşi-Batı-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Vahşi-Batı-Oyunları-Text">Vahşi Batı Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Vahşi Doğa Oyunları" id="CategoryList-Vahşi-Doğa-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Vahşi-Doğa-Oyunları-Text">Vahşi Doğa Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Vampir Oyunları" id="CategoryList-Vampir-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Vampir-Oyunları-Text">Vampir Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="VibraGaming" id="CategoryList-VibraGaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-VibraGaming-Text">VibraGaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Viking Oyunları" id="CategoryList-Viking-Oyunları" href="#" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Viking-Oyunları-Text">Viking Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yunan Mitoloji Oyunları" id="CategoryList-Yunan-Mitoloji-Oyunları" href="/tr/casino/cat/yunan-mitoloji-oyunları">
-                                    <div class="CategoryNameContainer" id="CategoryList-Yunan-Mitoloji-Oyunları-Text">Yunan Mitoloji Oyunları</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Wazdan" id="CategoryList-Wazdan" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Wazdan-Text">Wazdan</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Mısır Antik Oyunları" id="CategoryList-Mısır-Antik-Oyunları" href="/tr/casino/cat/mısır-antik-oyunları">
-                                    <div class="CategoryNameContainer" id="CategoryList-Mısır-Antik-Oyunları-Text">Mısır Antik Oyunları</div>
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="WinFast" id="CategoryList-WinFast" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-WinFast-Text">WinFast</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="WorldMatch" id="CategoryList-WorldMatch" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-WorldMatch-Text">WorldMatch</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yaz Oyunları" id="CategoryList-Yaz-Oyunları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Yaz-Oyunları-Text">Yaz Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yılbaşı Slotları" id="CategoryList-Yılbaşı-Slotları" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Yılbaşı-Slotları-Text">Yılbaşı Slotları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yggdrasil" id="CategoryList-Yggdrasil" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Yggdrasil-Text">Yggdrasil</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Zarlı Slotlar" id="CategoryList-Zarlı-Slotlar" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Zarlı-Slotlar-Text">Zarlı Slotlar</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="10 Kuruş Slotlar" id="CategoryList-10-Kuruş-Slotlar" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-10-Kuruş-Slotlar-Text">10 Kuruş Slotlar</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="1x2 Gaming" id="CategoryList-1x2-Gaming" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-1x2-Gaming-Text">1x2 Gaming</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="3oaks" id="CategoryList-3oaks" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-3oaks-Text">3oaks</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="4ThePlayer" id="CategoryList-4ThePlayer" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-4ThePlayer-Text">4ThePlayer</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="7Mojos" id="CategoryList-7Mojos" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-7Mojos-Text">7Mojos</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Canlı Oyunlar" id="CategoryList-Canlı-Oyunlar" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Canlı-Oyunlar-Text">Canlı Oyunlar</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Rulet" id="CategoryList-Rulet" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Rulet-Text">Rulet</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Blackjack" id="CategoryList-Blackjack" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-Blackjack-Text">Blackjack</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="VIVO" id="CategoryList-VIVO" href="#" onclick="loginorpay()">
+                                    <div class="CategoryNameContainer" id="CategoryList-VIVO-Text">VIVO</div>
                                  </a>
                               </li>
                            </ul>
@@ -1242,7 +1304,7 @@
       </div>
    </div>
    <div class="GameCategoriesWrapper">
-      <h1 class="ComponentTitle InstanceCasinoCategoryTitle Title">90 Sanal Sporlar</h1>
+      <h1 class="ComponentTitle InstanceCasinoCategoryTitle Title">65 Sanal Sporlar</h1>
       <section class="ComponentGameListGrid InstanceGeneralGameListGrid GamesList GamesListGrid CasinoGames MsnRow">
          <div class="GamesWrapper VerticalMobileLayout">
             <div class="ToggleTagsButtonWrapper">
@@ -1263,16 +1325,42 @@
                </button>
             </div>
             <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
-               <li class="ListGame ListItem" data-game-id="43810">
+               <li class="ListGame ListItem WithGameTags" data-game-id="73204">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Spin and Win" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/0/09A8C0C5679432EB4E2C46AD3CEBE86B.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Spin and Win !" href="/tr/casino/games/sanal-sporlar:spin-and-win-43810/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Virtual Greek - League" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/0/06DCD4D9AD7FCCE3D1B035D982C08DB2.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Virtual Greek - League !" href="#" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Spin and Win</h3>
+                           <h3 class="GameTitle" itemprop="name">Virtual Greek - League</h3>
+                           <div class="GameTags">
+                              <div class="GameProp NewGame NewGameRibbon">YENİ</div>
+                           </div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="72123">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Virtual Spanish League" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/C/C97CBCD064F04E591C11DF84F2119896.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Virtual Spanish League !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Virtual Spanish League</h3>
                            <div class="GameTags"></div>
                         </div>
                         <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
@@ -1287,16 +1375,16 @@
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="44845">
+               <li class="ListGame ListItem" data-game-id="69731">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Fashion TV Nations League" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/F/F15525DC89FD7F8C42D321BE55C1C067.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Fashion TV Nations League !" href="/tr/casino/games/sanal-sporlar:fashion-tv-nations-league-44845/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Horses Streak - The Jumps" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/1/10BFF1F1CD83121DE694FBB8967DDC89.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Horses Streak - The Jumps !" href="#" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Fashion TV Nations League</h3>
+                           <h3 class="GameTitle" itemprop="name">Horses Streak - The Jumps</h3>
                            <div class="GameTags"></div>
                         </div>
                         <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
@@ -1311,16 +1399,16 @@
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="36876">
+               <li class="ListGame ListItem" data-game-id="68763">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Virtual Golf" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/2/2BC496C5C43D847C705AC5A5A7BFB064.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Virtual Golf !" href="/tr/casino/games/sanal-sporlar:virtual-golf-36876/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Football Streak Legends" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/2/29D2E3F8A24B4B4F1B2A8AA04BA6CD50.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Football Streak Legends !" href="#" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Virtual Golf</h3>
+                           <h3 class="GameTitle" itemprop="name">Football Streak Legends</h3>
                            <div class="GameTags"></div>
                         </div>
                         <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
@@ -1335,16 +1423,16 @@
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="36925">
+               <li class="ListGame ListItem" data-game-id="64502">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Greyhounds" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/5/57F7C32DDA41B7AB4420472551011D39.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Greyhounds !" href="/tr/casino/games/sanal-sporlar:instant-greyhounds-36925/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Football Cup Euro" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/8/85DE50136402242CB5A7E330808AFC36.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Football Cup Euro !" href="#" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Greyhounds</h3>
+                           <h3 class="GameTitle" itemprop="name">Football Cup Euro</h3>
                            <div class="GameTags"></div>
                         </div>
                         <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
@@ -1359,16 +1447,16 @@
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="36926">
+               <li class="ListGame ListItem" data-game-id="63637">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Horses" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/1/169E3789A797F865DF286E2895E86C2B.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Horses !" href="/tr/casino/games/sanal-sporlar:instant-horses-36926/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Football Streak England" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/5/50DD1072F73AD9B870940AAC527B3CE4.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Football Streak England !" href="#" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Horses</h3>
+                           <h3 class="GameTitle" itemprop="name">Football Streak England</h3>
                            <div class="GameTags"></div>
                         </div>
                         <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
@@ -1383,16 +1471,16 @@
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="36927">
+               <li class="ListGame ListItem" data-game-id="63172">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Racing" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/C/CE3D4C9DA08043A89BE6C9C399012945.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Racing !" href="/tr/casino/games/sanal-sporlar:instant-racing-36927/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Virtual Football League England" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/E/E3D3A611321E143C9933E4415D0BE13A.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Virtual Football League England !" href="#" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Racing</h3>
+                           <h3 class="GameTitle" itemprop="name">Virtual Football League England</h3>
                            <div class="GameTags"></div>
                         </div>
                         <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
@@ -1407,16 +1495,16 @@
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="36928">
+               <li class="ListGame ListItem" data-game-id="53312">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Speedway" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/5/5BA0AFBE1A6741380FD19DF634DD8E5E.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Speedway !" href="/tr/casino/games/sanal-sporlar:instant-speedway-36928/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Hipodrom" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/8/8AF66A4DDCD46AFBD20CB700B507405A.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hipodrom !" href="#" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Speedway</h3>
+                           <h3 class="GameTitle" itemprop="name">Hipodrom</h3>
                            <div class="GameTags"></div>
                         </div>
                         <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
@@ -1431,16 +1519,16 @@
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="41032">
+               <li class="ListGame ListItem" data-game-id="54520">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Fight" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/5/594F5215E669FC45166FA58E65C4F917.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Fight !" href="/tr/casino/games/sanal-sporlar:instant-fight-41032/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Hippodrome Min Crash" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/3/38B9D6A9D782379867DA088248718E7A.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hippodrome Min Crash !" href="#" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Fight</h3>
+                           <h3 class="GameTitle" itemprop="name">Hippodrome Min Crash</h3>
                            <div class="GameTags"></div>
                         </div>
                         <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
@@ -1455,16 +1543,16 @@
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="41031">
+               <li class="ListGame ListItem" data-game-id="51178">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Basket" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/7/72783B95A46AAE9A2A5C55F90E7ACDBB.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Basket !" href="/tr/casino/games/sanal-sporlar:instant-basket-41031/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="World Cup" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/8/8401FD46D96F9A36BD3FA026002A04B8.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna World Cup !" href="#" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Basket</h3>
+                           <h3 class="GameTitle" itemprop="name">World Cup</h3>
                            <div class="GameTags"></div>
                         </div>
                         <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
@@ -1479,184 +1567,16 @@
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="41029">
+               <li class="ListGame ListItem" data-game-id="55525">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Motorbikes" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/1/166637BD4E167A4DC8484CD97BBBB5DC.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Motorbikes !" href="/tr/casino/games/sanal-sporlar:instant-motorbikes-41029/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Virtual English League" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/9/964E17E001B099F969119D8C06DB06E1.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Virtual English League !" href="#" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Motorbikes</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40991">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Colombia League" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/9/9E5D28072093337621546A71D7D1E774.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Colombia League !" href="/tr/casino/games/sanal-sporlar:instant-colombia-league-40991/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Colombia League</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40990">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Mexico League" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/B/BAC8AD3066463BEF6C42DA75C7493AE3.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Mexico League !" href="/tr/casino/games/sanal-sporlar:instant-mexico-league-40990/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Mexico League</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40989">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Germany League" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/9/95B0C2781572BC53F7C621F59DBFAF93.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Germany League !" href="/tr/casino/games/sanal-sporlar:instant-germany-league-40989/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Germany League</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40987">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Spain League" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/1/15C89AF769C44EE298B322226CEF2DFA.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Spain League !" href="/tr/casino/games/sanal-sporlar:instant-spain-league-40987/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Spain League</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40986">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Italy League" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/A/ABA78C5B583905F35892317877CE3D74.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Italy League !" href="/tr/casino/games/sanal-sporlar:instant-italy-league-40986/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Italy League</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="45227">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Ice Hockey League Round - Stars (American)" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/C/CF622F1C10DD0C2B119BAB36A5264114.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Ice Hockey League Round - Stars (American) !" href="/tr/casino/games/sanal-sporlar:ice-hockey-league-round---stars--american--45227/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Ice Hockey League Round - Stars (American)</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="45229">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Goal Football League Round - Italian" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/D/DB64E862C7BF3B45CA07547C91CC0144.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Goal Football League Round - Italian !" href="/tr/casino/games/sanal-sporlar:goal-football-league-round---italian-45229/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Goal Football League Round - Italian</h3>
+                           <h3 class="GameTitle" itemprop="name">Virtual English League</h3>
                            <div class="GameTags"></div>
                         </div>
                         <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
@@ -1674,9 +1594,9 @@
                <li class="ListGame ListItem" data-game-id="45231">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Goal Football League Round - Spanish" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/7/7D795751B8A474E1E2F8B55F4607D33F.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Goal Football League Round - Spanish !" href="/tr/casino/games/sanal-sporlar:goal-football-league-round---spanish-45231/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Goal Football League Round - Spanish" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/7/7D795751B8A474E1E2F8B55F4607D33F.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Goal Football League Round - Spanish !" href="#" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
@@ -1695,1380 +1615,12 @@
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="40283">
+               <li class="ListGame ListItem" data-game-id="45229">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Ice Hockey League" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/6/682BF48911D7E51A5C619310082715D3.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Ice Hockey League !" href="/tr/casino/games/sanal-sporlar:ice-hockey-league-40283/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Ice Hockey League</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="33077">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Color-Color" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/4/410603C95C9DB4EC8FE80FA1E1C1C46D.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/0/0A95C526130629BF9081E1D8CC203C63.png" alt="Globalbet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Color-Color !" href="/tr/casino/games/sanal-sporlar:color-color-33077/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Color-Color</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="12237">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Harness Racing" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/B/B058E9592D24DCE37246DAC915C3D7AB.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Harness Racing !" href="/tr/casino/games/sanal-sporlar:harness-racing-12237/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Harness Racing</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="49337">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="EuroLeague Instant Legends" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/A/A9BB4A4DC0251F6AB567240D51EFF461.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna EuroLeague Instant Legends !" href="/tr/casino/games/sanal-sporlar:euroleague-instant-legends-49337/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">EuroLeague Instant Legends</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="48252">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Greyhounds Streak" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/B/BAEF9AB42A7F746BFA9838F8B94160E8.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Greyhounds Streak !" href="/tr/casino/games/sanal-sporlar:greyhounds-streak-48252/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Greyhounds Streak</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="48253">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Horses Streak" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/F/FF6A2FE28234747F792AD864679438D7.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Horses Streak !" href="/tr/casino/games/sanal-sporlar:horses-streak-48253/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Horses Streak</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="49336">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Nascar Streak" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/D/D27676F84084DD3E1091B61A05B74E8E.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Nascar Streak !" href="/tr/casino/games/sanal-sporlar:nascar-streak-49336/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Nascar Streak</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="36929">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Trotting" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/4/4FE93DBDBDB381B3C45EECC746C64A6E.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Trotting !" href="/tr/casino/games/sanal-sporlar:instant-trotting-36929/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Trotting</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="36930">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Football" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/D/D49FB350C5A84035D1C9EECEEF81BA7D.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Football !" href="/tr/casino/games/sanal-sporlar:instant-football-36930/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Football</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="36931">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Velodrome" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/6/6EB336E5A32935A4FED6762C0E3279C7.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Velodrome !" href="/tr/casino/games/sanal-sporlar:instant-velodrome-36931/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Velodrome</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="36933">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Virtual Tennis" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/B/B19A3470CA412847CAADAD5A34C4C2F7.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Virtual Tennis !" href="/tr/casino/games/sanal-sporlar:virtual-tennis-36933/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Virtual Tennis</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="36934">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Virtual Football" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/5/51CDFF821EAC341123CCA9CF94025DBA.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Virtual Football !" href="/tr/casino/games/sanal-sporlar:virtual-football-36934/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Virtual Football</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="44563">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Poland League" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/8/873421EDEBB53C9F8EC6FD79F471074A.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Poland League !" href="/tr/casino/games/sanal-sporlar:poland-league-44563/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Poland League</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="44562">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Poland League On Demand" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/6/6CE252D3D1D07564BC06618331130C04.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Poland League On Demand !" href="/tr/casino/games/sanal-sporlar:poland-league-on-demand-44562/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Poland League On Demand</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41028">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Motorbikes" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/E/ECD66937633100046BD1ACF39EBC1131.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Motorbikes !" href="/tr/casino/games/sanal-sporlar:motorbikes-41028/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Motorbikes</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41027">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Speedway" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/7/732AFB60804ED312658E7FE58872AA9E.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Speedway !" href="/tr/casino/games/sanal-sporlar:instant-speedway-41027/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Speedway</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41026">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Speedway" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/3/3F5E70E4AD507DAF3855BD6D0ADBC30B.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Speedway !" href="/tr/casino/games/sanal-sporlar:speedway-41026/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Speedway</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41025">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Horse High Odds" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/0/0FE25A2F9B913F5A1FE265E4F266C1DD.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Horse High Odds !" href="/tr/casino/games/sanal-sporlar:instant-horse-high-odds-41025/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Horse High Odds</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41024">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Horses" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/0/0FE25A2F9B913F5A1FE265E4F266C1DD.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Horses !" href="/tr/casino/games/sanal-sporlar:instant-horses-41024/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Horses</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41023">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Horse High Odds" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/D/DB6F9070B0FCD6B9A2B6D07D6D4B0684.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Horse High Odds !" href="/tr/casino/games/sanal-sporlar:horse-high-odds-41023/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Horse High Odds</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41022">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="12 Flat Horse" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/D/DB6F9070B0FCD6B9A2B6D07D6D4B0684.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 12 Flat Horse !" href="/tr/casino/games/sanal-sporlar:12-flat-horse-41022/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">12 Flat Horse</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41021">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="12 Sprint Horse" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/D/DB6F9070B0FCD6B9A2B6D07D6D4B0684.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 12 Sprint Horse !" href="/tr/casino/games/sanal-sporlar:12-sprint-horse-41021/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">12 Sprint Horse</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41020">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant 10 Flat Horse" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/0/0FE25A2F9B913F5A1FE265E4F266C1DD.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant 10 Flat Horse !" href="/tr/casino/games/sanal-sporlar:instant-10-flat-horse-41020/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant 10 Flat Horse</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41019">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant 10 Sprint Horse" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/0/0FE25A2F9B913F5A1FE265E4F266C1DD.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant 10 Sprint Horse !" href="/tr/casino/games/sanal-sporlar:instant-10-sprint-horse-41019/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant 10 Sprint Horse</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41018">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="10 Flat Horse" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/D/DB6F9070B0FCD6B9A2B6D07D6D4B0684.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 10 Flat Horse !" href="/tr/casino/games/sanal-sporlar:10-flat-horse-41018/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">10 Flat Horse</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41017">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="10 Sprint Horse" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/D/DB6F9070B0FCD6B9A2B6D07D6D4B0684.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 10 Sprint Horse !" href="/tr/casino/games/sanal-sporlar:10-sprint-horse-41017/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">10 Sprint Horse</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41016">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant 8 Flat Horse" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/0/0FE25A2F9B913F5A1FE265E4F266C1DD.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant 8 Flat Horse !" href="/tr/casino/games/sanal-sporlar:instant-8-flat-horse-41016/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant 8 Flat Horse</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41015">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant 8 Sprint Horse" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/0/0FE25A2F9B913F5A1FE265E4F266C1DD.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant 8 Sprint Horse !" href="/tr/casino/games/sanal-sporlar:instant-8-sprint-horse-41015/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant 8 Sprint Horse</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41014">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="8 Flat Horse" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/D/DB6F9070B0FCD6B9A2B6D07D6D4B0684.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 8 Flat Horse !" href="/tr/casino/games/sanal-sporlar:8-flat-horse-41014/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">8 Flat Horse</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41013">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="8 Sprint Horse" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/D/DB6F9070B0FCD6B9A2B6D07D6D4B0684.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 8 Sprint Horse !" href="/tr/casino/games/sanal-sporlar:8-sprint-horse-41013/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">8 Sprint Horse</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41012">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Dog6 High Odds" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/9/940C3EFBAD006F156C93938D4464CD46.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Dog6 High Odds !" href="/tr/casino/games/sanal-sporlar:instant-dog6-high-odds-41012/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Dog6 High Odds</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41011">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Dogs" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/9/940C3EFBAD006F156C93938D4464CD46.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Dogs !" href="/tr/casino/games/sanal-sporlar:instant-dogs-41011/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Dogs</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41008">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Keno" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/6/6ED0709B8BF0931A98F69370658244B2.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Keno !" href="/tr/casino/games/sanal-sporlar:instant-keno-41008/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Keno</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41007">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Dog 6 High Odds" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/9/9A0ACE6BBBB533AF1612BF7388A6F5BC.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Dog 6 High Odds !" href="/tr/casino/games/sanal-sporlar:dog-6-high-odds-41007/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Dog 6 High Odds</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41004">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Spin2Win Royale" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/B/B090B6962F9A1EB850AAB4A1B5E92C38.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Spin2Win Royale !" href="/tr/casino/games/sanal-sporlar:instant-spin2win-royale-41004/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Spin2Win Royale</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41002">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Spin2Win" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/2/2526B67215953D02C295F506F22792D5.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Spin2Win !" href="/tr/casino/games/sanal-sporlar:instant-spin2win-41002/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Spin2Win</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="41000">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Keno Deluxe" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/E/EAC656C58B675010CBFEEFA79566B321.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Keno Deluxe !" href="/tr/casino/games/sanal-sporlar:instant-keno-deluxe-41000/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Keno Deluxe</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40998">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant World Cup Tournament" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/C/CE37FC84B05078B7399B4D460BD89A51.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant World Cup Tournament !" href="/tr/casino/games/sanal-sporlar:instant-world-cup-tournament-40998/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant World Cup Tournament</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40995">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Libertadores Tournament" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/1/1272B33EA0A0D1EFC851230B254284A5.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Libertadores Tournament !" href="/tr/casino/games/sanal-sporlar:instant-libertadores-tournament-40995/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Libertadores Tournament</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40994">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Champions Tournament" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/0/0CDE76F28580A77A1296A6DD6F87DF35.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Champions Tournament !" href="/tr/casino/games/sanal-sporlar:instant-champions-tournament-40994/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant Champions Tournament</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40992">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Libertadores Tournament" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/F/F4FA532F425744F0F5EE9920A49FE7E9.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Libertadores Tournament !" href="/tr/casino/games/sanal-sporlar:libertadores-tournament-40992/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Libertadores Tournament</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40985">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Mexico League" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/8/83CFCE474D401A842E31867568399BED.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Mexico League !" href="/tr/casino/games/sanal-sporlar:mexico-league-40985/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Mexico League</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40983">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="England League" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/A/ADEEDAB6B55538EC6CAC8D9CD757857F.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna England League !" href="/tr/casino/games/sanal-sporlar:england-league-40983/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">England League</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40979">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Germany League" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/C/CBCC8F984D2A60CF8FFF76B4FB8ACC18.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Germany League !" href="/tr/casino/games/sanal-sporlar:germany-league-40979/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Germany League</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40978">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Argentina League" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/B/BD010B18560150D5458C7046C32741DE.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Argentina League !" href="/tr/casino/games/sanal-sporlar:argentina-league-40978/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Argentina League</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40977">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Peru League" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/C/C73E52540D0A81F81A97F4A6D1030E00.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Peru League !" href="/tr/casino/games/sanal-sporlar:peru-league-40977/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Peru League</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40976">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Spain League" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/3/351350BAECB0CC57BF58D3BF73F36BBF.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Spain League !" href="/tr/casino/games/sanal-sporlar:spain-league-40976/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Spain League</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40975">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Italy League" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/9/9D42D4258312FFD04F25D6819F255CFB.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Italy League !" href="/tr/casino/games/sanal-sporlar:italy-league-40975/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Italy League</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40824">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Champions Tournament" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/4/440530EDD503842F81925C4CD0790B6E.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Champions Tournament !" href="/tr/casino/games/sanal-sporlar:champions-tournament-40824/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Champions Tournament</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40822">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Horse" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/D/DB6F9070B0FCD6B9A2B6D07D6D4B0684.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Horse !" href="/tr/casino/games/sanal-sporlar:horse-40822/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Horse</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40820">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Dog 6" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/9/9A0ACE6BBBB533AF1612BF7388A6F5BC.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Dog 6 !" href="/tr/casino/games/sanal-sporlar:dog-6-40820/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Dog 6</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="40242">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant England League" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/9/999ECDF714832932AAB28CA150A38CD7.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant England League !" href="/tr/casino/games/sanal-sporlar:instant-england-league-40242/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Instant England League</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="44299">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Football Streak" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/9/925BA90DEF57AC107221C7A014F8E293.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Football Streak !" href="/tr/casino/games/sanal-sporlar:football-streak-44299/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Football Streak</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="33080">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Keno" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/4/4F6102A7AE24816E238A15861097E350.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/0/0A95C526130629BF9081E1D8CC203C63.png" alt="Globalbet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Keno !" href="/tr/casino/games/sanal-sporlar:keno-33080/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Keno</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="33067">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Supercars" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/6/688474492AD2B05BF0643399DA599C7A.optimized.png"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/0/0A95C526130629BF9081E1D8CC203C63.png" alt="Globalbet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Supercars !" href="/tr/casino/games/sanal-sporlar:supercars-33067/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Supercars</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="33065">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Camels" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/8/848BD16CA98B8C3A93096203E614FDE4.optimized.png"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/0/0A95C526130629BF9081E1D8CC203C63.png" alt="Globalbet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Camels !" href="/tr/casino/games/sanal-sporlar:camels-33065/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Camels</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="13017">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Turkish League" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/9/9FD51C21BD0649E79AAE647589901C4F.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/0/0A95C526130629BF9081E1D8CC203C63.png" alt="Globalbet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Turkish League !" href="/tr/casino/games/sanal-sporlar:turkish-league-13017/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Turkish League</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="36789">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Goal Football League Round - Italian" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/D/DB64E862C7BF3B45CA07547C91CC0144.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Goal Football League Round - Italian !" href="/tr/casino/games/sanal-sporlar:goal-football-league-round---italian-36789/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Goal Football League Round - Italian" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/D/DB64E862C7BF3B45CA07547C91CC0144.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Goal Football League Round - Italian !" href="#" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
@@ -3087,16 +1639,16 @@
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="36788">
+               <li class="ListGame ListItem" data-game-id="60053">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Spanish FastLeague Football Match" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/2/2C8F0F862A07D43BD5C399C558E048AC.optimized.png"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Spanish FastLeague Football Match !" href="/tr/casino/games/sanal-sporlar:spanish-fastleague-football-match-36788/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Don't Drop The Ball" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/7/7C486EA944A6F7591F16EA2775F6D435.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Don't Drop The Ball !" href="#" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Spanish FastLeague Football Match</h3>
+                           <h3 class="GameTitle" itemprop="name">Don't Drop The Ball</h3>
                            <div class="GameTags"></div>
                         </div>
                         <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
@@ -3111,16 +1663,16 @@
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="12242">
+               <li class="ListGame ListItem" data-game-id="60052">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Table tennis" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/1/10A5EE5FE460A13712B430F323319D98.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Table tennis !" href="/tr/casino/games/sanal-sporlar:table-tennis-12242/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Final Fist" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/2/2507DBB4E1D7ABAA09E735E06A7BB2C9.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Final Fist !" href="#" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Table tennis</h3>
+                           <h3 class="GameTitle" itemprop="name">Final Fist</h3>
                            <div class="GameTags"></div>
                         </div>
                         <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
@@ -3135,232 +1687,16 @@
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="12240">
+               <li class="ListGame ListItem" data-game-id="60051">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Max Car - Motor Racing" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/4/4FFBF1EE575D761B34E5DAC9CBAD8372.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Max Car - Motor Racing !" href="/tr/casino/games/sanal-sporlar:max-car---motor-racing-12240/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Meteoroid" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/7/71A92785B080ECB721432D13681915A1.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Meteoroid !" href="#" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Max Car - Motor Racing</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="12238">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Goal Football – English" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/1/1F1F39720ACE8C667AC2595C636CEDDE.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Goal Football – English !" href="/tr/casino/games/sanal-sporlar:goal-football-–-english-12238/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Goal Football – English</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="12236">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Horses (Dashing Derby)" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/5/59C9783DA8193E5FD40209F0D99CFC57.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Horses (Dashing Derby) !" href="/tr/casino/games/sanal-sporlar:horses--dashing-derby--12236/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Horses (Dashing Derby)</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="12002">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Dogs (Platinum Hounds)" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/6/6777A788982C24D87302DB16F6D31E2B.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Dogs (Platinum Hounds) !" href="/tr/casino/games/sanal-sporlar:dogs--platinum-hounds--12002/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Dogs (Platinum Hounds)</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="35629">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Steeple Chase" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/D/D5EDC60B169EFC48D9D516E82292714F.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Steeple Chase !" href="/tr/casino/games/sanal-sporlar:steeple-chase-35629/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Steeple Chase</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="34669">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Horse Racing Roulette" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/F/F2E5520BDD1B172E7E4688E352A5D5E8.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Horse Racing Roulette !" href="/tr/casino/games/sanal-sporlar:horse-racing-roulette-34669/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Horse Racing Roulette</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="34667">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Football Hub" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/C/C4348AD1D1B8561B8AB82610253B4833.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Football Hub !" href="/tr/casino/games/sanal-sporlar:football-hub-34667/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Football Hub</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="31754">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Goal Football – Spanish" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/7/7B0BD4B06B75B3AD75490AC30A8E9FC8.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Goal Football – Spanish !" href="/tr/casino/games/sanal-sporlar:goal-football-–-spanish-31754/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Goal Football – Spanish</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="31753">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Goal Football – Italian" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/C/C09A5615D6E76619822454CE4D2FBC0E.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Goal Football – Italian !" href="/tr/casino/games/sanal-sporlar:goal-football-–-italian-31753/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Goal Football – Italian</h3>
-                           <div class="GameTags"></div>
-                        </div>
-                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
-                           <span class="ComponentIcon Icon">
-                              <span class="SvgIcon MainIcon">
-                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
-                                 </svg>
-                              </span>
-                           </span>
-                        </button>
-                     </div>
-                  </div>
-               </li>
-               <li class="ListGame ListItem" data-game-id="30123">
-                  <div class="ListGameLink Anchor">
-                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Goal Football League Round - English" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/F/FAF02EE685DB680A8F3B6C20FEF8AE66.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Goal Football League Round - English !" href="/tr/casino/games/sanal-sporlar:goal-football-league-round---english-30123/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
-                           <div class="GamePlayNowText">Hemen Oyna!</div>
-                        </a>
-                        <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Goal Football League Round - English</h3>
+                           <h3 class="GameTitle" itemprop="name">Meteoroid</h3>
                            <div class="GameTags"></div>
                         </div>
                         <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
@@ -3378,9 +1714,9 @@
                <li class="ListGame ListItem" data-game-id="30122">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Keno (Smart Play Keno)" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/5/5604EEDBEBE3326207CBDF2B4282BECC.jpg"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Keno (Smart Play Keno) !" href="/tr/casino/games/sanal-sporlar:keno--smart-play-keno--30122/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Keno (Smart Play Keno)" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/1/155FDD610241FC5891A1C0C0203D2565.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Keno (Smart Play Keno) !" href="#" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
@@ -3399,16 +1735,1144 @@
                      </div>
                   </div>
                </li>
-               <li class="ListGame ListItem" data-game-id="13016">
+               <li class="ListGame ListItem" data-game-id="60050">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Prerecorded Dogs" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/4/4FD7834E3ABCE7EB0171A7DE5D1461A4.optimized.png"></div>
-                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/0/0A95C526130629BF9081E1D8CC203C63.png" alt="Globalbet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Prerecorded Dogs !" href="/tr/casino/games/sanal-sporlar:prerecorded-dogs-13016/?prevRoute=%2Fcasino%2Fcat%2Fsanal-sporlar">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Bank Run" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/5/5A2E98A252FFCF4AFB488CF6A1A2FB7C.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bank Run !" href="#" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
-                           <h3 class="GameTitle" itemprop="name">Prerecorded Dogs</h3>
+                           <h3 class="GameTitle" itemprop="name">Bank Run</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="44845">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Fashion TV Nations League" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/F/F15525DC89FD7F8C42D321BE55C1C067.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Fashion TV Nations League !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Fashion TV Nations League</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="44563">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Poland League" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/8/873421EDEBB53C9F8EC6FD79F471074A.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Poland League !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Poland League</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="44299">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Football Streak" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/9/925BA90DEF57AC107221C7A014F8E293.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Football Streak !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Football Streak</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="12237">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Harness Racing" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/B/B058E9592D24DCE37246DAC915C3D7AB.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Harness Racing !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Harness Racing</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="40284">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Sanal Avrupa Ligi" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/6/6B9C1367D8737EC17E88175108E63673.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sanal Avrupa Ligi !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Sanal Avrupa Ligi</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="40283">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Buz Hokeyi Ligi" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/2/2432132B198318AFFC0D5F80144A703E.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Buz Hokeyi Ligi !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Buz Hokeyi Ligi</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="40282">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Şanslı Hazine" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/1/1C60811506CD8BE80F1230D06A583B64.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Şanslı Hazine !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Şanslı Hazine</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="13017">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Sanal Türkiye Süperligi" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/0/08C96FB15BF5D1169CF9D55AAC9383AC.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/0/0A95C526130629BF9081E1D8CC203C63.png" alt="Globalbet"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sanal Türkiye Süperligi !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Sanal Türkiye Süperligi</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="44562">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Poland League On Demand" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/6/6CE252D3D1D07564BC06618331130C04.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Poland League On Demand !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Poland League On Demand</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="13016">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Tazı Yarışları" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/E/EABC0ADE6C3B82060D71074BB9F6741A.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/0/0A95C526130629BF9081E1D8CC203C63.png" alt="Globalbet"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Tazı Yarışları !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Tazı Yarışları</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="33065">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Sanal Deve Yarışları" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/3/3B0ABA883D5B9F69C0E038779545EB5E.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/0/0A95C526130629BF9081E1D8CC203C63.png" alt="Globalbet"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sanal Deve Yarışları !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Sanal Deve Yarışları</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="33067">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Sanal Araba Yarışı" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/2/205EA72994D6F702AA047485F4CAA20A.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/0/0A95C526130629BF9081E1D8CC203C63.png" alt="Globalbet"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sanal Araba Yarışı !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Sanal Araba Yarışı</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="33078">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Çevir ve Kazan" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/D/DB9DAD95FD892DEF4E0A37567005AD62.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/0/0A95C526130629BF9081E1D8CC203C63.png" alt="Globalbet"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Çevir ve Kazan !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Çevir ve Kazan</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="33079">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Süper 6" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/E/E4774B24CAF92E1B69038BC0028E901D.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/0/0A95C526130629BF9081E1D8CC203C63.png" alt="Globalbet"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Süper 6 !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Süper 6</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="36934">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Sanal Futbol" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/0/0BF03D64D82ADD3147CAC4C5DC510C3E.optimized.png"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sanal Futbol !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Sanal Futbol</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="36933">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Sanal Tenis" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/9/9965F3405A7AE3AE0BB1812D81E4BB5F.optimized.png"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sanal Tenis !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Sanal Tenis</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="36931">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Anında Veledrom" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/3/3511F3F3DE17E922C40905F871EA6A12.optimized.png"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Anında Veledrom !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Anında Veledrom</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="36930">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Football" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/8/830BE0F048B1EDC952F2B9030E9BCCB0.optimized.png"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Football !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Instant Football</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="36929">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Trotting" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/B0652F07995639B56C00FDC16C7CDE72.optimized.png"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Trotting !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Instant Trotting</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="36928">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Speedway" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/E/E3AE22C0498DADB6FAC96E438CFC72AD.optimized.png"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Speedway !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Instant Speedway</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="36927">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Racing" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/8/81286BB159FC34905AC9E33DFFCE386E.optimized.png"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Racing !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Instant Racing</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="36926">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Horses" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/D/D5BD1010E3E01637FB679B2ED2D4F924.optimized.png"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Horses !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Instant Horses</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="36925">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Instant Greyhounds" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/E/E9E836A085AD125B9717A6181DE1F36F.optimized.png"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Instant Greyhounds !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Instant Greyhounds</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="36876">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Sanal Golf" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/F/FE3589979E881A9073DB93C0A23C1F79.optimized.png"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/8/8F3666E15C53B65051DD1EEB6CCA7755.png" alt="LEAP"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sanal Golf !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Sanal Golf</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="36789">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="İtalya Hızlı Lig Futbol Maçı" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/4/47EBEB2606ED0F70BB455986FAE2134C.jpeg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna İtalya Hızlı Lig Futbol Maçı !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">İtalya Hızlı Lig Futbol Maçı</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="36788">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="İspanya Hızlı Lig Futbol Maçı" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/D/DC09EC9BF78AE758F0ECEE1DF096142A.jpeg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna İspanya Hızlı Lig Futbol Maçı !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">İspanya Hızlı Lig Futbol Maçı</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="33080">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Keno" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/2/208D979AD4B67607F08799B67BDE7815.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/0/0A95C526130629BF9081E1D8CC203C63.png" alt="Globalbet"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Keno !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Keno</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="33077">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Renkler" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/BE8C09204103BBFBB7EDD3547484E0E7.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/0/0A95C526130629BF9081E1D8CC203C63.png" alt="Globalbet"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Renkler !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Renkler</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="14286">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Hızlı Yarışlar" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/D/DD1F3A602DA4ECD34D3E95F88D20F405.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/41823DFA9630A62F7BF685D506F6A2BC.png" alt="OneXTwoGaming"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hızlı Yarışlar !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Hızlı Yarışlar</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="14287">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="At Yarışı" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/D/DC8DFD775242D8F8E540D741826FA033.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/41823DFA9630A62F7BF685D506F6A2BC.png" alt="OneXTwoGaming"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna At Yarışı !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">At Yarışı</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="14288">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Tazı Yarışları" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/6/6E22FCDDEA2D535C987D89304F8DE335.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/41823DFA9630A62F7BF685D506F6A2BC.png" alt="OneXTwoGaming"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Tazı Yarışları !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Tazı Yarışları</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="14289">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Motor Yarışı" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/2/28B2285C4528E137F3DF977E9628F4F8.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/41823DFA9630A62F7BF685D506F6A2BC.png" alt="OneXTwoGaming"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Motor Yarışı !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Motor Yarışı</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="14290">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Bisiklet Yarışı" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/7D64BACEABC4E5C93BCECD56D3A2D1F9.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/41823DFA9630A62F7BF685D506F6A2BC.png" alt="OneXTwoGaming"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bisiklet Yarışı !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Bisiklet Yarışı</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="14291">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="At Arabası" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/BCAAA9832FFD5201C9A6ED6761FA4655.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/41823DFA9630A62F7BF685D506F6A2BC.png" alt="OneXTwoGaming"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna At Arabası !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">At Arabası</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="17115">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Hızlı Futbol" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/8/89273B1F6FCB5233D208FE8438358F09.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/4/41823DFA9630A62F7BF685D506F6A2BC.png" alt="OneXTwoGaming"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Hızlı Futbol !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Hızlı Futbol</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="12002">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Tazı Yarışı" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/0/0E2CEFF0536EE854F9B31C0CD63AF517.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Tazı Yarışı !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Tazı Yarışı</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="12236">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="At Yarışı" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/0/0882989A1E46F39C80297C65CCC8EAB4.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna At Yarışı !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">At Yarışı</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="12238">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Futbol" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/3/36ADC6AD68298E1141D17B6A8AC64095.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Futbol !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Futbol</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="12240">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Araba Yarışı" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/3/3820FB75FC680DAF72A97C167A05288F.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Araba Yarışı !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Araba Yarışı</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="12242">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Masa Tenisi" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/6/6F5A9EA5B1B97141ED6E47CBD28E115D.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Masa Tenisi !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Masa Tenisi</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="30123">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Sanal İngiltere Ligi" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/4/4E63C38A3048BD96AFF80DB137616170.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sanal İngiltere Ligi !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Sanal İngiltere Ligi</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="31753">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Sanal İtalya Ligi" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/E/E8DD540FEF9F3FBA98131521514132AF.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sanal İtalya Ligi !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Sanal İtalya Ligi</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="31754">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Sanal İspanya Ligi" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/F/FC772B051AAD39C3B2C373865E9DBB18.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sanal İspanya Ligi !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Sanal İspanya Ligi</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="34667">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Sanal Futbol" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/A/A556ECA48A92A3829EE1749A2CCDD624.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sanal Futbol !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Sanal Futbol</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="34669">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="At Yarışı Ruleti" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/A/A5F81B808E4AEADBDC2B9BDC29FD9299.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna At Yarışı Ruleti !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">At Yarışı Ruleti</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="15137">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="GoldenRace" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/3/31A37A08CF2274F6397DBAB4ECBEB53C.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/F/F205A65C5C683304EB4D0103CF157897.png" alt="GoldenRace"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna GoldenRace !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">GoldenRace</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="35629">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img loading="lazy" alt="Engelli At Yarışı" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/7DE936B92292BCEDABADC0FEF110EF2A.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/1/10E970EF9A1A30D22E409F88D169FDCC.png" alt="Kiron"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Engelli At Yarışı !" href="#" onclick="loginorpay()">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Engelli At Yarışı</h3>
                            <div class="GameTags"></div>
                         </div>
                         <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
@@ -3428,459 +2892,1161 @@
       </section>
    </div>
    <div class="GamificationFloatingProgress GamificationProgressCard LoyaltyCard">
-      <player-elevate-loyaltycard player-name="" endpoint="https://pusulabet-com.nwacdn.com" session="11b8fa3e-2251-4fd2-bd25-499d824787d2" language="tr" client-styling-url="https://www.pusulabet880.com/static/css/widgets/gamification-card-mobile/style-1.0.590.css" theme="Dark" date-format="yyyy-MM-dd" client-styling="" translation-url="" class="hydrated"></player-elevate-loyaltycard>
+      <player-elevate-loyaltycard player-name="" endpoint="https://matbet.nwacdn.com" session="7f5c0642-be6a-4dd2-bb7e-e3fb0a3b489b" language="tr" client-styling-url="/static/css/widgets/gamification-card-mobile/style-1.0.812.css" theme="Dark" date-format="yyyy-MM-dd" client-styling="" translation-url="" class="hydrated"></player-elevate-loyaltycard>
    </div>
    <div class="RecentWinnersWidget">
       <h2 class="BoxTitle RecentWinnersWidgetTitle"><span>Kazananlar</span></h2>
       <div class="RecentWinnersWidgetContainer Slider SliderSwipe">
          <section class="slider" aria-label="carousel-slider" role="region" tabindex="0" style="box-sizing: border-box; display: block; height: inherit; position: relative; width: 100%;">
-            <div class="slider-frame" style="box-sizing: border-box; display: block;  margin: 0px; overflow: hidden; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(0px, 0px, 0px);">
-               <div class="slider-list" style="box-sizing: border-box; cursor: pointer; display: block; height: 82px; margin: 0px; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(-1924.59px, 0px, 0px); width: auto; transition: all;">
-                  <div class="slider-slide" aria-label="slide 1 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 0px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+            <div class="slider-frame" style="box-sizing: border-box; display: block; margin: 0px; overflow: hidden; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(0px, 0px, 0px);">
+               <div class="slider-list" style="box-sizing: border-box; cursor: pointer; display: block; height: 82px; margin: 0px; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(-3440px, 0px, 0px); width: auto; transition: all;">
+                  <div class="slider-slide" aria-label="slide 1 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 0px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/popüler-oyunlar:bigger-bass-bonanza™-43578/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" class="PictureImg LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/7/74564BB95D0C3943BB884FFC8A8B2C2C.gif"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus Xmas 1000" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/base/_casino/F/FB7BE35DB799E4106BADA4827C8BDDC0.jpg"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Dem***424</h3>
+                                    <h3 class="RecentWinnerNameText">kar***234</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">10.980,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus Xmas 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 2 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/B9D96C884EF61653FE8FFC80151AD11E.jpg"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">P***k</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">90.690,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 3 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/E/E47A387827091D7FE49BDCD5528F9181.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Fat***a45</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">68.712,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
                                  <h4 class="RecentWinnerGame">Bigger Bass Bonanza™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 2 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                  <div class="slider-slide" aria-label="slide 4 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/jackpot-slotlar:36-coins™-64301/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="36 Coins™" width="55" height="33" class="PictureImg LazyImage" src="//static.emcdncf.com/cms2/base/_casino/F/FFECA69FB1F5896EF90E6CF153D53505.jpg"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Double Rainbow" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/base/_casino/C/CD582918D01A2E83A29591AF94EE4254.jpg"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Hyp***n14</h3>
+                                    <h3 class="RecentWinnerNameText">Ram***imo</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">3.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">36 Coins™</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">118.840,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Double Rainbow</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 3 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                  <div class="slider-slide" aria-label="slide 5 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/yeni-oyunlar:sweet-bonanza-1000-dice-72878/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000 Dice" width="55" height="33" class="PictureImg LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/B/B7C807965EEC41DD8ABF22A33377E097.optimized.png"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Brick House Bonanza" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/B8643BFABC75CBB8168232ACBF01D6C7.jpg"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Kar***s78</h3>
+                                    <h3 class="RecentWinnerNameText">zaz***i21</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.544,30</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000 Dice</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">51.972,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Brick House Bonanza</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 4 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                  <div class="slider-slide" aria-label="slide 6 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/egt-digital:40-burning-hot-bell-link-58050/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot Bell Link" width="55" height="33" class="PictureImg LazyImage" src="//static.emcdncf.com/cms2/base/_casino/B/B03AEE0A97E919EC5CBE3F4DE862374C.jpg"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/1/100983F195955CFC9E3E4F1BB87341B7.jpg"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ufu***z80</h3>
+                                    <h3 class="RecentWinnerNameText">Mer***m90</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">4.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">40 Burning Hot Bell Link</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">50.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 5 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                  <div class="slider-slide" aria-label="slide 7 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/egt-(amusnet):40-burning-hot-6-reels-31749/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot 6 Reels" width="55" height="33" class="PictureImg LazyImage" src="//static.emcdncf.com/cms2/base/_casino/4/460FA4DDE4CB6454908E7B9833C1431B.jpg"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Cowboy Coins™" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/726BF274B5769E5C7B8C398E56156EB1.jpg"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">B***1</h3>
+                                    <h3 class="RecentWinnerNameText">mam***251</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">40 Burning Hot 6 Reels</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Cowboy Coins™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide slide-visible slide-current" aria-label="slide 6 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 8 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/popüler-oyunlar:bigger-bass-bonanza™-43578/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" class="PictureImg LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/7/74564BB95D0C3943BB884FFC8A8B2C2C.gif"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/1/100983F195955CFC9E3E4F1BB87341B7.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Dem***424</h3>
+                                    <h3 class="RecentWinnerNameText">e***6</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">10.980,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">50.901,21</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide slide-visible slide-current" aria-label="slide 9 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus Xmas 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/F/FB7BE35DB799E4106BADA4827C8BDDC0.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">kar***234</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus Xmas 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 10 of 64" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B9D96C884EF61653FE8FFC80151AD11E.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">P***k</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">90.690,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 11 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 4300px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/E/E47A387827091D7FE49BDCD5528F9181.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Fat***a45</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">68.712,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
                                  <h4 class="RecentWinnerGame">Bigger Bass Bonanza™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 7 of 25" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 12 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 4730px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/jackpot-slotlar:36-coins™-64301/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="36 Coins™" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/F/FFECA69FB1F5896EF90E6CF153D53505.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Double Rainbow" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/C/CD582918D01A2E83A29591AF94EE4254.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Hyp***n14</h3>
+                                    <h3 class="RecentWinnerNameText">Ram***imo</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">3.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">36 Coins™</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">118.840,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Double Rainbow</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 8 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 13 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 5160px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/yeni-oyunlar:sweet-bonanza-1000-dice-72878/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000 Dice" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/B7C807965EEC41DD8ABF22A33377E097.optimized.png" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Brick House Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B8643BFABC75CBB8168232ACBF01D6C7.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Kar***s78</h3>
+                                    <h3 class="RecentWinnerNameText">zaz***i21</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.544,30</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000 Dice</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">51.972,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Brick House Bonanza</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 9 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 14 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 5590px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/egt-digital:40-burning-hot-bell-link-58050/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot Bell Link" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/B/B03AEE0A97E919EC5CBE3F4DE862374C.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/1/100983F195955CFC9E3E4F1BB87341B7.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ufu***z80</h3>
+                                    <h3 class="RecentWinnerNameText">Mer***m90</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">4.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">40 Burning Hot Bell Link</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">50.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 10 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 15 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 6020px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/egt-(amusnet):40-burning-hot-6-reels-31749/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot 6 Reels" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/4/460FA4DDE4CB6454908E7B9833C1431B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Cowboy Coins™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/726BF274B5769E5C7B8C398E56156EB1.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">B***1</h3>
+                                    <h3 class="RecentWinnerNameText">mam***251</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">40 Burning Hot 6 Reels</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Cowboy Coins™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 11 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 4300px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 16 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 6450px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/popüler-oyunlar:bigger-bass-bonanza™-43578/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/7/74564BB95D0C3943BB884FFC8A8B2C2C.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/1/100983F195955CFC9E3E4F1BB87341B7.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Dem***424</h3>
+                                    <h3 class="RecentWinnerNameText">e***6</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">10.980,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">50.901,21</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 17 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 6880px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus Xmas 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/F/FB7BE35DB799E4106BADA4827C8BDDC0.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">kar***234</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus Xmas 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 18 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 7310px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B9D96C884EF61653FE8FFC80151AD11E.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">P***k</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">90.690,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 19 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 7740px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/E/E47A387827091D7FE49BDCD5528F9181.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Fat***a45</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">68.712,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
                                  <h4 class="RecentWinnerGame">Bigger Bass Bonanza™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 12 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 4730px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 20 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 8170px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/jackpot-slotlar:36-coins™-64301/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="36 Coins™" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/F/FFECA69FB1F5896EF90E6CF153D53505.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Double Rainbow" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/C/CD582918D01A2E83A29591AF94EE4254.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Hyp***n14</h3>
+                                    <h3 class="RecentWinnerNameText">Ram***imo</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">3.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">36 Coins™</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">118.840,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Double Rainbow</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 13 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 5160px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 21 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 8600px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/yeni-oyunlar:sweet-bonanza-1000-dice-72878/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000 Dice" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/B7C807965EEC41DD8ABF22A33377E097.optimized.png" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Brick House Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B8643BFABC75CBB8168232ACBF01D6C7.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Kar***s78</h3>
+                                    <h3 class="RecentWinnerNameText">zaz***i21</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.544,30</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000 Dice</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">51.972,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Brick House Bonanza</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 14 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 5590px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 22 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 9030px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/egt-digital:40-burning-hot-bell-link-58050/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot Bell Link" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/B/B03AEE0A97E919EC5CBE3F4DE862374C.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/1/100983F195955CFC9E3E4F1BB87341B7.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ufu***z80</h3>
+                                    <h3 class="RecentWinnerNameText">Mer***m90</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">4.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">40 Burning Hot Bell Link</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">50.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 15 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 6020px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 23 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 9460px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/egt-(amusnet):40-burning-hot-6-reels-31749/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot 6 Reels" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/4/460FA4DDE4CB6454908E7B9833C1431B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Cowboy Coins™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/726BF274B5769E5C7B8C398E56156EB1.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">B***1</h3>
+                                    <h3 class="RecentWinnerNameText">mam***251</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">40 Burning Hot 6 Reels</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Cowboy Coins™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 16 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 6450px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 24 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 9890px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/popüler-oyunlar:bigger-bass-bonanza™-43578/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/7/74564BB95D0C3943BB884FFC8A8B2C2C.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/1/100983F195955CFC9E3E4F1BB87341B7.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Dem***424</h3>
+                                    <h3 class="RecentWinnerNameText">e***6</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">10.980,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">50.901,21</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 25 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 10320px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus Xmas 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/F/FB7BE35DB799E4106BADA4827C8BDDC0.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">kar***234</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus Xmas 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 26 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 10750px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B9D96C884EF61653FE8FFC80151AD11E.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">P***k</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">90.690,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 27 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 11180px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/E/E47A387827091D7FE49BDCD5528F9181.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Fat***a45</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">68.712,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
                                  <h4 class="RecentWinnerGame">Bigger Bass Bonanza™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 17 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 28 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 11610px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/jackpot-slotlar:36-coins™-64301/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="36 Coins™" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/F/FFECA69FB1F5896EF90E6CF153D53505.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Double Rainbow" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/C/CD582918D01A2E83A29591AF94EE4254.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Hyp***n14</h3>
+                                    <h3 class="RecentWinnerNameText">Ram***imo</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">3.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">36 Coins™</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">118.840,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Double Rainbow</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 18 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 29 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 12040px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/yeni-oyunlar:sweet-bonanza-1000-dice-72878/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000 Dice" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/B7C807965EEC41DD8ABF22A33377E097.optimized.png" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Brick House Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B8643BFABC75CBB8168232ACBF01D6C7.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Kar***s78</h3>
+                                    <h3 class="RecentWinnerNameText">zaz***i21</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.544,30</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000 Dice</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">51.972,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Brick House Bonanza</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 19 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 30 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 12470px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/egt-digital:40-burning-hot-bell-link-58050/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot Bell Link" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/B/B03AEE0A97E919EC5CBE3F4DE862374C.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/1/100983F195955CFC9E3E4F1BB87341B7.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ufu***z80</h3>
+                                    <h3 class="RecentWinnerNameText">Mer***m90</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">4.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">40 Burning Hot Bell Link</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">50.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 20 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 31 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 12900px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/egt-(amusnet):40-burning-hot-6-reels-31749/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot 6 Reels" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/4/460FA4DDE4CB6454908E7B9833C1431B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Cowboy Coins™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/726BF274B5769E5C7B8C398E56156EB1.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">B***1</h3>
+                                    <h3 class="RecentWinnerNameText">mam***251</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">40 Burning Hot 6 Reels</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Cowboy Coins™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 21 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 32 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 13330px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/popüler-oyunlar:bigger-bass-bonanza™-43578/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/7/74564BB95D0C3943BB884FFC8A8B2C2C.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/1/100983F195955CFC9E3E4F1BB87341B7.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Dem***424</h3>
+                                    <h3 class="RecentWinnerNameText">e***6</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">10.980,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">50.901,21</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 33 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 13760px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus Xmas 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/F/FB7BE35DB799E4106BADA4827C8BDDC0.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">kar***234</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus Xmas 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 34 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 14190px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B9D96C884EF61653FE8FFC80151AD11E.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">P***k</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">90.690,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 35 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 14620px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/E/E47A387827091D7FE49BDCD5528F9181.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Fat***a45</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">68.712,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
                                  <h4 class="RecentWinnerGame">Bigger Bass Bonanza™</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 22 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 36 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 15050px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/jackpot-slotlar:36-coins™-64301/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="36 Coins™" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/F/FFECA69FB1F5896EF90E6CF153D53505.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Double Rainbow" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/C/CD582918D01A2E83A29591AF94EE4254.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Hyp***n14</h3>
+                                    <h3 class="RecentWinnerNameText">Ram***imo</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">3.400,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">36 Coins™</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">118.840,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Double Rainbow</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 23 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 37 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 15480px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/yeni-oyunlar:sweet-bonanza-1000-dice-72878/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000 Dice" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/B7C807965EEC41DD8ABF22A33377E097.optimized.png" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Brick House Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B8643BFABC75CBB8168232ACBF01D6C7.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Kar***s78</h3>
+                                    <h3 class="RecentWinnerNameText">zaz***i21</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.544,30</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000 Dice</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">51.972,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Brick House Bonanza</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 24 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 38 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 15910px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/egt-digital:40-burning-hot-bell-link-58050/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot Bell Link" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/B/B03AEE0A97E919EC5CBE3F4DE862374C.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/1/100983F195955CFC9E3E4F1BB87341B7.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">Ufu***z80</h3>
+                                    <h3 class="RecentWinnerNameText">Mer***m90</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">4.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">40 Burning Hot Bell Link</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">50.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
                               </div>
                            </div>
                         </a>
                      </div>
                   </div>
-                  <div class="slider-slide" aria-label="slide 25 of 25" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="slider-slide" aria-label="slide 39 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 16340px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/casino/games/egt-(amusnet):40-burning-hot-6-reels-31749/?prevRoute=/casino/cat/sanal-sporlar">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="40 Burning Hot 6 Reels" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/4/460FA4DDE4CB6454908E7B9833C1431B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Cowboy Coins™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/726BF274B5769E5C7B8C398E56156EB1.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
-                                    <h3 class="RecentWinnerNameText">B***1</h3>
+                                    <h3 class="RecentWinnerNameText">mam***251</h3>
                                  </div>
-                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">2.500,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
-                                 <h4 class="RecentWinnerGame">40 Burning Hot 6 Reels</h4>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Cowboy Coins™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 40 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 16770px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/1/100983F195955CFC9E3E4F1BB87341B7.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">e***6</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">50.901,21</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 41 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -10320px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus Xmas 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/F/FB7BE35DB799E4106BADA4827C8BDDC0.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">kar***234</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus Xmas 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 42 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -9890px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B9D96C884EF61653FE8FFC80151AD11E.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">P***k</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">90.690,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 43 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -9460px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/E/E47A387827091D7FE49BDCD5528F9181.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Fat***a45</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">68.712,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Bigger Bass Bonanza™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 44 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -9030px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Double Rainbow" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/C/CD582918D01A2E83A29591AF94EE4254.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Ram***imo</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">118.840,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Double Rainbow</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 45 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -8600px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Brick House Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B8643BFABC75CBB8168232ACBF01D6C7.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">zaz***i21</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">51.972,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Brick House Bonanza</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 46 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -8170px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/1/100983F195955CFC9E3E4F1BB87341B7.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Mer***m90</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">50.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 47 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -7740px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Cowboy Coins™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/726BF274B5769E5C7B8C398E56156EB1.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">mam***251</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Cowboy Coins™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 48 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -7310px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/1/100983F195955CFC9E3E4F1BB87341B7.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">e***6</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">50.901,21</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 49 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -6880px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus Xmas 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/F/FB7BE35DB799E4106BADA4827C8BDDC0.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">kar***234</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus Xmas 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 50 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -6450px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B9D96C884EF61653FE8FFC80151AD11E.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">P***k</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">90.690,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 51 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -6020px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/E/E47A387827091D7FE49BDCD5528F9181.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Fat***a45</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">68.712,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Bigger Bass Bonanza™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 52 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -5590px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Double Rainbow" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/C/CD582918D01A2E83A29591AF94EE4254.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Ram***imo</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">118.840,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Double Rainbow</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 53 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -5160px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Brick House Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B8643BFABC75CBB8168232ACBF01D6C7.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">zaz***i21</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">51.972,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Brick House Bonanza</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 54 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -4730px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/1/100983F195955CFC9E3E4F1BB87341B7.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Mer***m90</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">50.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 55 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -4300px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Cowboy Coins™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/726BF274B5769E5C7B8C398E56156EB1.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">mam***251</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Cowboy Coins™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 56 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/1/100983F195955CFC9E3E4F1BB87341B7.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">e***6</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">50.901,21</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 57 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Gates of Olympus Xmas 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/F/FB7BE35DB799E4106BADA4827C8BDDC0.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">kar***234</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus Xmas 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 58 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B9D96C884EF61653FE8FFC80151AD11E.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">P***k</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">90.690,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Sweet Bonanza 1000</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 59 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Bigger Bass Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/E/E47A387827091D7FE49BDCD5528F9181.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Fat***a45</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">68.712,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Bigger Bass Bonanza™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 60 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Double Rainbow" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/C/CD582918D01A2E83A29591AF94EE4254.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Ram***imo</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">118.840,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Double Rainbow</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 61 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Brick House Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B8643BFABC75CBB8168232ACBF01D6C7.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">zaz***i21</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">51.972,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Brick House Bonanza</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 62 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/1/100983F195955CFC9E3E4F1BB87341B7.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Mer***m90</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">50.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 63 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Cowboy Coins™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/7/726BF274B5769E5C7B8C398E56156EB1.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">mam***251</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">60.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Cowboy Coins™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 64 of 64" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="#" onclick="loginorpay()">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img loading="lazy" alt="Aviator" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/1/100983F195955CFC9E3E4F1BB87341B7.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">e***6</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">50.901,21</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Aviator</h4>
                               </div>
                            </div>
                         </a>

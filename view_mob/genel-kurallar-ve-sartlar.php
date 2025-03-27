@@ -1,289 +1,195 @@
-<section class="SectionContent ">
+<section class="SectionContent " style="background: #fff;">
    <div class="ContentWrapper TextPageWrapper ComponentLayout Layout CmsStaticPage">
-      <span id="ch_3623976351" class="">
-         <p><strong>GENEL KURALLAR VE KOŞULLAR</strong></p>
-         <ol>
-            <li><strong>Giriş</strong></li>
-         </ol>
-         <p>1.1. Pusulabet.com sitemizi kullanarak, ziyaret ederek veya üye olarak aşağıdaki maddeleri kabul etmiş sayılırsınız:</p>
-         <p>1.1.1. Bu sayfadaki Genel Hüküm ve Koşullar.</p>
+      <span id="ch_2364581835" class="">
+         <p>GENEL KURAL VE ŞARTLAR</p>
+         <p>Giriş</p>
+         <p>1.1. Web sitemiz Matbet.com (“Website”) ‘u kullanarak, ziyaret ederek veya üye olarak aşağıdaki maddeleri kabul etmiş sayılırsınız:</p>
+         <p>1.1.1. Bu sayfadaki Genel Kurallar ve Şartlar.</p>
          <p>1.1.2. Gizlilik Politikası.</p>
          <p>1.1.3. Oyun kuralları.</p>
-         <p>1.1.4. Pusulabet üzerinde bulabileceğiniz her türlü promosyon, bonus, özel kampanyaların kural ve koşulları zaman zaman güncellenebilir.</p>
-         <p>1.2. Yukarıda listelenen tüm kural ve terimler “Kurallar” olarak anılır.</p>
-         <p>1.3. Lütfen kabul etmeden önce kuralları dikkatlice okuyun ve anlayın. Kurallarımızda kabul etmediğiniz bir madde varsa, lütfen Pusulabet’te bir oyuncu hesabı açarak (“Oyuncu Hesabı”) kullanmaya devam etmeyin.Pusulabet’i kullanmaya devam etmeniz, kuralları kabul ettiğiniz anlamına gelecektir.</p>
+         <p>1.1.4. Web sayfamızda bulabileceğiniz zaman zaman güncellenebilecek her türlü promosyon, bonuslar, özel kampanyalara ait kurallar ve şartlar.</p>
+         <p>1.2. Yukarıda listelenen tüm kural ve şartların tümü “Kurallar” olarak adlandırılır.</p>
+         <p>1.3. Lütfen kuralları kabul etmeden dikkatlice okuyup anlayınız. Kurallarımızda kabul etmediğiniz bir madde olursa lütfen web sitemizde bir üye hesabı açarak kullanmaya devam etmeyiniz. Web sitemize kullanmaya devam etmeniz kuralları kabul ettiğiniz anlamına gelecektir.</p>
          <p>1.4. Kurallar 01/01/2020 tarihinden itibaren geçerlidir.</p>
-         <ol>
-            <li><strong>Taraflar</strong></li>
-         </ol>
-         <p>2.1. Pusulabet, Curacao hükümeti tarafından düzenlenmektedir. Bu Hizmet, Antilephone’a verilen, Curacao Hükümeti tarafından Yetkilendirilen ve Düzenlenen 8048/JAZ No.lu Lisans kapsamında çalışır.</p>
-         <p>Pusulabet, Curaçao yasalarına göre kurulmuş, adresi Heelsumstraat 51, Curaçao’da bulunan ve Curaçao Ticaret ve Sanayi Odası Ticaret Sicilinde 148533 (“Şirket”) kayıtlı olan Coinbar N.V. tarafından işletilmektedir.</p>
-         <p>2.2. Hüküm ve koşullarda kullanılan “biz”, “bizim” veya “biz” veya “Şirket” terimleri Şirket’i ifade eder.</p>
-         <ol>
-            <li><strong>Kural Değişiklikleri</strong></li>
-         </ol>
-         <p>3.1. Kurallar, ticari nedenlerle, yasa ve yönetmeliklerdeki değişiklikler veya müşteri hizmetleri gibi çeşitli nedenlerle tarafımızca değiştirilebilir. Güncel Kullanım Koşulları Pusulabet’te mevcuttur ve yürürlük tarihleri burada belirtilmektedir.</p>
-         <ol>
-            <li><strong>Oyuncu Hesabı Oluşturun</strong></li>
-         </ol>
-         <p>4.1. Pusulabet’te bahis oynamak ve oyun oynamak için bir Oyuncu Hesabı açmalısınız.</p>
-         <p>4.2. Çeşitli yasal ve ticari sebeplerden dolayı, bazı ülkelerden Oyuncu Hesabı açılmasına ve Pusulabet’in kullanılmasına izin verilmemektedir. Bu bölgelerde iseniz, Oyuncu Hesabı açmamalı veya Pusulabet’i kullanmamalısınız. Pusulabet’e kaydolmanızı ve/veya bahis oynamanızı engelleyebilecek ülkenizdeki kurallar hakkında kendinizi bilgilendirmek tamamen sizin sorumluluğunuzdadır.</p>
-         <p>4.3. Pusulabet’e üye olmak için destek hattından yardım alabilir veya ana sayfadaki “Kayıt Ol” butonuna tıklayarak Oyuncu Hesabı açabilirsiniz.</p>
-         <p>4.4. Bir Oyuncu Hesabı açtığınızda, adınız, doğum tarihiniz, adresiniz, telefonunuz ve e-postanız dahil olmak üzere iletişim bilgileriniz istenecektir.</p>
-         <p>4.5. Pusulabet hizmetlerini (“Hizmetler”) kullanarak para kazanabileceğinizi ve kaybedebileceğinizi kabul etmektesiniz.</p>
-         <p>4.6. Hesabınız kendi adınıza ve doğru bilgilerle açılmalıdır. Her üyenin sadece 1 hesabı olabilir. Sitemizde açtığınız diğer tüm hesaplar çoklu kayıt olarak kabul edilecektir. Birden fazla kez açtığınız hesaplar tarafımızca anında kapatılacaktır. Birden fazla hesaptan yapılan tüm işlemler geçersiz sayılacak ve kazançlar iptal edilecektir.</p>
-         <p>4.7. Başka bir hesap açmak istiyorsanız, geçerli nedenlerinizi yazılı olarak e-posta adresimize göndermelisiniz: destek@pusulabet.com. Yeni hesap açma nedeninizin geçerli olduğu anlaşılırsa eski hesap kapatıldıktan sonra yeni hesap açmanıza izin verilir.</p>
+         <p>Taraflar</p>
+         <p>2.1. Matbet.com, Curacao devleti tarafından regüle edilmektedir. This Service operates under the License No. 8048/JAZ issued to Antillephone, Authorized and Regulated by the Government of Curacao.</p>
+         <p>Web sitesi, Curaçao kanunlarına göre kurulmuş, adresi Heelsumstraat 51, Curaçao olan ve Curaçao Ticaret ve Sanayi Odası Ticaret Sicilinde 148533 numara (“Şirket”) kayıtlı olan Coinbar N.V. tarafından işletilmektedir.</p>
+         <p>2.2. Kural ve şartlarda kullanılan “bize”, “bizim,” “biz” veya “Şirket” ibareleri yukarıda Şirket bilgileri belirtilen sizin şartlarını kabul ettiğiniz anlaşmanın karşı tarafını ifade eder.</p>
+         <p>Kural Değişiklikleri</p>
+         <p>3.1. Ticari nedenler, yasa ve yönetmeliklerde veya müşteri hizmetlerindeki değişiklikler gibi birtakım nedenlerle kurallar tarafımızdan değiştirilebilir. Güncel Kullanım Kurallarına web sitesi üzerinden erişilebilir ve yürürlüğe girdiği tarih burada belirtilir.</p>
+         <p>Hesap Açma</p>
+         <p>4.1. Web sitesi üzerinden bahis ve oyun oynamak için bir hesap açmalısınız.</p>
+         <p>4.2. Yasal ve ticari çeşitli nedenlerden dolayı bazı ülkelerden hesap açılmasına ve web sitesinin kullanımına izin verilmemektedir. Bu bölgelerde iseniz hesap açmamalı ve web sitesini kullanmamalısınız.</p>
+         <p>4.3. Web sitesine üye olmak için destek hattından yardım alabilir veya anasayfadaki ”Kayıt Ol” butonuna tıklayarak hesap açabilirsiniz.</p>
+         <p>4.4. Hesap açtığınızda sizden isim soyisim, doğum tarihi, adres, telefon ve e-posta bilgilerinden oluşan iletişim bilgileriniz istenecektir.</p>
+         <p>4.5. Web sitesi hizmetlerini kullanarak para kazanabileceğinizi ve kaybedebileceğinizi kabul etmiş sayılırsınız.</p>
+         <p>4.6. Hesabınız kendi adınıza ve doğru bilgilerle açılmış olmalıdır. Her üye yalnız 1 adet hesap sahibi olabilir. Sitemizde açacağınız herhangi başka bir hesap birden fazla kayıt olarak değerlendirilecektir. Birden fazla açtığınız hesaplarınız tarafımızdan anında kapatılcaktır. Birden fazla hesaptan yapılan tüm işlemler geçersiz sayılır ve varsa kazançlarınız iptal edilir.</p>
+         <p>4.7. Başka bir hesap açmak istiyorsanız geçerli sebeplerinizi yazılı olarak info@matbet.com mail adresimize göndermeniz gerekmektedir. Yeni hesap açmak istemenizin sebebinin geçerli olduğu sonucuna varılırsa eski hesap kapatıldıktan sonra yeni hesap açmanıza izin verilir.</p>
          <p>4.8. Hesap bilgilerinizi korumalı ve güncel tutmalısınız.</p>
-         <ol>
-            <li><strong>Kimlik Doğrulama ve Kara Para Aklamayı Önleme Politikası</strong></li>
-         </ol>
-         <p>5.1. Yaş sınırının 18 yaşından büyük olduğu, hesabınızı açarken kullandığınız kişisel bilgilerin doğru olduğu ve yatırım çekme işlemlerinizi yapacağınız banka, kredi kartı, online ödeme cüzdan hesaplarına ait olduğu tarafınızca kabul ve garanti edilmektedir. Yanlış beyanda bulunmanız durumunda, sitemiz hesabınızı kullanmaya devam edip edemeyeceğinize karar verme yetkisine sahiptir.</p>
-         <p>5.2. Kuralları kabul ederek, kişisel bilgilerinizi ve gerekirse iletişim bilgilerinizi kontrol etmemize izin vermiş olursunuz.</p>
-         <p>5.3. Hesap bilgilerinizi kontrol ederken, hesabınızdan para çekmeniz kısıtlanabilir.</p>
-         <p>5.4. Bazı durumlarda, sizinle iletişime geçilebilir ve kimlik doğrulaması için bilgi vermeniz istenebilir. İstenen bilgilerin sağlanmaması durumunda, istenen bilgiler sağlanana kadar hesabınız askıya alınabilir veya kalıcı olarak kapatılabilir.</p>
-         <p>5.5. Yasal yaşın üzerinde olduğunuzu doğrulayamazsanız, hesabınız askıya alınacaktır. Bahis veya oyun oynarken yasal yaş sınırının altında olduğunuz kanıtlanırsa hesabınız kapatılır, kazanılan tüm bahisler geçersiz sayılır ve para çekme işlemi yapılmışsa para iadesi talep edilir.</p>
-         <ol>
-            <li><strong>Kullanıcı Adı, Şifre ve Müşteri Bilgileri</strong></li>
-         </ol>
-         <p>6.1. Hesap açıldıktan sonra kullanıcı adınızı ve şifrenizi kimseyle paylaşmayın. Şifrenizi unutursanız, giriş bölümünde yer alan “Şifremi Unuttum” butonuna tıklayarak sitemizde kayıtlı e-posta adresinize kullanıcı adı ve şifre bilgilerinizi alabilirsiniz. Sitemizde kayıtlı e-posta adresinizi kullanmıyorsanız, e-posta adresinizi güncellemek için destek hattımızdan yardım alabilirsiniz. E-posta adresinizi güncellemek için kişisel bilgilerinizi doğrulamanız ve bilgilerinizi kanıtlamanız gerekebilir.</p>
-         <ol>
-            <li><strong>Hesabınızdan Para Yatırma ve Çekme</strong></li>
-         </ol>
-         <p>7.1. Pusulabet’te bahis oynamak ve oyun oynamak için hesabınıza para yatırmanız gerekir.</p>
-         <p>7.2. Çeşitli ödeme sistemleri ile para yatırma ve çekme işlemleri yapılabilmektedir. Prosedürler, kurallar ve koşullar ödeme sistemine göre değişiklik göstermektedir.</p>
-         <p>7.3. Hesabınıza para yatırarak, depozitoyu iptal etmeyeceğinizi veya itiraz etmeyeceğinizi ve ödenmemiş mevduatları iade edip tazmin edeceğinizi kabul etmektesiniz.</p>
-         <p>7.4. Hesabınız bir banka hesabı değil. Bu nedenle garanti, sigorta ve sponsorluk yoktur. Herhangi bir bankacılık sigorta sistemi kapsamında değildir ve hesabınıza yatırılan paradan faiz geliri elde etmeniz mümkün değildir.</p>
-         <p>7.5. Birden fazla hesap, gizli anlaşma, hile, dolandırıcılık, yasa dışı faaliyetler veya hatalar nedeniyle kazanılan tutardan bağımsız olarak hesap bakiyenizi ve bahislerinizi yeniden hesaplama hakkımızı saklı tutarız. Kurallara aykırı bir durum tespit edilirse kazancınız iptal edilir, tüm işlemleriniz geçersiz sayılır ve hesabınız kapatılabilir.</p>
-         <p>7.6. Kazançlarınızı ve kayıplarınızı yerel vergi dairesine ve makamlarına bildirmek sizin sorumluluğunuzdadır.</p>
-         <p>7.7. Aşağıdaki koşulları sağlayarak dilediğiniz zaman hesabınızdan para çekebilirsiniz.</p>
-         <p>7.7.1. Hesabınıza yapılan tüm para yatırma işlemleri temiz olmalı, iade talebi veya itirazı olmamalıdır, aksi takdirde ödeme talebi iptal edilecektir.</p>
-         <p>7.7.2. Kazançlarınız üzerinde herhangi bir yasa dışı işlem olmadığından emin olmak için tüm kontroller tarafımızca tamamlanmalıdır. Sadece adınıza ait hesaplara para çekebilirsiniz. Başkasının adına ait hesaplara para çekme talebinde bulunursanız üyeliğiniz askıya alınabilir.</p>
-         <p>7.8. Para çekme talebinizle ilgili tüm gerekli bilgileri sağlamalısınız. Para transferi talebiniz seçmiş olduğunuz ödeme sistemi ile yapılmaktadır. Para çekme formunda belirttiğiniz bilgilerden siz sorumlusunuz. Para çekme talebinde bulunmadan önce bilgilerinizin doğru olduğundan emin olmalısınız. Bazı durumlarda, para çekme talebinde bulunmak istediğiniz hesap için hesap onayı gerekebilir.</p>
-         <p>7.9. Yatırdığınız para ile sitemizde herhangi bir işlem yapmadan para çekme talebinde bulunamazsınız. Yatırdığınız paranın %30’una kadar minimum 1.30 oranlı bir spor bahisi oynamalısınız ve aldığınız spor bahis kuponu/kuponları kazanan veya kaybeden olarak sonuçlanmalıdır. Spor bahisleri yapmıyorsanız, casino, canlı casino veya sanal bahis oyunlarında yatırım tutarınızın %30’unu kullanarak ana dönüşümünüzü tamamlayabilirsiniz. Çevrim şartı olan bir bonus kullanmadıysanız ve ana çevriminizi tamamladıysanız, para çekme talebinde bulunabilirsiniz.</p>
-         <p>7.10. Her üye sadece kendi adına açılan hesaplara para yatırmak zorundadır. Üçüncü şahıs, arkadaş, akraba, eş veya aile tarafından yapılan ödemeler kabul edilmez. Güvenlik kontrolleri sırasında böyle bir durum tespit edilirse tüm kazançlar iptal edilecek ve yatırım tutarı iade edilecektir. İade işlemi için kimlik doğrulama ve hesap doğrulama prosedürleri uygulanabilir.</p>
-         <p>7.11. Para çekebilmek için, eğer spor bahisleri yapıyorsanız, yatırdığınız miktarın 1 Katını , en az 1.30 oranında kullanmanız gerekir. Kombine kuponlar içinde her bir müsabaka 1.30 veya daha yüksek olmalıdır. Eğer yatırımınızı casino, canlı casino veya sanal bahis oyunlarına değerlendirecekseniz, toplam yatırım tutarınızın %100’ü kadar bahis yapmalısınız.</p>
-         <p>7.12. Ana para çevrimini suistimal eden üyelerden %100 çevrim alınacaktır.</p>
-         <ol>
-            <li><strong>Bahis/Oyun Oynama</strong></li>
-         </ol>
-         <p>8.1. Tüm işlemlerinizin doğru olduğundan emin olmak sizin sorumluluğunuzdadır. İşlem geçmişinize hesabınız üzerinden erişebilirsiniz.</p>
-         <p>8.2. Herhangi bir zamanda işlemleri tamamen veya kısmen iptal etme hakkımız saklıdır. Tarafımızdan onaylanmadıkça işlemler geçerli sayılmaz. İşlemi onaylayan bir onay e-postası almadıysanız, desteğe başvurun.</p>
-         <p>8.3. Tek kupondan maksimum kazanç 5.000.000 TL’dir. (Spor bahisleri, casino, canlı casino oyunları, sanal bahisler ve TV oyunları bu kurala dahildir.)</p>
-         <p>8.4. Bir bahis onaylandıktan sonra, işlem yazılı onayımız olmadan iptal edilemez.</p>
-         <ol>
-            <li><strong>Gizli Anlaşma, Hile, Dolandırıcılık ve Yasa Dışı Faaliyetler</strong></li>
-         </ol>
-         <p>9.1. Sitemizde aşağıdaki faaliyetler yasaktır.</p>
-         <p>Gizli anlaşma: Bir oyunun katılımcıları arasındaki gizli işbirliği.</p>
-         <p>Adaletsizlik yaratmak için bir avantaj veya etki kullanmak (genelde hile yapmak), potansiyel bir hatadan yararlanmak, yazılım açıklarından veya hatalarından yararlanmak, otomatik oynatıcıları kullanmak (‘bot’ olarak da adlandırılır).</p>
-         <p>Kredi veya banka kartlarına el konulması, çalınması, dolandırıcılık yöntemiyle kopyalanması, kara para aklama veya benzeri suçlara karışmak veya bu suçlara iştirak etmek.</p>
-         <p>9.2. Bu faaliyetlerin önlenmesi, tespit edilmesi ve ilgili oyuncuların tespit edilmesi için tarafımızca gerekli adımlar atılmaktadır. Şirket, sizin veya başka bir oyuncunun muvazaa, hile, dolandırıcılık ve yasa dışı faaliyetlerden dolayı uğrayabileceği zarar ve kayıplardan sorumlu değildir. Yapılacak işlemler Şirketin insiyatifindedir.</p>
-         <p>9.3. Birinin gizli anlaşma, hile, dolandırıcılık veya yasa dışı faaliyetlerde bulunduğuna inanıyorsanız, bizi e-posta ile bilgilendirmelisiniz.</p>
-         <p>9.4. Şirketimiz, şüpheli herhangi bir yasa dışı veya uygunsuz faaliyet sonucunda kimlik bilgilerinizi yetkililer, diğer bahis siteleri ve operatörleri, çevrimiçi hizmet sağlayıcı ve bankalar, kredi kartı şirketleri, elektronik ödeme sistemi sağlayıcıları ve diğer finans kuruluşları ile paylaşma hakkını saklı tutar ve tarafımızca tarafımızca bu tür faaliyetlerin araştırılmasında işbirliği yapacaktır. kabul etmiş sayılırsınız.</p>
-         <ol>
-            <li><strong>Diğer Yasaklanmış Faaliyetler</strong></li>
-         </ol>
-         <p>10.1. Hizmetleri ve sohbet işlevini saldırgan, müstehcen, ırkçı, ayrımcı veya saldırgan olarak kabul edilen herhangi bir amaç için kullanmamalısınız. Saldırgan ve saldırgan dil veya resimler kullanmamalısınız ve diğer Oyunculara ve site çalışanlarına karşı saldırgan davranışlarda bulunmamalısınız.</p>
-         <p>10.2. Pusulabet’in işleyişini engellemeye çalışmamalı, Hizmetleri etkileyecek virüs, solucan ve benzeri yöntemler kullanmamalısınız. Herhangi bir toplu gönderi veya spam kesinlikle yasaktır. Pusulabet’te yer alan herhangi bir biçimde herhangi bir bilgiyi değiştirmeye veya bunlara müdahale etmeye çalışmamalısınız.</p>
-         <p>10.3. Pusulabet sadece eğlence amaçlı kullanılmalıdır ve sitenin tamamının veya bir kısmının izinsiz kopyalanması ve kullanılması yasaktır.</p>
-         <p>10.4. Pusulabet’e, Pusulabet’in bulunduğu sunuculara, bilgisayarlara ve veritabanlarına izniniz olmadan erişmeye çalışmamalısınız. Pusulabet’e DDOS(hizmet reddi) veya benzeri sistemlerle saldırmamalısınız. Bu tür girişimlerde bulunmanız durumunda ilgili mercilerle işbirliği yapılacak ve kimlik bilgileriniz paylaşılacaktır. Böyle bir girişim sonucunda üyeliğinizi kullanma hakkınız sona erer.</p>
-         <p>10.5. Pusulabet’i kullanırken, Pusulabet’ten dosya indirirken, virüsler, DDOS saldırıları veya çeşitli zararlı teknolojiler nedeniyle bilgisayarınızda, bilgisayar programlarınızda, telefonunuzda, belgelerinizde oluşabilecek herhangi bir kayıp veya hasardan firmamız sorumlu değildir.</p>
-         <p>10.6. Oyuncular arasında hesap satmak veya aktarmak yasaktır.</p>
-         <ol>
-            <li><strong>Hesap Kapatma ve Fesih</strong></li>
-         </ol>
-         <p>11.1. Şirket güvenlik politikası ve Curacao yasaları gereği otuz (30) ay boyunca aktif olmayan hesaplara ‘Aktif olmayan hesaplar’ denir ve bakiyenizdeki para size iade edilir. Size ulaşılamazsa, bakiyeniz Curacao Kumar ve Piyango İdaresi’ne aktarılacaktır.</p>
-         <p>11.2. Aktif olmayan hesabınız kapatıldığında, iletişim bilgileriniz kullanılarak bilgilendirileceksiniz. Hesap kapatma, muvazaa, hile, dolandırıcılık ve yasa dışı faaliyetler veya kullanım kurallarının ihlali kapsamına girmediği sürece hesap bakiyeniz iade edilecektir. Ulaşılamaz ise yetkili bahis kurumlarına aktarılacaktır.</p>
-         <p>11.3. Hesap kapatma taleplerinizi ; hesap kapatma nedeniniz ile beraber ”destek@Pusulabet.com” mail adresimize gönderim sağlayarak gerçekleştirebilirsiniz. Talebiniz işleme alındıktan sonra 60 iş günü içerisinde aktif olmamanız halinde hesabınız askıya alınacaktır.</p>
-         <ol>
-            <li><strong>Pusulabet Güncellemeleri</strong></li>
-         </ol>
-         <p>&nbsp;</p>
-         <p>12.1. Pusulabet’teki herhangi bir hizmeti herhangi bir zamanda değiştirmek veya güncellemek tamamen Şirketin takdirindedir.</p>
-         <ol>
-            <li><strong>Bilgi Teknolojisi Hataları</strong></li>
-         </ol>
-         <p>13.1. Pusulabet’i sağlayan sistemde herhangi bir yazılım veya donanım hatası veya arızası olması durumunda kısa süre içerisinde müdahale edilerek sorunun giderilmesi sağlanır.</p>
-         <p>13.2. Kullandığınız donanım veya yazılımlardaki hatalardan veya internet servis sağlayıcınızdan kaynaklanan erişim hatalarından firmamız sorumlu değildir.</p>
-         <ol>
-            <li><strong>Diğer Hatalar</strong></li>
-         </ol>
-         <p>14.1. Çeşitli sebeplerden dolayı bir bahis işlemi tarafımızca yanlış kabul edilmiş veya ödenmiş olabilir.</p>
-         <p>14.2. Pusulabet.com yanlış oranlara, değiştirilmiş oranlara (yanlış takımlara karşı verilen oranlar) veya canlı bahis mümkün olmadığında yapılan bahisleri iptal etme hakkını saklı tutar. Pusulabet.com herhangi bir bahsi iptal etme, kısıtlama, reddetme ve sınırlama hakkını saklı tutar.</p>
-         <p>14.3. Biz (çalışanlarımız ve temsilcilerimiz dahil), iş ortaklarımız ve hizmet sağlayıcılarımızdan hiçbiri, bizim veya sizin tarafınızdan yapılan hatalardan kaynaklanan herhangi bir kayıp veya kâr kaybından sorumlu değiliz. Bu tür bir hatanın sonucu olarak ortaya çıkan kazançları/kayıpları kaybedersiniz.</p>
-         <ol>
-            <li><strong>Sorumluluklar</strong></li>
-         </ol>
-         <p>15.1. Pusulabet’e erişmek ve Hizmetleri kullanmak tamamen sizin tercihiniz ve takdirinizdir ve bunu riski size ait olmak üzere yaparsınız.</p>
-         <p>15.2. Şirket, kullanımı kolay ve kurallarda tanımlandığı şekilde düzgün çalışan bir Pusulabet sağlar. Pusulabet ve Pusulabet’te sunulan ürünler dışında hiçbir hizmet/ürün için garanti verilemez ve söz verilemez. Bu nedenle, benzer ürünler için uygulanan garantiler, yasaların izin verdiği ölçüde garantimiz dışındadır.</p>
-         <p>15.3. İş kaybı, veri kaybı, kar, gelir, fırsat, prestij, tanınma, iş kesintisi ve öngörülemeyen kayıplardan firmamız sorumlu değildir, sözleşme kapsamı dışındadır.</p>
-         <ol>
-            <li><strong>Kullanım Koşulları İhlalleri</strong></li>
-         </ol>
-         <p>16.1. Kuralların ihlali sonucunda ortaya çıkan her türlü yükümlülüğü, masrafı, masrafı (yasal masraflar dahil) ve arızi masrafları karşılamak sizin sorumluluğunuzdadır.</p>
-         <p>16.2. Kullanım koşullarını ihlal ettiğinizde hakları saklıdır ancak faaliyetinizin kurallara aykırı olduğu ve durdurmanız gerektiği tarafınıza bildirilir, iletişim bilgilerinizi kullanarak hesabınız dondurulur, bahis ve oyun oynamanız bloke edilir. , hesabınız önceden haber verilmeksizin kapatılacaktır.</p>
-         <p>16.2.4. Herhangi bir kural ihlalinden kaynaklanan para çekme, kazanç ve bonuslar hesaptan geri çekilecektir.</p>
-         <p>16.3. Kurallara uyulmaması durumunda kullanıcı kodu ve şifrenin devre dışı bırakılması Şirketin inisiyatifindedir. Spor bahisleri ve casino oyunlarında yaptığınız işlemlerde aynı cihaz üzerinde ortak IP adresi veya ortak kullanım ile farklı üyelikler olması durumunda kazancınız iptal edilir ve bakiyeniz sıfırlanır. (Aynı oyun için karşılıklı bahisler, ortak IP adresi ve hesap kullanımı, harici program vb.)</p>
-         <ol>
-            <li><strong>Fikri Mülkiyet Hakları</strong></li>
-         </ol>
-         <p>17.1. Tüm Pusulabet tasarımı, metin, grafik, müzik, ses, fotoğraf, video, bunların seçimi ve düzenlenmesi, yazılım derlemeleri, kaynak kodu, yazılım ve tüm materyaller, telif hakkı tarafımıza ait olan veya üçüncü taraf hak sahipleri tarafından lisans altında kullanılan diğer mülkiyet haklarına tabidir. Pusulabet’teki materyaller kişisel kullanım için yalnızca tek bir kişisel bilgisayara indirilebilir ve ticari amaçlarla kullanılamaz.</p>
-         <p>17.2. Bizim veya üçüncü şahıs hak sahiplerinin haklarını herhangi bir Oyuncuya devretmek hiçbir şekilde mümkün değildir.</p>
-         <p>17.3. Pusulabet’te görünen ticari markaların, ticari adların ve logoların kullanımı ve çoğaltılması, kurallarda izin verilmediği sürece yasaktır.</p>
-         <ol>
-            <li><strong>Kişisel bilgi</strong></li>
-         </ol>
-         <p>18.1. Pusulabet tarafından alınan kişisel bilgiler, veri güvenliği yasalarına uygun olarak korunmaktadır. Sitemiz, kişisel bilgilerin kullanımına ilişkin yükümlülüklerini titizlikle yerine getirmektedir.</p>
-         <p>18.2. Pusulabet’te vermiş olduğunuz kişisel bilgilerin Şirket tarafından site şartlarına uygun olarak, yasal ve düzenleyici yükümlülüklere uygun olarak kullanılmasını kabul etmiş sayılırsınız.</p>
-         <p>18.3. Şirket politikası gereği, Şirket’in hizmet vermekle yükümlü ve bilgiye erişim hakkı bulunan çalışanları dışında hiçbir kişisel bilgi üçüncü kişilerle paylaşılmaz.</p>
-         <p>18.4. Sizden aldığımız bilgilerin doğru bir şekilde kaydedilmesini sağlamak için, bize gönderdiğiniz tüm iletişim bilgilerinin bir kopyası (e-postaların bir kopyası dahil) tarafımızca saklanacaktır.</p>
-         <ol>
-            <li><strong>Çerez Kullanımı</strong></li>
-         </ol>
-         <p>19.1. Pusulabet’in etkin kullanımı için “Çerezler” kullanılmaktadır. Çerezler, bilgisayarınıza indirilen ve siteye geri döndüğünüzde hatırlanan küçük metin dosyalarıdır. Çerezlerin nasıl kontrol edileceği ve silineceği ile ilgili bilgiler www.aboutcookies.org adresinde bulunabilir. Çerezleri silerek ve devre dışı bırakarak Pusulabet’in bazı özelliklerine erişemeyebilir veya bunları kullanamayabilirsiniz.</p>
-         <ol>
-            <li><strong>Şikayetler ve Bildirimler</strong></li>
-         </ol>
-         <p>20.1. Pusulabet ile ilgili herhangi bir şikayette bulunmak için öncelikle müşteri ilişkileri departmanı ile iletişime geçmelisiniz.</p>
-         <p>20.2. Herhangi bir anlaşmazlık durumunda, sunucu günlüklerinin herhangi bir maçın sonucunu belirlemede nihai otorite olarak tanınacağını kabul edersiniz.</p>
-         <p>20.3. Oyuncu ekranında görüntülenen sonuç ile oyun sunucusundaki sonuç arasında herhangi bir farklılık olması durumunda, oyun sunucusundaki veriler geçerli kabul edilir, çevrimiçi katılımınız sırasında kural ve koşulları belirleyen nihai otorite olduğumuzu kabul etmektesiniz. oyunlar.</p>
-         <p>20.4. Herhangi bir anlaşmazlık durumunda, iletişim bilgileriniz kullanılarak sizinle iletişime geçilecektir.</p>
-         <ul>
-            <li><strong>Tercüme</strong></li>
-         </ul>
-         <p>&nbsp;</p>
-         <p>21.1. Kuralların yazıldığı dil İngilizcedir ve tüm çeviriler orijinal İngilizce metinden yapılmıştır. Kurallar veya herhangi bir belge veya bildirim başka bir dile çevrilmişse, orijinal İngilizce versiyonu geçerli olacaktır.</p>
-         <ol>
-            <li><strong>Hak ve Yükümlülüklerin Devri</strong></li>
-         </ol>
-         <p>&nbsp;</p>
-         <p>22.1. Kuralları aynı veya daha az avantajlı bir şekilde başka bir kişiye devretme, devretme, alt lisans verme veya rehin verme hakkımız saklıdır.</p>
-         <ol>
-            <li><strong>Kontrolümüzün Dışındaki Olaylar</strong></li>
-         </ol>
-         <p>23.1. Hizmetin sağlanamaması veya savaş, toplumsal karışıklık, internet hizmetlerinde, sanayide meydana gelen kesintiler nedeniyle Şirket’in kontrolü dışında gelişen olaylar nedeniyle hizmetin gecikmesi gibi kullanım kurallarının gereklerine uyulmamasından şirketimiz sorumlu tutulamaz. – ilgili sorunlar, DDOS saldırıları ve benzeri zorlayıcı sebepler. Bu mücbir sebeplerin devamı süresince Hizmetler askıya alınmış sayılır ve mücbir sebeplerin devamı süresince hizmet süremiz uzamış sayılır. Sitemiz, bu mücbir sebeplere son vermek veya mücbir sebeplere rağmen yükümlülüklerini mümkün olduğunca yerine getirmek için çözümler bulmak için her türlü çabayı gösterecektir.</p>
-         <ol>
-            <li><strong>Sorumluluk Reddi</strong></li>
-         </ol>
-         <p>24.1. Oyuncu olarak, yerine getirmekle yükümlü olduğunuz yükümlülükleri ihmal etmeniz veya sitemizin yetkilendirdiği hak ve düzenlemelerin uygulanmasında meydana gelebilecek aksaklıklar durumunda sitemizin sizi uyarmaması, bu hak ve yükümlülüklerden feragat etmeyin. ve bu yükümlülüklere ilişkin yükümlülüğünüzü ortadan kaldırmayın.</p>
-         <p>24.2. Sizden doğan yükümlülüklerin yerine getirilmemesinden doğan feragat, oluşturulacak başka bir feragat teşkil etmez. Açıkça belirtilmedikçe ve size yazılı olarak bildirilmedikçe kullanım koşullarından feragat edilemez.</p>
-         <ol>
-            <li><strong>Bölünebilirlik</strong></li>
-         </ol>
-         <p>&nbsp;</p>
-         <p>25.1. Kurallardan herhangi birinin geçersiz, yasa dışı veya uygulanamaz olduğunun tespiti halinde bu kurallar diğer kurallardan ayrılır, diğer kurallar yasaların izin verdiği ölçüde geçerliliğini korur. Bu durumlarda, geçersiz veya uygulanamaz kısımlar yasal ve orijinal metinde verilen anlama mümkün olduğunca yakın olacak şekilde değiştirilir.</p>
-         <ol>
-            <li><strong>Hukuk ve Yargı</strong></li>
-         </ol>
-         <p>26.1. Curacao yasaları her durumda geçerlidir.</p>
-         <p>26.2. Kullanım Kurallarından kaynaklanan herhangi bir ihtilaf durumunda Curaçao Mahkemeleri münhasır yargı yetkisine sahiptir.</p>
-         <ol>
-            <li><strong>Sorumlu Oyun ve Bahis</strong></li>
-         </ol>
+         <p>Kimlik Doğrulama ve Karapara Önleme Politikası</p>
+         <p>5.1. Yaş sınırının 18 yaşından büyük olduğu, hesabınızı açarken kullandığınız kişisel bilgilerin doğru olduğu ve yatırım çekim işlemlerinizi gerçekleştireceğiniz banka, kredi kartı, online ödeme cüzdan hesaplarının size ait olduğu tarafınızdan kabul edilip, garanti edilir ve sorumluluğu size aittir. Gerçeğe aykırı beyanda bulunmanız durumunda, hesabınızı kullanmaya devam edebilmeniz hakkında karar alma yetkisi sitemize aittir.</p>
+         <p>5.2. Kuralları kabul ederek, ihtiyaç duyulması halinde kişisel bilgilerinizin ve iletişim bilgilerinizi tarafımızdan kontrol edilmesine izin vermiş olursunuz.</p>
+         <p>5.3. Hesap bilgileriniz kontrol edilirken hesabınızdan para çekmeniz kısıtlanabilir.</p>
+         <p>5.4. Bazı durumlarda kimlik doğrulama için sizinle iletişime geçilebilir ve bilgi vermeniz istenebilir. İstenilen bilgilerin sağlanmaması durumunda hesabınız istenilen bilgiler sağlanana kadar askıya alınabilir veya kalıcı olarak kapatılabilir.</p>
+         <p>5.5. Yasal yaşın üstünde olduğunuz doğrulanamazsa hesabınız askıya alınır. Eğer bahis veya oyun oynadığınız sırada yasal yaş sınırının altında olduğunuz ispatlanırsa hesabınız kapatılır,&nbsp;kazanılan tüm bahisler iptal edilir ve para çekimi yapılmışsa çekilen paraların iadesi istenir.</p>
+         <p>Kullanıcı Adı, Şifre ve Müşteri Bilgileri</p>
+         <p>6.1. Hesap açıldıktan sonra kullanıcı ismi ve şifrenizi kimseyle paylaşmayınız. Eğer şifrenizi unutursanız giriş bölümündeki “Şifremi Unuttum” butonuna tıklayarak kullanıcı adı ve şifre bilgilerinizi sitemizde kayıtlı olan mail adresinize alabilirsiniz. Sitemizde kayıtlı olan mail adresinizi kullanmıyorsanız, mail adresinizin güncellenmesi için destek hattımızdan yardım alabilirsiniz. Mail adresinizin güncellenmesi için kişisel bilgilerinizin doğrulanması ve bilgilerinizi ispatlamanız gerekebilir.</p>
+         <p>Hesabınıza Para Yatırma ve Hesabınızdan Para Çekme</p>
+         <p>7.1. Web sitesi üzerinden bahis ve oyun oynamak için hesabınıza para yatırmanız gerekmektedir.</p>
+         <p>7.2. Para yatırma ve çekme işlemleri çeşitli ödeme sistemleri ile yapılabilir. Prosedürler, kurallar ve koşullar ödeme sistemine bağlı olarak değişmektedir.</p>
+         <p>7.3. Hesabınıza para yatırarak, para yatırma işlemine iptal ve itiraz etmeyeceğinizi, ödenmeyen para yatırma işlemlerinin iade ve tazmin edeceğinizi kabul etmiş sayılırsınız.</p>
+         <p>7.4. Hesabınız bir banka hesabı değildir. Bundan dolayı garanti, sigorta ve sponsoru yoktur. Herhangi bir bankacılık sigorta sistemi dahilinde değildir ve hesabınıza yatırılan paralardan faiz geliri sağlamanız mümkün değildir.</p>
+         <p>7.5. Hesap bakiyeniz ve yapılan bahislerin kazanılan miktara bakılmaksızın birden fazla hesap, gizli anlaşma, hile, dolandırıcılık, illegal aktiviteler veya oluşan hatalar gerekçeleri ile tekrar hesaplanma hakkı tarafımızdan saklı tutulur. Kurallara aykırı bir durum tespit edildiğinde kazançlarınız iptal edilir, yaptığınız tüm işlemler yok hükmünde sayılır ve hesabınız kapatılabilir.</p>
+         <p>7.6. Kazanç ve kayıplarınızı yerel vergi idaresi ve yetkili makamlara bildirmek sizin sorumluluğunuzdadır.</p>
+         <p>7.7. Hesabınızdan istediğiniz zaman aşağıdaki şartları sağlayarak para çekebilirsiniz.</p>
+         <p>7.7.1. Hesabınıza yapılan tüm para yatırma işlemleri temiz olmalı, herhangi bir geri ödeme talebi veya itiraz bulunmamalıdır, aksi halde ödeme talebi iptal edilir.</p>
+         <p>7.7.2. Kazançlarınızda herhangi bir kural dışı işlem olmadığına emin olmak için tarafımızdan tüm kontroller tamamlanmış olmalıdır. Çekim işleminizi sadece kendi adınıza ait olan hesaplarınıza gerçekleştirebilirsiniz. Başkasının adına ait hesaplara çekim talebinde bulunmanız durumunda üyeliğiniz askıya alınabilir.</p>
+         <p>7.8. Para çekme talebiniz ile ilgili gerekli tüm bilgileri sağlamalısınız. Seçtiğiniz ödeme sistemi ile para transferi talebiniz gerçekleştirilir. Çekim formunda belirttiğiniz bilgilerin sorumluluğu size aittir. Çekim talebi vermeden önce bilgilerinizin doğruluğuna emin olmalısınız. Bazı durumlarda, çekim talebinde bulunmak istediğiniz hesabınız için hesap onayı istenebilir.</p>
+         <p>7.9. Yatırmış olduğunuz para ile sitemizde hiç bir işlem yapmadan çekim talebi yapamazsınız. Yatırmış olduğunuz para tutarının %100’ü kadar en az 1.30 orandan spor bahisi almalı, almış olduğunuz spor bahisi kupon/kuponların kazanan veya kaybeden olarak sonuçlanması gerekmektedir. Spor bahisi oynamıyorsanız, yatırım tutarınızın %100’ü kadar casino, canlı casino veya sanal bahis oyunlarında kullanarak anapara çevriminizi tamamlayabilirsiniz. Çevrim şartı bulunan bir bonus kullanmamışsanız ve anapara çevriminizi tamamladıysanız çekim talebi gerçekleştirebilirsiniz.</p>
+         <p>7.10. Her üye sadece kendi isimlerine açılmış hesaplara para yatırmak zorundadır. Üçüncü şahıs, arkadaş, akraba, eş veya aile tarafından yapılan ödemeler kabul edilmez. Güvenlik kontrolleri sırasında böyle bir durum olduğu tespit edilirse, tüm kazançlar iptal edilerek yatırım miktarı iade edilir. İade işlemi için kimlik doğrulama ve hesap onaylama prosedürü uygulanabilir.</p>
+         <p>7.11. Para çekimi yapabilmek için, spor bahisi oynuyorsanız; yatırdığınız miktarın %100’ü kadar en az 1.30 orandan bahislerde kullanmanız gerekmektedir. Kombine kuponlarda en az bir karşılaşmanın oranı 1.30 veya üstü olması gerekmektedir. Casino,canlı casino veya sanal bahis oyunlarında yatırımınızı değerlendirecekseniz, toplamda yatırım miktarınızın %100’ü kadar bahis yapmış olmanız gerekmektedir. Kredi kartı ıle yapılan yatırımlarda ana para çevrim şartı %100’dür.</p>
+         <p>Bahis/Oyun Oynama</p>
+         <p>8.1. Tüm işlemlerinizin doğruluğundan emin olmak sizin sorumluluğunuzdadır. İşlem geçmişinize hesabınız üzerinden erişebilirsiniz.</p>
+         <p>8.2. Yapılan işlemlerin tamamen veya kısmen herhangi bir zamanda iptal edilmesi hakları tarafımızda saklı tutulur. İşlemler tarafımızdan onaylanmadığı sürece geçerli sayılmazlar. İşlemin onaylandığına dair onay e-postası almadıysanız destek birimine başvurun.</p>
+         <p>8.3. Tek kupondan maksimum kazanç 1.000.000₺’dir. (Spor bahisi, casino, canlı casino oyunları, sanal bahisler ve tv oyunları bu kurala dahildir.)</p>
+         <p>8.4. Bir bahis onaylandıktan sonra yazılı iznimiz olmadan işlem iptal edilemez.</p>
+         <p>Gizli anlaşma, Hile, Dolandırıcılık Ve Yasadışı Faaliyetler</p>
+         <p>9.1. Aşağıdaki aktiviteler sitemiz üzerinde yasaktır.</p>
+         <p>a) Üçüncü şahıslarla gizli anlaşmalar yapmak.<br>
+            b) Adaletsizlik yaratacak bir üstünlük veya etki kullanmak (genel tabiriyle hile yapmak), olası bir hatanın istismarı, yazılım açığı veya hatalarını kullanmak, otomatik oyuncular kullanmak (‘bots’ olarak da adlandırılır).<br>
+            c) Dolandırıcılık yöntemi ile ele geçirilmiş, çalınmış, kopyalanmış kredi veya debit kartlarını kullanmak, kara para aklama veya benzeri suçların içerisinde yer almak veya bir parçası olmak.
+         </p>
+         <p>9.2. Bu faaliyetlerin önlenmesi, tespiti ve ilişkili oyuncuların tespiti için gerekli adımlar tarafımızdan atılmaktadır. Sizin veya başka bir oyuncunun gizli anlaşma, hile, dolandırıcılık ve yasa dışı faaliyetlerden uğrayacağı zarar ve kayıplardan şirketimiz sorumlu değildir, uygulanacak işlemler şirketimizin takdirindedir.</p>
+         <p>9.3. Eğer bir kişinin gizli anlaşma, hile, dolandırıcılık veya yasa dışı faaliyetler yaptığını düşünüyorsanız e-posta aracılığı ile bize bildirmelisiniz.</p>
+         <p>9.4. Herhangi bir şüpheli yasadışı veya uygunsuz faaliyet sonucunda kimlik bilgilerinizi yetkili makamlara, diger bahis siteleri ve operatörlerine, online servis sağlayıcısı ve bankalara, kredi kartı firmaları, elektronik ödeme sistem sağlayıcıları ve diğer finansal kuruluşlarla paylaşma hakkı şirketimizce saklı tutulur ve bu tür faaliyetlerin araştırılmasında işbirliği içinde olacağınızı kabul etmiş sayılırsınız.</p>
+         <p>Diğer Yasaklı Faaliyetler</p>
+         <p>10.1. Web sitesi hizmetlerini ve sohbet fonksiyonunu kullanırken hakaret edici, müstehcen, ırkçı, ayrımcı ya da saldırgan olarak kabul edilen herhangi bir amaç için kullanmamalısınız. Rahatsız edici ve saldırgan bir dil veya resim kullanmamalı, diğer kullanıcıları ve site çalışanlarını rahatsız edici davranışlarda bulunmamalısınız.</p>
+         <p>10.2. Web sitesinin çalışmasını engelleyecek girişimlerde bulunmamalı, web sitesinin hizmetlerini etkileyecek virüs, solucan ve benzeri yöntemler kullanmamalısınız. Herhangi bir toplu gönderim veya spam göndermek kesinlikle yasaktır. Web sitesinde yer alan herhangi bir formda herhangi bir bilgiyi değiştirmeye veya müdahale etmeye çalışmamalısınız.</p>
+         <p>10.3. Web sitesi sadece eğlence amaçlı kullanılmalıdır ve sitenin tamamını yada herhangi bir kısmını izin almadan kopyalanması ve kullanılması yasaktır.</p>
+         <p>10.4. Web sitesine, Web sitesinin bulunduğu sunuculara, bilgisayar ve veritabanlarına yetkiniz dışında erişmeye çalışmamalısınız. DDOS(denial of service) veya benzeri sistemlerle Web sitesine saldırılarda bulunmamalısınız. Bu tür girişimlerde bulunmanız halinde igili yetkili makamlarla iş birliği yapılacak ve kimlik bilgileriniz paylaşılacaktır. Böyle bir girişim sonucunda üyeliğinizi kullanma hakkınız sona erer.</p>
+         <p>10.5. Web sitesini kullanırken, web sitesinden dosya indirirken virüs, DDOS saldırısı veya çeşitli zararlı teknolojiler ile bilgisayarınızda, bilgisayar programlarınızda, telefonunuzda, belgelerinizde meydana gelebilecek kayıp ve hasarlardan şirketimiz sorumlu değildir.</p>
+         <p>10.6. Oyuncular arasında hesap satmak veya devretmek yasaktır.</p>
+         <p>Hesap Kapatma ve Feshetme</p>
+         <p>11.1. Şirket güvenlik politikası ve Curacao yasaları gereğince otuz (30) ay boyunca işlem yapılmayan hesaplar ‘İnaktif hesap’ olarak adlandırılır ve bakiyenizdeki para size geri ödenir. Size ulaşılamaması halinde bakiyeniz Curacao Oyun ve Piyango İdaresi’ne aktarılır.</p>
+         <p>11.2. Hesap kapatma taleplerinizi ; hesap kapatma nedeniniz ile beraber ”info@matbet.com” mail adresimize gönderim sağlayarak gerçekleştirebilirsiniz. Talebiniz işleme alındıktan sonra 60 iş günü içerisinde aktif olmamanız halinde hesabınız askıya alınacaktır.</p>
+         <p>11.3. İnaktif olan hesabınız kapatılırken iletişim bilgilerindeki bilgileriniz kullanılarak size bilgi verilir. Hesap kapatma işlemi gizli anlaşma, hile, dolandırıcılık ve yasa dışı faaliyetler ya da kullanım kuralları ihlali dahilinde değilse hesap bakiyeniz geri ödenir. Size ulaşılamaması halinde yetkili bahis kurumlarına devredilir.</p>
+         <p>Website Güncellemeleri</p>
+         <p>12.1. Web sitesinde yer alan herhangi bir hizmetin herhangi bir zamanda değiştirilmesi veya güncellenmesi şirketimizin mutlak takdir yetkisi altındadır.</p>
+         <p>Bilgi Teknolojileri Hataları</p>
+         <p>13.1. Web sitesini sağlayan sistemde herhangi bir yazılım veya donanım hatası veya arızası olması durumunda sorunun giderilmesi için tarafımızdan kısa sürede müdahale edilir.</p>
+         <p>13.2. Kullandığınız donanımda veya yazılımda oluşan hatalar veya internet servis sağlayıcınızdan dolayı oluşan erişim hatalarından şirketimiz sorumlu değildir.</p>
+         <p>Diğer Hatalar</p>
+         <p>14.1. Çeşitli sebeplerden dolayı tarafımızdan kaynaklı ve hatalı şekilde bir bahis işlemi kabul edilmiş ya da ödeme yapılmış olabilir.</p>
+         <p>14.2. Matbet.com yanlış bahis oranları, değişmiş oranlar(oranların yanlış takımların karşısında listelendiği) veya canlı bahis oynanabilir olmadığı zamanda yapılmış bahisleri iptal etme hakkını saklı tutar. Matbet.com herhangi bir bahisi iptal etme, kısıtlama, reddetme ve sınırlama hakkını saklı tutar.</p>
+         <p>14.3. Biz (çalışanlarımız ve temsilcilerimiz dahil olmak üzere), iş ortakları ve servis sağlayıcılarından hiç biri bizim veya sizin tarafınızdan yapılan hatadan kaynaklanan kayıplar ve kazanç kayıplarından sorumlu değildir. Bu tür hata sonucu ortaya çıkan kazanç/kayıpları kaybetmiş olursunuz.</p>
+         <p>Sorumluluklar</p>
+         <p>15.1. Web sitesine ulaşmanız ve hizmetleri kullanmanız tamamen sizin seçiminiz ve takdirinizdir ve tüm riskler size aittir.</p>
+         <p>15.2. Web sitesi kullanımı kolay ve kurallarda tanımlandığı üzere düzgün çalışan bir web sitesi sunulmaktadır. Web sitemiz ve web sitemizde sunulan ürünlerin dışında herhangi bir hizmet/ürün için garanti verilemez ya da vaat edilemez. Bundan dolayı benzeri ürünlerle ilgili olarak uygulanan garantiler yasaların izin verdiği ölçüde bizim garantimiz dışındadır.</p>
+         <p>15.3. İş kaybı, veri kaybı, kar, gelir, fırsat, prestij, tanınırlık, iş kesintisi ve öngörülemeyen kayıplardan şirketimiz sorumlu değildir, sözleşme kapsamı dışında tutulmuştur.</p>
+         <p>Kullanım Koşulları İhlalleri</p>
+         <p>16.1. Kuralların ihlal edilmesi sonucu ortaya çıkacak herhangi sorumluluk, maliyet, harcama (yasal masraflar dahil) ve olası masrafları karşılamak sizin sorumluluğunuzdadır.</p>
+         <p>16.2. Kulanım koşullarını ihlal ettiğinizde, haklar saklı tutulur ancak, yaptığınız faaliyetin kurallara aykırı olduğu ve durdurmanız gerektiği size iletişim bilgileriniz kullanılarak bildirilir, hesabınız dondurulur ve bahis ve oyun oynamanız engellenir, size ön bilgi verilerek ya da verilmeden hesabınız kapatılır.</p>
+         <p>16.2.4. Herhangi bir kural ihlalinden oluşan para çekme, kazanç ve bonuslar hesaptan geri alınır.</p>
+         <p>16.3. Kurallara uyulmaması halinde kullanıcı kodu ve şifresi devre dışı bırakılması şirketimizin kararına bağlıdır. Spor bahisleri ve casino oyunlarındaki işlemlerinizde ortak IP adresi ya da aynı cihaz üzerinden ortak kullanımı tespit edilen farklı üyelikler mevcut ise, kazançlarınız iptal edilerek bakiyeniz sıfırlanmaktadır. (Aynı oyun için alınan karşılıklı bahisler, ortak IP adresi ve hesap kullanımı, harici program vb.)</p>
+         <p>Fikri Mülkiyet Hakları</p>
+         <p>17.1. Tüm web sitesi tasarımı, yazılar, grafikler, müzik, ses, fotoğraf, video, bunların seçimi ve düzenlenmesi, yazılım derlemeleri, kaynak kodu, yazılım ve tüm materyaller telif hakları bize ait veya üçüncü taraf hak sahiplerinin lisansı altında kullanılan diğer mülkiyet haklarına tabidir. Web sitesinde bulunan materyaller, yalnızca tek bir kişisel bilgisayara kişisel kullanım için indirilebilir ve ticari amaçla kullanılamaz.</p>
+         <p>17.2. Hiçbir suretle bize veya üçüncü taraf hak sahiplerine ait hakların herhangi bir kullanıcıya devredilmesi söz konusu değildir.</p>
+         <p>17.3. Kurallara bağlı olarak izin verilmediği sürece Web sitesinde görülen ticari marka, ticari isim ve logoların kullanımı ve yeniden üretilmesi yasaktır.</p>
+         <p>Kişisel Bilgiler</p>
+         <p>18.1. Websitemiz tarafından alınan kişisel bilgiler, data güvenlik yasaları gereğince korunmaktadır. Sitemiz kişisel bilgilerin kullanımı konusundaki yükümlülüklerini titizlikle yerine getirmektedir.</p>
+         <p>18.2. Sitemize verdiğiniz kişisel bilgilerin, site koşulları gereğince web sitemiz tarafından kullanımını, yasal ve düzenleyici zorunluluklar gereği kullanımı kabul etmiş sayılırsınız.</p>
+         <p>18.3. Şirket politikası gereği hiçbir kişisel bilgi, hizmet vermekle yükümlü olarak bilgiye erişim hakkı olan firma çalışanlarının dışında, üçüncü şahıslarla paylaşılmamaktadır.</p>
+         <p>18.4. Sizden aldığımız bilgilerin doğru bir şekilde kaydını sağlamak için bize göndermiş olduğunuz her türlü iletişim bilgisinin kopyası (e-maillerin kopyası da dahil olmak üzere) tarafımızdan saklı tutulacakdır.</p>
+         <p>Çerezlerin Kullanımı</p>
+         <p>19.1. Web sitesinin etkin kullanımı için ‘çerezler’ den faydalanılır. Çerezler bilgisayarınıza indirilen küçük text dosyalarıdır ve siteye tekrar geldiğinizde hatırlanmanızı sağlar. Çerezlerin nasıl kontrol edileceği ve silineceği bilgileri www.aboutcookies.org adresinden öğrenilebilir. Çerezlerin silinmesi ve devre dışı bırakılmasıyla web sitesinin bazı özelliklerine ulaşamayabilir veya kullanamayabilirsiniz.</p>
+         <p>Şikayetler ve Bildirimler</p>
+         <p>20.1. Web sitesi hakkında herhangi bir şikayette bulunmak için öncelikle müşteri ilişkileri birimiyle iletişime geçmelisiniz.</p>
+         <p>20.2. Herhangi bir anlaşmazlık durumunda, sunucu kayıtlarının herhangi bir maçın sonucunu belirlemede nihai otorite olarak tanınacağını kabul etmiş sayılırsınız.</p>
+         <p>20.3. Kullanıcı ekranında görünen sonuç ve oyun sunucusundaki sonuç arasında herhangi bir farklılık olması durumunda oyun sunucusundaki veriler geçerli sayılır, online oyunlara katılımınız sırasında kuralları ve koşulları belirleyen nihai otoritenin tarafımız olduğunu kabul etmiş sayılırsınız.</p>
+         <p>20.4. Herhangi bir itilaf durumunda iletişim bilgileriniz kullanılarak sizinle iletişime geçilecektir.</p>
+         <p>Tercüme</p>
+         <p>21.1. Kuralların yazıldığı dil İngilizce’dir ve yapılan tüm tercümeler İngilizce orijinal metin üzerinden çevrilmiştir. Kuralların veya herhangi bir belge ya da bildirimlerin başka bir dile çevrilmesi durumunda, orijinal İngilizce versiyonu geçerli olacaktır.</p>
+         <p>Hakların ve Yükümlülüklerin Devri</p>
+         <p>22.1. Kuralların aynen ya da size daha az avantaj sağlamayacak şekilde başka bir kişiye devredilmesi, atanması, alt lisans ya da rehin verilmesi hakları tarafımızca saklı tutulur.</p>
+         <p>Kontrolümüz Dışındaki Olaylar</p>
+         <p>23.1. Savaş, toplumsal ayaklanma, internet hizmetlerinde kesinti, sanayi kaynaklı sıkıntılar ve DDOS saldırıları ve benzeri zorlayıcı nedenler gereği web sitemizin kontrolü dışında gerçekleşen olaylardan dolayı yaşanan hizmet verememe ya da hizmet gecikmesi gibi kullanım kuralları zorunluluklarının yerine getirilmemesi durumlarından şirketimiz sorumlu tutulamaz. Bu zorlayıcı nedenlerin devamı süresince hizmetlerimiz askıya alınmış sayılır ve hizmet verme süremiz, zorlayıcı nedenlerin devamı süresince uzatılmış sayılır. Sitemiz, bu zorlayıcı nedenleri sonlandırmak ya da zorlayıcı nedenlere rağmen mümkün olduğunca zorunluluklarını yerine getirmek için çözüm bulmak için mümkün olan gayreti gösterecektir.</p>
+         <p>Feragat</p>
+         <p>24.1. Sitemizin, kullanıcı olarak sizin yerine getirmekle yükümlü olduğunuz zorunlulukları ihmal etmeniz durumunda uyarıda bulunmaması ya da sitemizin yetkili olduğu hakları ve düzenlemeleri uygulamada oluşacak aksaklıklar, sizin bu hak ve zorunluluklardan feragatinizi sağlamaz ve bu zorunluluklara olan yükümlülüğünüzü ortadan kaldırmaz.</p>
+         <p>24.2. Tarafınızdan kaynaklı yükümlülüklerin yerine getirilmemesinden doğacak feragat, buna bağlı oluşacak başka bir feragatı teşkil etmez. Açıkça belirtilmediği ve size yazılı olarak bildirilmediği sürece, kullanım koşullarından kaynaklı hiç bir feragat söz konusu değildir.</p>
+         <p>Bölünebilirlik</p>
+         <p>25.1. Kurallardan herhangi birinin geçersiz, yasadışı veya uygulanamaz olduğuna karar verilirse bu kurallar diğer kurallardan ayrılır, diğer kurallar kanunların izin verdiği ölçüde geçerli kalır. Bu durumlarda, geçersiz veya uygulanamaz olan kısımlar yasalara uygun ve orijinal metinde verilen anlama en yakın olacak şekilde tadil edilir.</p>
+         <p>Hukuk ve Yargı</p>
+         <p>26.1. Tüm durumlarda Curacao kanunları geçerlidir.</p>
+         <p>26.2. Curacao Mahkemelerinin Kullanım Kurallarından kaynaklanan herhangi bir ihtilaf olduğunda münhasır yargı yetkisine sahiptir.</p>
+         <p>Sorumlu Oyun Ve Bahis</p>
          <p>27.1. Kendini kısıtlamak isteyen kullanıcılar için hesabınızı kapatabilmenizi ya da bahis oynamanızı sınırlamanızı sağlayabileceğiniz isteğe bağlı kendini kısıtlama politikası sunulmaktadır. Bu hizmetle ilgili bilgi edinmek için müşteri ilişkileri bölümü ile görüşün.</p>
          <p>27.2. Kendini kısıtlama hizmetinin kullanılmasına tarafımızdan yardımcı olunacaktır. Ancak bahis oynamak için siteyi kullanmanızın tarafımızdan tespit veya fark edilememesi halinde herhangi bir sorumluluk tarafımızdan kabul edilmez.</p>
          <p>27.3. Sorumlu Oyun girişimlerini destekleyeceğimizi taahhüt eder, Sorunlu Oyun ile ilgili bilgi edinmek için aşağıdaki siteyi ziyaret etmenizi öneririz.</p>
          <p>27.4 Madde 27.1’de atıfta bulunulan limitlerin sonuçları, Şirketin sizin tarafınızdan belirlenen bir limit veya hariç tutmanın aksine sizden bir bahsi kabul etmemek için tüm makul çabayı göstereceğidir. Ancak, bahis oynamak için Web Sitesini kullandığınızın tarafımızca tespit edilmemesi veya fark edilmemesi durumunda Şirket herhangi bir sorumluluk kabul etmez.</p>
          <p>27.5. Sorumlu Oyun girişimlerini desteklemeye kararlıyız. Sorunlu Oyun hakkında bilgi edinmek için aşağıdaki siteyi ziyaret etmenizi öneririz.<br>
-            <a href="http://www.gamblingtherapy.org/">www.gamblingtherapy.org</a>
+            www.gamblingtherapy.org
          </p>
-         <ol>
-            <li><strong>Linkler</strong></li>
-         </ol>
-         <p>28.1. Sitemizde bağlantı verilen diğer tüm siteler yalnızca bilgilendirme amaçlıdır. Bu bağlantıların kullanımı sizin sorumluluğunuzdadır ve bu sitelerin kullanımından veya içeriğinden doğabilecek herhangi bir sorundan sorumlu değiliz.</p>
-         <ol>
-            <li><strong>Canlı Bahis</strong></li>
-         </ol>
-         <p>29.1. Canlı bir etkinlik sırasında Pusulabet’te görüntülenen herhangi bir istatistik (örn. skor, zaman bilgisi) yalnızca genel bilgi amaçlıdır, doğruluk garantisi yoktur ve bahis oynamak için bunlara güvenilmemelidir.</p>
-         <p>29.2. Bahisler, kabul süresi boyunca “bekletme” modunda tutulacak ve daha sonra kabul edilecek veya geçersiz sayılacaktır.</p>
-         <p>29.3. “Beklemede” modunda olan bahisler, kabul süresine kadar o bahsin piyasasının önemli ölçüde değiştiği belirlenirse geçersiz kılınabilir.</p>
-         <p>29.4. Şirket, herhangi bir pazardaki bahisleri önceden haber vermeksizin durdurma hakkını saklı tutar.</p>
-         <p>29.5. Şirketin, canlı bir etkinliğin sonucu belli olduktan sonra bir canlı bahsin oynandığına inanmak için bir nedeni varsa veya herhangi bir teknik arıza meydana gelirse, canlı bahis takımı avantaj kazandıktan sonra yanlış oranlar girilirse, şirket haklıdır. herhangi bir sebep göstermeden bahsi geçersiz kılmak.</p>
-         <ol>
-            <li><strong>Bonuslar</strong></li>
-         </ol>
-         <p>30.1. Bonuslar, Oyuncularımız için oluşturulan promosyonlardır. Sadece benzersiz bir IP adresine sahip Oyuncular bonuslarımızdan yararlanabilir. Bu sebeple sitemize internet kafe, lojman, kafe, işyeri, yurt gibi ortak ağlardan giriş yaparsanız bonus almayınız. Aksi takdirde sorumluluk kabul edilmeyecektir.</p>
-         <p>30.2. Aynı IP adresinden birden fazla üyelik olması durumunda tüm bonuslarınız ve kazançlarınız İPTAL edilecektir.</p>
-         <p>30.3. Sadece bir tür bonus para yatırma için uygundur.</p>
-         <p>30.4 [50.000 TRY ] tutarını aşan bonuslar, ancak maddede açıklanan doğrulama sürecini geçtikten sonra verilecektir. 5.4.</p>
-         <ol>
-            <li><strong>Mutlak Kısıtlama</strong></li>
-         </ol>
-         <p><strong>United States of America or the U.S.A dependencies, Canada, United Kingdom, Spain, France, Italy, The Netherlands, Aruba, Bonaire, Curacao, St Maarten, Statia, and Belgium.</strong></p>
-         <ol>
-            <li><strong>Kara listeye alınan bölgeler</strong></li>
-         </ol>
-         <p><strong>NetEnt içeriği aşağıdaki bölgelerde kullanılamayacak:</strong></p>
-         <p>Afghanistan, Albania, Algeria, Angola, Australia, Bahamas, Botswana, Cambodia, Ecuador, Ethiopia, Ghana, Guyana, Hong Kong, Iran, Iraq, Israel, Kuwait, Laos, Myanmar, Namibia, Nicaragua, North Korea, Pakistan, Panama, Papua New Guinea, Philippines, Singapore, Sri Lanka, Sudan, Syria, Taiwan, Trinidad and Tobago, Tunisia, Uganda, Yemen, Zimbabwe</p>
-         <ol>
-            <li><strong>Düzenlenmiş Bölgeler (yalnızca NetEnt tarafından görülen ve onaylanan yerel düzenleyiciden bir lisans alınmışsa teklif verin)</strong></li>
-         </ol>
+         <p>Linkler</p>
+         <p>28.1. Sitemizde link verilen diğer sitelerin tamamı bilgi amaçlıdır. Bu linklerin kullanımı sizin sorumluluğunuzdadır ve bu sitelerin kullanımından veya içeriğinden ortaya çıkacak sorunlar tarafımızın sorumluluğunda değildir.</p>
+         <p>Canlı Bahis</p>
+         <p>29.1. Web sitesinde canlı bir olay sırasında görüntülenen herhangi bir istatistik (örnek olarak skor, zaman bilgisi) sadece genel bilgi amacıyladır, doğru olduğunun garantisi yoktur ve bahis yapamk için buna güvenilmemelidir.</p>
+         <p>29.2. Bahisler kabul süresi aralığında “bekleme” modunda tutulacak ve sonrasında kabul edilecek veya geçersiz olacaktır.</p>
+         <p>29.3. “Bekleme” modunda olan bahisler o bahis için pazarın kabul süresine kadar önemli ölçüde değiştiğine karar verilirse iptal edilebilir.</p>
+         <p>29.4. Şirket herhangi bir pazarda bahisleri haber vermeden durdurma hakkını saklı tutar.</p>
+         <p>29.5. Şirketin, canlı bir olayın sonucu bilindikten sonra bir canlı bahis girildiğine inanmak için nedenleri varsa veya herhangi bir teknik arıza oluşmuşsa, canlı bahis alınan takım bir avantaj elde ettikten sonra yanlış oranda girildiyse, şirketin herhangi bir neden göstermeden bahsi geçersiz kılma hakkı vardır.</p>
+         <p>Bonuslar</p>
+         <p>30.1. Bonuslar kullanıcılarımız için oluşturulmuş promosyonlardır. Bonuslarımızdan sadece tekil IP adresine sahip kullanıcılar yararlanabilir. Bu nedenle internet cafe, lojman, cafe, işyeri, yurt gibi paylaşılan ağlardan sitemize giriş yapıyorsanız bonus almayınız. Aksi halde hiçbir sorumluluk kabul edilmeyecektir.</p>
+         <p>30.2. Aynı IP adresinden birden fazla üyelik olduğunda tüm bonus ve kazançlarınız İPTAL edilir.</p>
+         <p>30.3. Bir para yatırımı için sadece bir bonus türü hak edilir.</p>
+         <p>30.4. 50.000₺ tutarını aşan bonuslar, ancak 5.4. maddede de belirtildiği üzere doğrulama işlemi tamamlandıktan sonra tanımlanacaktır.</p>
+         <p>Mutlak Kısıtlama</p>
+         <p>United States of America, Canada, United Kingdom, Spain, France and Italy.</p>
+         <p>Kara listeye alınan bölgeler</p>
+         <p>NetEnt içeriği aşağıdaki bölgelerde sunulmayacaktır:</p>
+         <p>Afghanistan, Albania, Algeria, Angola, Australia, Bahamas, Botswana, Cambodia, Ecuador, Ethiopia, Ghana, Guyana, Hong Kong, Iran, Iraq, Israel, Kuwait, Laos, Myanmar, Namibia, Nicaragua, North Korea, Pakistan, Panama, Papua New Guinea, Philippines, Singapore, Sri Lanka, Sudan, Syria, Taiwan, Trinidad and Tobago, Tunisia, Uganda, Yemen, Zimbabwe.</p>
+         <p>Düzenlenmiş Bölgeler (yalnızca NetEnt tarafından görülen ve onaylanan yerel düzenleyiciden bir lisans alınması durumunda teklif verilmelidir)</p>
          <p>Belgium, Bulgaria, Canada, Czech Republic, Denmark, Estonia, France, Italy, Latvia, Lithuania, Mexico, Portugal, Romania, Serbia, Spain, Sweden, United Kingdom, the United States of America.</p>
-         <ol>
-            <li><strong>Markalı Oyun Alanları</strong></li>
-         </ol>
-         <p><strong>Jumanji, emojiplanet, Guns &amp; Roses, Jimi Hendrix &amp; Motörhead, Planet of the Apes aşağıdaki ülkelerde sunulamaz:</strong></p>
+         <p>Markalı Oyun Bölgeleri</p>
+         <p>Jumanji, emojiplanet, Guns &amp; Roses, Jimi Hendrix &amp; Motörhead, Planet of the Apes&nbsp;aşağıdaki ülkelerde teklif edilemez:</p>
          <p>Afghanistan, Albania, Algeria, Angola, Australia, Bahamas, Botswana, Cambodia, Ecuador, Ethiopia, Ghana, Guyana, Hong Kong, Iran, Iraq, Israel, Kuwait, Laos, Myanmar, Namibia, Nicaragua, North Korea, Pakistan, Panama, Papua New Guinea, Philippines, Singapore, Sri Lanka, Sudan, Syria, Taiwan, Trinidad and Tobago, Tunisia, Uganda, Yemen, Zimbabwe. Belgium, Bulgaria, Canada, Czech Republic, Denmark, Estonia, France, Italy, Latvia, Lithuania Mexico, Portugal, Romania, Serbia, Spain, Sweden, United States of America, United Kingdom, Azerbaijan, China, India, Malaysia, Qatar, Russia, Thailand, Turkey and Ukraine.</p>
-         <p><strong>Vikings Video Slot aşağıdaki yargı bölgelerinde sunulmamalıdır:</strong></p>
+         <p>Vikingler Video Slot aşağıdaki yargı alanlarında sunulmamalıdır:</p>
          <p>Afghanistan, Albania, Algeria, Angola, Australia, Azerbaijan, Cambodia, China, Ecuador, France, Guyana, Hong Kong, India, Indonesia, Iran, Iraq, Israel, Kuwait, Laos, Malaysia, Myanmar, Namibia, North Korea, Pakistan, Papua New Guinea, Philippines, Qatar, Russia, Singapore, South Korea, Sudan, Syria, Taiwan, Thailand, Tunisia, Turkey, Ukraine, United States of America, Uganda.</p>
-         <p><strong>Universal Monsters (Frankenstein, the Bride of Frankenstein, Dracula, The Mummy, The Wolf Man, Creature from the Black Lagoon ve The Invisible Man) yalnızca aşağıdaki ülkelerde oynanabilir:</strong></p>
-         <p>Andorra, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Brazil, Georgia, Iceland, Liechtenstein, Moldova, Monaco, Montenegro, Norway, Russia, San Marino, Serbia, Switzerland, Ukraine, Croatia, Macedonia, Turkey, Austria, Bulgaria, Cyprus , Czech Republic, Finland, France, Germany, Greece, Hungary, Ireland, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Peru, Poland, Slovakia, Slovenia, and Sweden.</p>
-         <ol>
-            <li><strong>Hizmetlerin kullanımı yalnızca eğlence amaçlıdır: profesyonel oyunlar yasaktır.</strong></li>
-         </ol>
-         <p>Oyuncu, Hizmetleri kesinlikle profesyonel olmayan, kişisel amaçlarla kullanabilir. Hizmetlerin üçüncü bir taraf veya şirket adına kullanılması yasaktır. Oyuncu; sadece eğlence amaçlı olarak sunulan Hizmetler’i şartlar ve koşullar ile yasa, kural ve yönetmeliklere uygun olarak kullanabilir. Kurumsal bir oyuncu tarafından sunulan hizmetlerin ticari amaçla kullanılması yasaktır. Hizmetlerin bu maddeyi ihlal edecek şekilde kullanıldığı şüphesi üzerine, Şirket herhangi bir bonus teklifini değiştirme veya sonlandırma, kazançları iptal etme ve ilgili Oyuncu Hesaplarını kapatma hakkını saklı tutar.</p>
-         <ol>
-            <li><strong>Çoklu hesap yasağı:</strong></li>
-         </ol>
-         <p>Bir Oyuncunun birden fazla hesap açması kesinlikle yasaktır. Bu yasağın, gizli anlaşma ve iştirak dolandırıcılığının önlenmesi gibi çeşitli nedenleri vardır. Ayrıca, bir oyuncunun para aklamak için kendi hesaplarından birini kasıtlı olarak başka bir oyuncu hesabına kaybetmek için kullandığı chip dökümü için birden fazla hesap kullanılabilir. Kurallara aykırı olarak Oyuncu Hesabı açan Oyuncuların veya Oyuncu gruplarının tespit edilmesi durumunda; hesabı veya hesapları kapatma, sunulan bonusları veya varsa kazançları iptal etme hakkına sahiptir.</p>
-         <ol>
-            <li><strong>Yapılan her yatırıma ilişkin açıklama</strong></li>
-         </ol>
-         <p>Oyuncu, yaptığı her para yatırma işleminde yaptığı her yatırımın yasadışı yollarla elde edilmediğini kabul ve beyan eder. Sitemiz bu kural kapsamındadır; işlem hakkında ek bilgi talep etme hakkını saklı tutar.</p>
-         <ol>
-            <li><strong>Günlük yapılabilecek maksimum yatırım miktarı</strong></li>
-         </ol>
-         <p>24 saat içerisinde yapılabilecek yatırım miktarı sınırsızdır. Her üye istediği kadar yatırım yapabilir.</p>
-         <ol>
-            <li><strong>Büyük yatırımlar için yatırım kaynağı</strong></li>
-         </ol>
-         <p>Sitemiz; tek seferde 50.000₺’den fazla yapılacak yatırımlar için yatırım kaynağını isteme hakkını saklı tutar.</p>
-         <ol>
-            <li><strong>Günlük maksimum kazanç. Oyuncu belirlenen maksimumdan daha fazla kazanırsa, operatör maksimum miktarın üzerindeki tüm kazançları iptal etme hakkını saklı tutar.</strong></li>
-         </ol>
-         <p>Günlük olarak kazanılabilecek maksimum miktar; 1.000.000₺’dir. Belirtilen miktarın üzerindeki kazançlar iptal edilebilir.</p>
-         <ol>
-            <li><strong>Aynı ödeme yöntemi ile yatırım ve para çekme işlemlerinin yapılması</strong></li>
-         </ol>
-         <p>Aksi belirtilmedikçe; tüm para çekme işlemleri; Oyuncunun yatırım yaparken kullanmayı tercih ettiği yöntemle yapılır. Oyuncunun birden fazla yöntemle yatırım yapması ve para çekme talebi göndermesi durumunda, kara para aklama önlemleri kapsamında her bir yatırım yöntemine karşılık gelen para çekme talebini tamamlama hakkı saklıdır.</p>
-         <ol>
-            <li><strong>Aynı ödeme yöntemi ile yatırım ve para çekme işlemlerinin yapılması</strong></li>
-         </ol>
-         <p>Para yatırma ve çekme işlemleri için, oyuncu yalnızca kendi adına bir Oyuncu Hesabı kullanarak talepte bulunabilir. Oyuncu, sitedeki tüm para yatırma ve çekme işlemlerini sadece ikamet ettiği ülkede hizmet veren ve adına ait finansal araçlarla yapacağını kabul eder.<br>
-            Kara para aklama önlemleri kapsamında, oyuncunun sitemizden kendisine ait olmayan bir Oyuncu Hesabına para çekmesi yasaktır.
-         </p>
-         <ol>
-            <li><strong>Günlük para çekme limiti ve yöntem başına maksimum para çekme</strong></li>
-         </ol>
-         <p>Oyuncu ile site arasında farklı bir anlaşma olmadığı sürece 24 saatlik süre içerisinde çekilebilecek maksimum tutar 10.000.000₺’dir.<br>
-            Kara para aklama ve şüpheli işlemlerin önlenmesi kapsamında sitemiz para çekme taleplerinizi iptal edebilir ve taleplerinizi gerekli inceleme için bekletebilir. Bu maddedeki limitler ne olursa olsun maksimum para çekme miktarı; Oyuncunun işlem yaparken seçtiği ödeme yönteminin belirlediği limitlere göre belirlenir.
-         </p>
-         <ol>
-            <li><strong>Hak ve yükümlülüklerin devri</strong></li>
-         </ol>
-         <p>Her oyuncunun hesabı kendi kişisel bilgilerini içerdiğinden, her hesap kişiseldir. Kara para aklama, terör örgütünün finansmanı veya benzeri suçların işlenmesini önlemek için; oyuncu hesabının hak ve yükümlülüklerinin tamamını veya bir kısmını başka bir oyuncuya veya kişiye devredemez.<br>
-            Oyuncu; Şartlar ve koşullar kapsamındaki haklarından herhangi birini kabul etmezse sitemize karşı tüm haklarını kaybeder.<br>
-            Kara para aklama politikaları ve yönetmeliklerine uygun olarak; Para çekme işleminin, yapılan yatırım yöntemiyle aynı şekilde yapılması şartıyla. Bir oyuncunun haklarını ve/veya yükümlülüklerini mahkeme kararı veya kanunla devretmesi yasal kabul edilir.
-         </p>
-         <ol>
-            <li><strong>Şikayetler, anlaşmazlıklar ve alternatif uyuşmazlık çözümü</strong></li>
-         </ol>
-         <p>İşbu hüküm ve koşullara tabi sözleşmeden kaynaklanan herhangi bir ihtilaf durumunda, site yönetimini temsil eden kişinin, ihtilaflı üyenin yazılı talep tarihinden itibaren 14 iş günü içerisinde anlaşmazlığı çözmek için üye ile görüşmesi gerekmektedir.<br>
-            Söz konusu uyuşmazlığın karşılıklı müzakerelerle tamamen çözülememesi halinde; Taraflar, uyuşmazlığı çözmek için arabulucu ile uyuşmazlığı çözmeyi kabul ederler. Arabulucu, site yönetimi tarafından belirlenecek ve anlaşmazlığın arabuluculuk yoluyla çözüme kavuşturulması kararından itibaren 14 iş günü içinde taraflara yazılı olarak bildirilecektir.<br>
-            Aksi kararlaştırılmadıkça; Arabuluculuk süreci, Alternatif Uyuşmazlık Çözümü bildiriminden en geç 8 hafta sonra başlayacaktır.
-         </p>
-         <p>&nbsp;</p>
-         <p>&nbsp;</p>
+         <p>Universal Monsters (Frankenstein, the Bride of Frankenstein, Dracula, The Mummy, The Wolf Man, Creature from the Black Lagoon and The Invisible Man), sadece aşağıdaki ülkelerde oynanabilir:</p>
+         <p>Andorra, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Brazil, Georgia, Iceland, Liechtenstein, Moldova, Monaco, Montenegro, Norway, Russia, San Marino, Serbia, Switzerland, Ukraine, Croatia, Macedonia, Turkey, Austria, Bulgaria, Cyprus, Czech Republic, Finland, France, Germany, Greece, Hungary, Ireland, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Peru, Poland, Slovakia, Slovenia, and Sweden.</p>
+         <p>Hizmetlerin kullanımı yalnızca eğlence amaçlıdır: profesyonel oyun yasaktır.</p>
+         <p>Oyuncu, hizmetleri kesinlikle profesyonel olmayan, kişisel amaçları doğrultusunda kullanabilir. Üçüncü bir şahıs ya da şirket adına hizmetleri kullanması yasaktır. Oyuncu; sunulan hizmetleri hüküm ve koşulların yanı sıra kanun, kural ve düzenlemelere uygun olarak yalnızca eğlence amaçlı olarak kullanabilir. Sunulan hizmetlerin kurumsal bir oyuncu tarafından ticari bir amaçla kullanılması yasaktır.</p>
+         <p>Çoklu hesap yasağı</p>
+         <p>Kara para aklama, gizli anlaşmalar gibi girişimlerin önüne geçmek için; bir kullanıcının birden fazla hesap açması kesinlikle yasaktır. Sitemiz; kurallara aykırı şekilde hesap açan kullanıcı ya da kullanıcı gruplarının tespit edilmesi durumunda; hesap ya da hesapların kapatılması, sunulmuş olan bonusların veya varsa elde edilmiş kazançların iptal edilmesi hakkına sahiptir.</p>
+         <p>Yapılan her yatırım ile ilgili beyan</p>
+         <p>Oyuncu yapmış olduğu her bir para yatırma işleminde, yapmış olduğu her bir yatırımın herhangi bir yasa dışı yolla elde edilmediğini kabul ve beyan eder. Sitemiz bu kural kapsamında; yapılan işlem ile ilgili ek bilgi talep etme hakkını saklı tutar.</p>
+         <p>Günlük yapılabilecek en fazla yatırım miktarı</p>
+         <p>24 Saat içerisinde yapılabilecek yatırım miktarı sınırsızdır. Herhangi bir üye dilediği kadar para yatırımı yapabilir.</p>
+         <p>Büyük miktardaki yatırımlar için yatırım kaynağı</p>
+         <p>Sitemiz; tek seferde 50.000₺’den daha fazla miktarda yapılacak olan yatırımlar için yatırım kaynağını sorma hakkını saklı tutar.</p>
+         <p>Günlük maksimum kazanç.</p>
+         <p>Oyuncu belirlenen maksimum kazançtan daha fazla kazanırsa, operatör maksimum tutarın üzerindeki tüm kazançları iptal etme hakkını saklı tutar</p>
+         <p>Günlük olarak kazanılabilecek en yüksek miktar; 5.000.000₺’dir. Belirlenen miktarın üzerindeki kazançlar iptal edilebilir.</p>
+         <p>Yatırım ve çekim işlemlerinin aynı ödeme yöntemi ile yapılması</p>
+         <p>Aksi belirtilmedikçe; tüm para çekme işlemleri; oyuncunun yatırım yaparken kullanmayı tercih ettiği yöntem ile yapılmaktadır. Oyuncunun birden çok yöntem ile yatırım yapması ve para çekme talebi iletmesi durumunda kara para aklama önlemli kapsamında her yatırım yöntemine karşılık gelecek şekilde çekim talebinin tamamlanması hakkı saklıdır.</p>
+         <p>Yatırım ve çekim işlemlerinin aynı ödeme yöntemi ile yapılması</p>
+         <p>Para yatırma ve çekme işlemleri için oyuncu sadece kendi adına ait bir hesap kullanarak talep iletebilir. Oyuncu sitede yaptığı para yatırma ve çekme işlemlerinin tamamını sadece kendi adına ait ve ikamet ettiği ülkede hizmet veren finansal araçlar ile yapacağını kabul etmektedir.</p>
+         <p>Kara para aklama önlemleri kapsamında oyuncunun kendisine ait olmayan bir hesaba sitemizden para çekimi yapması yasaktır.</p>
+         <p>Günlük para çekme limiti ve yöntem başına çekilebilecek en yüksek miktar</p>
+         <p>Oyuncu ve site arasında daha farklı bir anlaşma olmadığı sürece 24 saatlik zaman dilimi içerisinde çekilebilecek en yüksek miktar 5.000.000₺’dir.</p>
+         <p>Sitemiz kara para aklama ve şüpheli işlemlerin önlenmesi kapsamında çekim taleplerinizi iptal ederek gerekli inceleme yapılması amacıyla taleplerinizi bekletebilir.</p>
+         <p>Bu maddede yer alan limitlere bakılmaksızın, maksimum para çekme miktarı; oyuncu tarafından işlem yapılırken seçilen ödeme yöntemi tarafından belirlenen limitlere göre belirlenmektedir.</p>
+         <p>Hak ve yükümlülüklerin devri</p>
+         <p>Her bir oyuncunun hesabı kendi kişisel bilgilerini içerdiği için her bir hesap kişiye özeldir. Herhangi bir kara para aklama, terör örgütü finansmanı veya benzeri suçların işlenmesini önlemek için; oyuncunun hesabına ait hak ve yükümlülüklerinin tamamını ya da bir kısmını herhangi bir başka oyuncuya ya da kişiye devredemez.</p>
+         <p>Oyuncunun; kurallar ve şartlar altındaki haklarından herhangi birisini kabul etmemesi durumunda sitemize karşı sahip olduğu tüm haklarını kaybetmektedir.</p>
+         <p>Para aklama politikaları ve düzenlemeleri gereğince; yapılan yatırım yöntemi ile aynı olacak şekilde para çekme işlemi yapılması kaydı ile. Bir oyuncunun mahkeme kararı ya da bir kanun ile hak ve/veya yükümlülüklerini devredebilmesi yasal olarak kabul edilir.</p>
+         <p>Şikayetler, uyuşmazlıklar ve alternatif uyuşmazlık çözümleri</p>
+         <p>Bu hüküm ve koşullara tabi olan sözleşmeden kaynaklı herhangi bir ihtilaf çıkması durumunda, uyuşmazlık yaşayan üyenin talebini yazılı olarak iletmesinden itibaren 14 iş günü içerisinde site yönetimini temsil eden kişinin üye ile uyuşmazlığın giderilmesi adına görüşme yapması gerekmektedir.</p>
+         <p>Söz konusu uyuşmazlığın karşılıklı görüşmeler ile tamamen giderilememesi durumunda; taraflar uyuşmazlığın giderilmesi için arabulucu ile uyuşmazlığın giderilmesini kabul ederler. Uyuşmazlığın arabuluculuk ile giderilmesine karar verilmesinden itibaren 14 iş günü içerisinde arabulucu site yönetimi tarafından belirlenerek taraflara yazılı olarak bildirilecektir.</p>
+         <p>Aksi kararlaştırılmadığı sürece; arabuluculuk süreci, Alternatif Uyuşmazlık Çözümü bildiriminden en geç 8 hafta içerisinde başlayacaktır.</p>
+         <ul>
+            <li><strong>Hesap Güvenliği</strong></li>
+         </ul>
+         <p>Kullanıcı adı ve şifrenizi kimseyle paylaşmayınız. Hesabınız onaylandıktan sonra vermiş olduğunuz para çekim talepleriniz çevrim şartları dahilinde ödenecektir. Sitemizde hesap sahibi dışında verilen çekim taleplerinden sorumlu değildir. Hesabınızın 3. şahısların kontrolüne geçmesini istemiyorsanız eğer SMS güvenliği’ butonunu aktif hale getirmeniz gerekmektedir. Sitemiz bu tür hesap sahiplerinin dışında yapılan işlemlerden sorumlu değildir ve sitemizde bu duruma engel olmak için güvenlik yolları mevcuttur. Hesap güvenliği hesap sahibinin sorumluluğundadır.</p>
       </span>
       <span></span>
    </div>

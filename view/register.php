@@ -78,13 +78,13 @@ body.Page-Casino.Page-Sports .SectionContent {
    <div class="RegisterFormWrapper ">
       <div class="RegisterFormBanner">
          <div class="RegisterFormImage">
-            <figure class="Figure ComponentPicture ">
+         <figure class="Figure ComponentPicture ">
             <picture class="Picture">
-               <source srcset="/stateless-pusulabet-one/2021/03/a2b8b080-pusula-login1.jpg" media="(max-width: 1099px)">
-               <source srcset="/stateless-pusulabet-one/2021/03/2da356b8-pusula-login2.jpg">
-               <img loading="lazy" alt="" width="460" height="1000" class="PictureImg LazyImage" src="/stateless-pusulabet-one/2021/03/2da356b8-pusula-login2.jpg">
+               <source srcset="/stateless-matbet-one/2019/06/475831a3-yatay1.jpg" media="(max-width: 1099px)">
+               <source srcset="/stateless-matbet-one/2019/06/227d9cdb-dikey1.jpg">
+               <img loading="lazy" alt="" width="460" height="1000" class="PictureImg LazyImage" src="/stateless-matbet-one/2019/06/227d9cdb-dikey1.jpg">
             </picture>
-            </figure>
+         </figure>
          </div>
          <div class="RegisterFormBannerTitle">    </div>
          <div class="RegisterFormBannerText">    </div>

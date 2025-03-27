@@ -30,5 +30,17 @@
          Loyalty History
       </a>
    </div>
-  
+   <div class="GamificationWrapper">
+      <div class="GamificationProgress GamificationLeftSide">
+         <div class="GamificationProgressCard LoyaltyCard">
+            <player-elevate-loyaltycard player-name="" endpoint="" session="f0e7e92c-6bc2-41f9-9dc8-77f48c4d9121" language="tr" client-styling-url="/static/css/widgets/gamification-card/style-1.0.812.css" theme="Dark" date-format="yyyy-MM-dd" client-styling="" translation-url="" class="hydrated"></player-elevate-loyaltycard>
+         </div>
+         <div class="GamificationProgressCard PointCard">
+            <player-elevate-pointcard player-name="" endpoint="" session="f0e7e92c-6bc2-41f9-9dc8-77f48c4d9121" language="tr" client-styling-url="/static/css/widgets/gamification-card/style-1.0.812.css" theme="Dark" button-type="earningRule" date-format="yyyy-MM-dd" client-styling="" translation-url="" class="hydrated"></player-elevate-pointcard>
+         </div>
+      </div>
+      <div class="GamificationContent">
+         <bonus-elevate-shop endpoint="" session="f0e7e92c-6bc2-41f9-9dc8-77f48c4d9121" language="tr" client-styling-url="/static/css/widgets/gamification-shop/style-1.0.812.css" translation-url="/static/widgets/gamification-shop/translations/data.json" client-styling="" class="hydrated"></bonus-elevate-shop>
+      </div>
+   </div>
 </section>

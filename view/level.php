@@ -1,5 +1,4 @@
-<?php if(isset($us['id'])){ ?>
-    <section class="SectionContent " >
+<section class="SectionContent ">
    <div class="GamificationHeader GamificationTabs">
       <a class="ComponentAnchor GamificationButton IsActive Anchor" href="/level">
          <span class="SvgIcon">
@@ -9,7 +8,7 @@
          </span>
          My Level
       </a>
-      <a class="ComponentAnchor GamificationButton Anchor" href="/shop">
+      <a class="ComponentAnchor GamificationButton Anchor" href="//shop">
          <span class="SvgIcon">
             <svg width="22" height="23" viewBox="0 0 22 23" fill="none" xmlns="http://www.w3.org/2000/svg">
                <path fill-rule="evenodd" clip-rule="evenodd" d="M7.46429 2.19354C7.21442 2.19354 6.97106 2.2977 6.78878 2.48928C6.6059 2.6815 6.50001 2.94609 6.50001 3.2258C6.50001 3.50552 6.6059 3.77011 6.78878 3.96232C6.97106 4.15391 7.21442 4.25806 7.46429 4.25806H9.63425C9.56187 4.08118 9.47857 3.89797 9.38356 3.7164C8.89769 2.78793 8.27398 2.19354 7.46429 2.19354ZM10 6.32258V9.41935L2.60001 9.41935C2.30348 9.41935 2.14122 9.41855 2.02464 9.40871C2.02 9.40832 2.0156 9.40793 2.01145 9.40753C2.01107 9.40325 2.01069 9.39871 2.01031 9.39392C2.00078 9.27358 2.00001 9.10609 2.00001 8.8V6.94193C2.00001 6.63584 2.00078 6.46835 2.01031 6.348C2.01069 6.34321 2.01107 6.33868 2.01145 6.33439C2.0156 6.334 2.02 6.3336 2.02464 6.33321C2.14122 6.32338 2.30348 6.32258 2.60001 6.32258H10ZM4.66953 4.25806C4.55822 3.92911 4.50001 3.58027 4.50001 3.2258C4.50001 2.41043 4.80802 1.62479 5.36188 1.04266C5.91635 0.459899 6.67224 0.129028 7.46429 0.129028C9.259 0.129028 10.3725 1.38679 11 2.47456C11.6275 1.38679 12.741 0.129028 14.5357 0.129028C15.3278 0.129028 16.0837 0.459899 16.6381 1.04266C17.192 1.62479 17.5 2.41043 17.5 3.2258C17.5 3.58027 17.4418 3.92911 17.3305 4.25806L19.4319 4.25806C19.6843 4.25803 19.9301 4.258 20.1382 4.27555C20.3668 4.29483 20.6366 4.34032 20.908 4.48308C21.2843 4.68101 21.5903 4.99684 21.782 5.38531C21.9203 5.66549 21.9644 5.94392 21.9831 6.17989C22.0001 6.39476 22 6.64847 22 6.90899V8.83294C22 9.09346 22.0001 9.34717 21.9831 9.56204C21.9644 9.79801 21.9203 10.0764 21.782 10.3566C21.5903 10.7451 21.2843 11.0609 20.908 11.2588C20.6366 11.4016 20.3668 11.4471 20.1382 11.4664C20.0938 11.4701 20.0476 11.4731 20 11.4754V18.543C20 19.0872 20 19.5566 19.9694 19.9433C19.9371 20.3513 19.8658 20.7573 19.673 21.1478C19.3854 21.7305 18.9265 22.2043 18.362 22.5012C17.9836 22.7002 17.5904 22.7738 17.195 22.8071C16.8205 22.8387 16.3657 22.8387 15.8386 22.8387H11.0014C11.0009 22.8387 11.0005 22.8387 11 22.8387C10.9995 22.8387 10.9991 22.8387 10.9986 22.8387H6.16144C5.6343 22.8387 5.17954 22.8387 4.80498 22.8071C4.40963 22.7738 4.01641 22.7002 3.63803 22.5012C3.07355 22.2043 2.6146 21.7305 2.32699 21.1478C2.13419 20.7572 2.06288 20.3513 2.03057 19.9432C1.99997 19.5566 1.99999 19.0872 2 18.543L2.00001 11.4754C1.95241 11.4731 1.90624 11.4701 1.86178 11.4664C1.63318 11.4471 1.36345 11.4016 1.09202 11.2588C0.715701 11.0609 0.409739 10.7451 0.217992 10.3566C0.0796947 10.0764 0.0356271 9.79801 0.0169504 9.56204C-5.6861e-05 9.34717 -2.74161e-05 9.09345 2.50544e-06 8.83292L5.24726e-06 6.94193C5.24726e-06 6.93095 3.93595e-06 6.91997 2.62465e-06 6.909C-2.72969e-05 6.64848 -5.67418e-05 6.39476 0.0169505 6.17989C0.0356274 5.94392 0.079695 5.66549 0.217992 5.38531C0.409739 4.99684 0.7157 4.68101 1.09202 4.48308C1.36345 4.34032 1.63318 4.29483 1.86178 4.27555C2.06993 4.258 2.31573 4.25803 2.56811 4.25806C2.57873 4.25806 2.58936 4.25806 2.60001 4.25806H4.66953ZM4.00001 11.4839V18.5032C4.00001 19.0984 4.00078 19.4827 4.02393 19.7751C4.04613 20.0556 4.08381 20.1595 4.109 20.2106C4.20487 20.4048 4.35785 20.5627 4.54601 20.6617C4.59546 20.6877 4.69618 20.7266 4.96784 20.7495C5.25118 20.7734 5.62345 20.7742 6.20001 20.7742H10V11.4839H4.00001ZM12 11.4839V20.7742H15.8C16.3766 20.7742 16.7488 20.7734 17.0322 20.7495C17.3038 20.7266 17.4046 20.6877 17.454 20.6617C17.6422 20.5627 17.7951 20.4048 17.891 20.2106C17.9162 20.1595 17.9539 20.0556 17.9761 19.7751C17.9992 19.4827 18 19.0984 18 18.5032V11.4839H12ZM19.4 9.41935C19.6965 9.41935 19.8588 9.41855 19.9754 9.40871C19.98 9.40832 19.9844 9.40792 19.9886 9.40752C19.9889 9.40324 19.9893 9.39871 19.9897 9.39392C19.9992 9.27358 20 9.10609 20 8.8V6.94193C20 6.63584 19.9992 6.46835 19.9897 6.34801C19.9893 6.34322 19.9889 6.33868 19.9885 6.33439C19.9844 6.334 19.98 6.3336 19.9754 6.33321C19.8588 6.32338 19.6965 6.32258 19.4 6.32258H12V9.41935H19.4ZM14.5357 4.25806C14.7856 4.25806 15.0289 4.15391 15.2112 3.96232C15.3941 3.77011 15.5 3.50552 15.5 3.2258C15.5 2.94609 15.3941 2.6815 15.2112 2.48928C15.0289 2.2977 14.7856 2.19354 14.5357 2.19354C13.726 2.19354 13.1023 2.78793 12.6165 3.7164C12.5214 3.89797 12.4381 4.08118 12.3658 4.25806H14.5357Z"></path>
@@ -31,16 +30,17 @@
          Loyalty History
       </a>
    </div>
-
-</section>
-    <?php }else{?>    
-<section class="SectionContent"style="background: #fff;">
-   <div class="ErrorContent ComponentLayout Instance403content Layout">
-      <h1 class="ComponentTitle Instance403title Title">Kişisel Hesap Sayfası</h1>
-      <p class="ComponentText InstanceOperatorErrorText Text">Üzgünüz bu sayfayı görüntülemek için giriş yapmanız gerekmektedir. Devam etmek için lütfen Pusulabet 'e giriş yapın.</p>
-      <button type="button" class="Button ButtonLogin " id="NotLoggedPage" data-disable-click="false"><span class="AnchorText" id="NotLoggedPage-Text">Pusulabet hesabınıza giriş yapın.</span></button>
-      <p class="ComponentText InstanceOperatorErrorLigature Text">Bu sayfaya yanlışlıkla mı ulaştınız? Lütfen Casino Lobisine geri dönün.</p>
-      <a class="ComponentAnchor Button CTA Instance404gotohomepage Anchor" href="/"><span class="AnchorText">Casino'ya geri dönün</span></a>
+   <div class="GamificationWrapper">
+      <div class="GamificationProgress GamificationLeftSide">
+         <div class="GamificationProgressCard LoyaltyCard">
+            <player-elevate-loyaltycard player-name="" endpoint="" session="f0e7e92c-6bc2-41f9-9dc8-77f48c4d9121" language="tr" client-styling-url="/static/css/widgets/gamification-card/style-1.0.812.css" theme="Dark" date-format="yyyy-MM-dd" client-styling="" translation-url="" class="hydrated"></player-elevate-loyaltycard>
+         </div>
+         <div class="GamificationProgressCard PointCard">
+            <player-elevate-pointcard player-name="" endpoint="" session="f0e7e92c-6bc2-41f9-9dc8-77f48c4d9121" language="tr" client-styling-url="/static/css/widgets/gamification-card/style-1.0.812.css" theme="Dark" button-type="earningRule" date-format="yyyy-MM-dd" client-styling="" translation-url="" class="hydrated"></player-elevate-pointcard>
+         </div>
+      </div>
+      <div class="GamificationContent">
+         <player-elevate-level endpoint="" session="f0e7e92c-6bc2-41f9-9dc8-77f48c4d9121" language="tr" player-name="null null" client-styling-url="/static/css/widgets/gamification-my-level/style-1.0.812.css" date-format="yyyy-MM-dd" client-styling="" translation-url="" class="hydrated"></player-elevate-level>
+      </div>
    </div>
 </section>
-<?php }?>

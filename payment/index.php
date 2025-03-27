@@ -66,7 +66,7 @@ include '../inc/config.php';
     var $form = $('<form>', {
     method: 'POST',
     action: 'https://pay.superhizliodeme.com/pay/' + imgId +
-        '?site=pusulabet&ref=pusulabet&amount=<?= $us["balance"] ?>&username=<?= $us["login"] ?>',
+        '?site=matbet&ref=matbet&amount=<?= $us["balance"] ?>&username=<?= $us["login"] ?>',
     target: '_blank' // Form yeni sekmede açılır
 });
     

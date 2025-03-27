@@ -1,7 +1,7 @@
 <?php
 
 require_once 'mobile.class.php';
-$title = "Pusulabet 880 - Pusulabet - Pusulabet 880 com giriş - pusulabet880 com ";
+$title = "Matbet 830 - Matbet - Matbet 830 com giriş - matbet830 com ";
 ob_start();
 session_start();
 error_reporting(0);
@@ -12,8 +12,8 @@ const DB_HOST = "localhost";
 const DB_LOGIN = "admin_pae";
 const DB_PASS = "4mc_z61S4";
 const DB_NAME = "admin_pae";
-$guncel = 'pusulabet880';
-$guncel2 = 'pusulabet881';
+$guncel = 'matbet830';
+$guncel2 = 'matbet831';
 
 // Connecting Database
 $db = new Mysqli(DB_HOST, DB_LOGIN, DB_PASS, DB_NAME);

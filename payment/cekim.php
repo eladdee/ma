@@ -216,16 +216,7 @@ $(document).ready(function(){
                                     <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
                                     <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
                                  </div>
-                                 <div class=cashier-paymeth-list-item title=Havale>
-                                    <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/59.jpg alt=Havale></mm-paymeth-logo>
-                                       <div class=cashier-paymeth-list-name> Havale </div>
-                                       <div class=cashier-paymeth-list-processing-time> Anında </div>
-                                       <div class=cashier-paymeth-list-limits> TRY 50.00 - 100,000.00 </div>
-                                    </div>
-                                    <div class="custom-tooltip sf-hidden">You must make at least one deposit using this payment method before you can withdraw with it</div>
-                                    <div class="maintenance-tooltip sf-hidden">This method is currently under the maintenance</div>
-                                 </div>
+                              
                                  <div class=cashier-paymeth-list-item title=Havale>
                                     <div class=cashier-paymeth-list-item-wrapper>
                                        <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/60.png alt=Havale></mm-paymeth-logo>

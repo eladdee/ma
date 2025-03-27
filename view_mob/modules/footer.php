@@ -439,7 +439,7 @@
       </div>
    </div>
    <div class="NavigationBar  " part="NavigationBar  ">
-      <div class="NavigationPrimaryItemAnchor NavItem0 " part="NavigationPrimaryItemAnchor " onclick="window.location.href = ''">
+      <div class="NavigationPrimaryItemAnchor NavItem0 " part="NavigationPrimaryItemAnchor " onclick="window.location.href = 'https://direct.lc.chat/16139457/'">
          <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-matbet-one/2023/02/50138c87-canli-destek-mat.svg" alt="Canlı Destek"></div>
          <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Canlı Destek</p>
       </div>

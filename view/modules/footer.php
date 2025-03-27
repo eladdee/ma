@@ -41,12 +41,12 @@
             <ul class="footer-social-wrapper">
                <li class="footer-social-item">
                   <a class="ComponentAnchor footer-social-icon Anchor" href="https://t.me/mat_sosyal">
-                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="Telegram" class="PictureImg LazyImage" src="https://www.matbet830.com/stateless-matbet-one/2019/06/4bc8adb3-5842a8fba6515b1e0ad75b03.png"></figure>
+                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="Telegram" class="PictureImg LazyImage" src="/stateless-matbet-one/2019/06/4bc8adb3-5842a8fba6515b1e0ad75b03.png"></figure>
                   </a>
                </li>
                <li class="footer-social-item">
                   <a class="ComponentAnchor footer-social-icon Anchor" href="https://x.com/matbetsosyal_">
-                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="Twitter" class="PictureImg LazyImage" src="https://www.matbet830.com/stateless-matbet-one/2019/06/063619b4-x.png"></figure>
+                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="Twitter" class="PictureImg LazyImage" src="/stateless-matbet-one/2019/06/063619b4-x.png"></figure>
                   </a>
                </li>
             </ul>
@@ -66,18 +66,18 @@
             <h3 class="footer-external-logo-title">Sponsorluklar</h3>
             <ul class="footer-external-logo-list">
                <li class="footer-external-logo-item">
-                  <a class="ComponentAnchor  Anchor" href="https://www.matbet830.com/tr/sponsorluklar">
-                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="" class="PictureImg LazyImage" src="https://www.matbet830.com/stateless-matbet-one/2019/06/ed235f0b-sponsor-300x148-1.png"></figure>
+                  <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="" class="PictureImg LazyImage" src="/stateless-matbet-one/2019/06/ed235f0b-sponsor-300x148-1.png"></figure>
                   </a>
                </li>
                <li class="footer-external-logo-item">
-                  <a class="ComponentAnchor  Anchor" href="https://www.matbet830.com/tr/sponsorluklar">
-                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="" class="PictureImg LazyImage" src="https://www.matbet830.com/stateless-matbet-one/2019/06/93fe0b02-sponsor2-300x148-1.png"></figure>
+                  <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="" class="PictureImg LazyImage" src="/stateless-matbet-one/2019/06/93fe0b02-sponsor2-300x148-1.png"></figure>
                   </a>
                </li>
                <li class="footer-external-logo-item">
-                  <a class="ComponentAnchor  Anchor" href="https://www.matbet830.com/tr/sponsorluklar">
-                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="" class="PictureImg LazyImage" src="https://www.matbet830.com/stateless-matbet-one/2019/06/a7cc0dfe-mat_sponsorlukfooter-1-300x180-1.png"></figure>
+                  <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="" class="PictureImg LazyImage" src="/stateless-matbet-one/2019/06/a7cc0dfe-mat_sponsorlukfooter-1-300x180-1.png"></figure>
                   </a>
                </li>
             </ul>
@@ -104,7 +104,7 @@
             <ul class="footer-external-logo-list">
                <li class="footer-external-logo-item">
                   <a target="_blank" class="ComponentAnchor  Anchor">
-                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="18+" class="PictureImg LazyImage" src="https://www.matbet830.com/stateless-matbet-one/2019/06/b1dc1bd0-mat.png"></figure>
+                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="18+" class="PictureImg LazyImage" src="/stateless-matbet-one/2019/06/b1dc1bd0-mat.png"></figure>
                   </a>
                </li>
                <li class="footer-external-logo-item">
@@ -117,7 +117,7 @@
                </li>
                <li class="footer-external-logo-item">
                   <a target="_blank" class="ComponentAnchor  Anchor" href="https://cert.gcb.cw/certificate?id=ZXlKcGRpSTZJbVZXUWxvelRHRjVhbTlLTVdaRk1rcEViWEppTkVFOVBTSXNJblpoYkhWbElqb2lUMHgxU0hsck9FdG5VakpKV0dKcmJIRkNkU3Q0UVQwOUlpd2liV0ZqSWpvaU1EVmlZMlE1WkRFM1pHRTJNekZsWkRobFlqWTFaR1kwWkRrd05UQm1aRGhsWlRaak1qWmhaR1U1WldJelpqSXlNMkkwTXpRd01EbG1NVFkyTUdGa09TSXNJblJoWnlJNklpSjk=">
-                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="" class="PictureImg LazyImage" src="https://www.matbet830.com/stateless-matbet-one/2019/06/f83f10f0-gcb-orange-seal.png"></figure>
+                     <figure class="Figure ComponentPicture "><img loading="lazy" alt="" class="PictureImg LazyImage" src="/stateless-matbet-one/2019/06/f83f10f0-gcb-orange-seal.png"></figure>
                   </a>
                </li>
             </ul>
